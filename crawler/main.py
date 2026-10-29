@@ -38,6 +38,7 @@ def main():
     p=argparse.ArgumentParser(description='Guanyin crawler / member 1')
     p.add_argument('--urls',default='urls.csv');p.add_argument('--id');p.add_argument('--url')
     p.add_argument('--origin',choices=['teacher','extra']);p.add_argument('--explore',action='store_true')
+    p.add_argument('--include-discovery',action='store_true')
     p.add_argument('--max-extra',type=int,default=2);p.add_argument('--delay',type=float,default=2)
     p.add_argument('--retry-failed',action='store_true');p.add_argument('--resume',action='store_true')
     p.add_argument('--timeout',type=int,default=15);p.add_argument('--retries',type=int,default=2)
@@ -45,7 +46,9 @@ def main():
     p.add_argument('--report',default='output/crawl_report.csv')
     a=p.parse_args()
     if a.delay<0 or a.max_extra<0 or a.retries<0:p.error('數值不能小於 0')
-    entries=[r for r in load_urls(a.urls) if r.get('source_role')!='discovery']
+    entries=load_urls(a.urls)
+    if not a.include_discovery and not a.id:
+        entries=[r for r in entries if r.get('source_role')!='discovery']
     if a.origin:entries=[r for r in entries if r['origin']==a.origin]
     if a.id:entries=[r for r in entries if r['id']==a.id]
     if a.url:

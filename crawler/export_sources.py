@@ -6,10 +6,11 @@ def main():
     p=argparse.ArgumentParser(description='Export source registry for teammates')
     p.add_argument('--file',default='urls.csv')
     p.add_argument('--output',default='output/source_registry.json')
-    p.add_argument('--include-directory',action='store_true')
+    p.add_argument('--content-only',action='store_true')
+    p.add_argument('--include-directory',action='store_true',help='相容舊版；新版預設已包含')
     a=p.parse_args()
     rows=read_rows(a.file)
-    if not a.include_directory:
+    if a.content_only:
         rows=[r for r in rows if r.get('source_role')!='discovery']
     for r in rows:
         r['enabled']=r.get('enabled','true').lower() in ('true','1','yes')

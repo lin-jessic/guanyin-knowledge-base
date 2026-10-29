@@ -1,0 +1,3 @@
+﻿id,url,type,origin,title_hint,topic,publisher,enabled,notes,geo_scope,source_role,review_status,evidence,verified_at
+page_002,https://travel.tycg.gov.tw/zh-tw/travel/district/50,web,teacher,,,,true,教師指定原始清單,teacher_unreviewed,content,teacher_provided,教師原始指定網址（含非官方來源）,
+extra_004,https://www.tycg.gov.tw/cp.aspx?n=38&s=476,web,extra,桃園市政府－觀音區簡介,地方概況,桃園市政府,true,官方／政府資料來源；新增資料，仍需檢查爬取狀態,direct,content,official_page,市府觀音區專屬介紹,2026-10-29
