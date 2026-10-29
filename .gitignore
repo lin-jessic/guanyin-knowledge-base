@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+output/raw_html/
+output/links/
+output/crawl_report.csv
+urls.backup_*.csv
