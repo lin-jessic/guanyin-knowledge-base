@@ -143,34 +143,49 @@ def parse_vtt(path: Path) -> List[Dict[str, Any]]:
 
 
 def download_video_and_metadata(url: str, work_dir: Path) -> Dict[str, Any]:
-    """使用 yt-dlp 下載影片中繼資料、字幕與影片串流。"""
+    """使用 yt-dlp Python API 下載影片中繼資料、字幕與影片串流。"""
     work_dir.mkdir(parents=True, exist_ok=True)
     template = str(work_dir / "%(id)s.%(ext)s")
 
-    cmd = [
-        sys.executable, "-m", "yt_dlp",
-        "--no-playlist",
-        "--write-info-json",
-        "--write-subs",
-        "--write-auto-subs",
-        "--sub-langs", "zh-Hant,zh-TW,zh,zh-Hans,en,all",
-        "--sub-format", "vtt/best",
-        "-f", "bv*[ext=mp4]+ba[ext=m4a]/b[ext=mp4]/best",
-        "--merge-output-format", "mp4",
-        "-o", template,
-        url,
-    ]
+    # 嘗試取得 imageio-ffmpeg 執行檔路徑 (供 Windows 環境直接使用)
+    ffmpeg_exe = None
+    try:
+        import imageio_ffmpeg
+        ffmpeg_exe = imageio_ffmpeg.get_ffmpeg_exe()
+    except Exception:
+        pass
 
-    result = subprocess.run(cmd, capture_output=True, text=True, check=False)
-    if result.returncode != 0:
-        # 若以模組方式失敗，嘗試系統中的 yt-dlp
-        alt_cmd = ["yt-dlp"] + cmd[3:]
-        alt_res = subprocess.run(alt_cmd, capture_output=True, text=True, check=False)
-        if alt_res.returncode != 0:
-            err = alt_res.stderr[-1000:] if alt_res.stderr else result.stderr[-1000:]
-            raise RuntimeError(err.strip() or "yt-dlp 執行失敗")
+    try:
+        import yt_dlp
+        ydl_opts = {
+            "outtmpl": template,
+            "format": "18/best[ext=mp4]/best",
+            "writesubtitles": True,
+            "writeautomaticsub": True,
+            "subtitleslangs": ["zh-TW", "zh-Hant", "zh", "zh-Hans", "en"],
+            "subtitlesformat": "vtt",
+            "writeinfojson": True,
+            "noplaylist": True,
+            "ignoreerrors": True,
+            "extractor_args": {
+                "youtube": {
+                    "player_client": ["android", "ios"]
+                }
+            },
+            "quiet": False,
+            "no_warnings": False,
+        }
+        if ffmpeg_exe:
+            ydl_opts["ffmpeg_location"] = ffmpeg_exe
 
-    return {"status": "ok"}
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            ydl.download([url])
+        return {"status": "ok"}
+    except Exception as exc:
+        # 若已有下載檔案 (如 vtt 或 info.json 或影片)，視為成功抓取中繼資料
+        if list(work_dir.glob("*.info.json")) or list(work_dir.glob("*.vtt")) or list(work_dir.glob("*.mp4")):
+            return {"status": "ok"}
+        raise RuntimeError(f"yt-dlp 下載失敗: {exc}")
 
 
 def whisper_transcribe(audio_or_video: Path, model_name: str = "base") -> List[Dict[str, Any]]:

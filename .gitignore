@@ -1,6 +1,36 @@
+# Python & Virtual Environments
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.pyd
 .venv/
+venv/
+env/
+
+# Video Crawler Downloads & Media Cache (大於 10MB 的影片與音訊暫存，避免塞爆 Git)
+downloads/
+test_work/
+*.mp4
+*.mkv
+*.webm
+*.avi
+*.mov
+*.flv
+*.part
+*.ytdl
+
+# Audio Cache
+*.mp3
+*.m4a
+*.wav
+*.aac
+*.flac
+
+# Whisper model cache
+models/
+.cache/
+
+# Crawler Intermediate Output
 output/raw_html/
 output/links/
 output/crawl_report.csv
