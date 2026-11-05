@@ -76,7 +76,11 @@ def main():
         old=reports.get(e['id'],{})
         now=datetime.now(timezone.utc).astimezone().isoformat(timespec='seconds')
         if e['type']=='video':
-            result=dict(status='pending_video',reason='交由組員三處理，未宣稱已取得影片',http_status='',final_url=url,title='',source_name=urlsplit(url).hostname,html='',links=[],attempts=0,elapsed_ms=0)
+            try:
+                from .video_extractor import process_video
+                result=process_video(e,out_dir=out)
+            except Exception as exc:
+                result=dict(status='failed',reason=f'影片處理異常: {exc}',http_status='500',final_url=url,title='',source_name=urlsplit(url).hostname or 'youtube.com',html='',links=[],attempts=1,elapsed_ms=0)
         else:result=fetch_web(url,timeout=a.timeout,retries=a.retries,respect_robots=not a.no_robots_check)
         digest=hashlib.sha256(result['html'].encode('utf-8')).hexdigest() if result['status']=='success' else ''
         changed='unknown' if not old.get('sha256') or not digest else str(old['sha256']!=digest).lower()
