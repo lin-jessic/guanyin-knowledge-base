@@ -1,0 +1,52 @@
+[
+  {
+    "id": "page_026",
+    "ocr_status": "not_run",
+    "ocr_captions": 0
+  },
+  {
+    "id": "page_027",
+    "ocr_status": "not_run",
+    "ocr_captions": 0
+  },
+  {
+    "id": "page_030",
+    "ocr_status": "not_run",
+    "ocr_captions": 0
+  },
+  {
+    "id": "extra_040",
+    "ocr_status": "not_run",
+    "ocr_captions": 0
+  },
+  {
+    "id": "extra_041",
+    "ocr_status": "done",
+    "ocr_captions": 5
+  },
+  {
+    "id": "extra_042",
+    "ocr_status": "done",
+    "ocr_captions": 150
+  },
+  {
+    "id": "extra_043",
+    "ocr_status": "done",
+    "ocr_captions": 604
+  },
+  {
+    "id": "extra_044",
+    "ocr_status": "done",
+    "ocr_captions": 775
+  },
+  {
+    "id": "extra_045",
+    "ocr_status": "not_run",
+    "ocr_captions": 0
+  },
+  {
+    "id": "extra_046",
+    "ocr_status": "not_run",
+    "ocr_captions": 0
+  }
+]

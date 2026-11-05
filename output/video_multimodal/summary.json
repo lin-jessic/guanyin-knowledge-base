@@ -1,0 +1,82 @@
+[
+  {
+    "id": "page_026",
+    "audio": "missing_media",
+    "ocr": "missing_media",
+    "cc": 1002,
+    "excluded": 0,
+    "ocr_count": 0
+  },
+  {
+    "id": "page_027",
+    "audio": "failed: URL fetch failure on https://github.com/ina-foss/inaSpeechSegmenter/releases/download/models/keras_speech_music_noise_cnn.hdf5: None -- [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get issuer certificate (_ssl.c:1000)",
+    "ocr": "done",
+    "cc": 9,
+    "excluded": 0,
+    "ocr_count": 8
+  },
+  {
+    "id": "page_030",
+    "audio": "failed: ffmpeg program not found",
+    "ocr": "done",
+    "cc": 384,
+    "excluded": 0,
+    "ocr_count": 505
+  },
+  {
+    "id": "extra_040",
+    "audio": "failed: ffmpeg program not found",
+    "ocr": "not_run",
+    "cc": 933,
+    "excluded": 0,
+    "ocr_count": 0
+  },
+  {
+    "id": "extra_041",
+    "audio": "failed: ffmpeg program not found",
+    "ocr": "not_run",
+    "cc": 0,
+    "excluded": 0,
+    "ocr_count": 0
+  },
+  {
+    "id": "extra_042",
+    "audio": "failed: ffmpeg program not found",
+    "ocr": "not_run",
+    "cc": 160,
+    "excluded": 0,
+    "ocr_count": 0
+  },
+  {
+    "id": "extra_043",
+    "audio": "failed: ffmpeg program not found",
+    "ocr": "not_run",
+    "cc": 0,
+    "excluded": 153,
+    "ocr_count": 0
+  },
+  {
+    "id": "extra_044",
+    "audio": "failed: ffmpeg program not found",
+    "ocr": "not_run",
+    "cc": 0,
+    "excluded": 290,
+    "ocr_count": 0
+  },
+  {
+    "id": "extra_045",
+    "audio": "failed: ffmpeg program not found",
+    "ocr": "not_run",
+    "cc": 164,
+    "excluded": 0,
+    "ocr_count": 0
+  },
+  {
+    "id": "extra_046",
+    "audio": "failed: ffmpeg program not found",
+    "ocr": "not_run",
+    "cc": 1197,
+    "excluded": 0,
+    "ocr_count": 0
+  }
+]

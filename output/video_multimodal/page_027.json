@@ -1,0 +1,299 @@
+{
+  "id": "page_027",
+  "title": "桃園觀音一日遊｜百合花海＋綠色隧道＋百年燈塔 #旅行 #景點 #賞花",
+  "source_url": "https://youtube.com/shorts/uRHrog9kbvA?si=HV51h_uice8StG-i",
+  "video_id": "uRHrog9kbvA",
+  "duration": 23,
+  "raw_status": "success (youtube_vtt (.vtt))",
+  "subtitle_source": "youtube_cc",
+  "metrics": {
+    "segments": 9,
+    "chinese_ratio": 1.0,
+    "english_ratio": 0.0,
+    "music_ratio": 0.0,
+    "duplicate_ratio": 0.0,
+    "very_short_ratio": 0.111
+  },
+  "audio_status": "failed: URL fetch failure on https://github.com/ina-foss/inaSpeechSegmenter/releases/download/models/keras_speech_music_noise_cnn.hdf5: None -- [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get issuer certificate (_ssl.c:1000)",
+  "audio_segments": [],
+  "subtitle_segments": [
+    {
+      "start": "00:00",
+      "end": "00:01",
+      "start_seconds": 0.666,
+      "end_seconds": 1.333,
+      "text": "我是雲",
+      "source": "youtube_cc",
+      "verified": false
+    },
+    {
+      "start": "00:01",
+      "end": "00:03",
+      "start_seconds": 1.5,
+      "end_seconds": 3.6,
+      "text": "這次來到桃園市觀音區一日遊",
+      "source": "youtube_cc",
+      "verified": false
+    },
+    {
+      "start": "00:05",
+      "end": "00:07",
+      "start_seconds": 5.0,
+      "end_seconds": 7.5,
+      "text": "先到「白千層鐵炮百合花園」賞花海",
+      "source": "youtube_cc",
+      "verified": false
+    },
+    {
+      "start": "00:08",
+      "end": "00:11",
+      "start_seconds": 8.366,
+      "end_seconds": 11.0,
+      "text": "再走進綠色隧道，漫步「白千層林道」",
+      "source": "youtube_cc",
+      "verified": false
+    },
+    {
+      "start": "00:11",
+      "end": "00:13",
+      "start_seconds": 11.366,
+      "end_seconds": 13.133,
+      "text": "接著前往「好客食堂」用餐",
+      "source": "youtube_cc",
+      "verified": false
+    },
+    {
+      "start": "00:13",
+      "end": "00:15",
+      "start_seconds": 13.466,
+      "end_seconds": 15.466,
+      "text": "並在「崙坪文化地景園區」散步",
+      "source": "youtube_cc",
+      "verified": false
+    },
+    {
+      "start": "00:16",
+      "end": "00:18",
+      "start_seconds": 16.466,
+      "end_seconds": 18.566,
+      "text": "最後到「白沙岬燈塔」參觀",
+      "source": "youtube_cc",
+      "verified": false
+    },
+    {
+      "start": "00:19",
+      "end": "00:20",
+      "start_seconds": 19.466,
+      "end_seconds": 20.966,
+      "text": "欲知詳情，快點連結",
+      "source": "youtube_cc",
+      "verified": false
+    },
+    {
+      "start": "00:21",
+      "end": "00:22",
+      "start_seconds": 21.133,
+      "end_seconds": 22.866,
+      "text": "若喜歡，按讚，訂閱",
+      "source": "youtube_cc",
+      "verified": false
+    }
+  ],
+  "excluded_subtitles": [],
+  "ocr_status": "done",
+  "ocr_segments": [
+    {
+      "start_seconds": 0.0,
+      "end_seconds": 3.0,
+      "text": "桃園觀音",
+      "confidence": 0.714,
+      "position": [
+        100.5,
+        73.5
+      ],
+      "source": "ocr",
+      "verified": false,
+      "start": "00:00",
+      "end": "00:03"
+    },
+    {
+      "start_seconds": 0.0,
+      "end_seconds": 3.0,
+      "text": "一日游",
+      "confidence": 0.994,
+      "position": [
+        102.0,
+        113.5
+      ],
+      "source": "ocr",
+      "verified": false,
+      "start": "00:00",
+      "end": "00:03"
+    },
+    {
+      "start_seconds": 3.0,
+      "end_seconds": 6.0,
+      "text": "这次来到桃園市觀音區一日遵",
+      "confidence": 0.819,
+      "position": [
+        102.0,
+        68.0
+      ],
+      "source": "ocr",
+      "verified": false,
+      "start": "00:03",
+      "end": "00:06"
+    },
+    {
+      "start_seconds": 6.0,
+      "end_seconds": 9.0,
+      "text": "先到白千眉烟百合花阁其花海",
+      "confidence": 0.732,
+      "position": [
+        101.0,
+        67.5
+      ],
+      "source": "ocr",
+      "verified": false,
+      "start": "00:06",
+      "end": "00:09"
+    },
+    {
+      "start_seconds": 9.0,
+      "end_seconds": 12.0,
+      "text": "再走進缘色隧道，漫步白千屠林道",
+      "confidence": 0.883,
+      "position": [
+        98.5,
+        67.5
+      ],
+      "source": "ocr",
+      "verified": false,
+      "start": "00:09",
+      "end": "00:12"
+    },
+    {
+      "start_seconds": 12.0,
+      "end_seconds": 15.0,
+      "text": "接著前往「好客食堂」用餐",
+      "confidence": 0.941,
+      "position": [
+        101.0,
+        67.5
+      ],
+      "source": "ocr",
+      "verified": false,
+      "start": "00:12",
+      "end": "00:15"
+    },
+    {
+      "start_seconds": 15.0,
+      "end_seconds": 18.0,
+      "text": "在斋文化地景品散步",
+      "confidence": 0.85,
+      "position": [
+        101.0,
+        67.0
+      ],
+      "source": "ocr",
+      "verified": false,
+      "start": "00:15",
+      "end": "00:18"
+    },
+    {
+      "start_seconds": 18.0,
+      "end_seconds": 21.0,
+      "text": "最後到「白沙钾燈塔]参觀",
+      "confidence": 0.791,
+      "position": [
+        101.0,
+        67.5
+      ],
+      "source": "ocr",
+      "verified": false,
+      "start": "00:18",
+      "end": "00:21"
+    }
+  ],
+  "translation_status": "no_english_narration",
+  "translations": [],
+  "images": [
+    {
+      "path": "images/page_027_frame_01.jpg",
+      "filename": "page_027_frame_01.jpg",
+      "timestamp": "00:01",
+      "seconds": 1.5,
+      "description": "這次來到桃園市觀音區一日遊"
+    },
+    {
+      "path": "images/page_027_frame_02.jpg",
+      "filename": "page_027_frame_02.jpg",
+      "timestamp": "00:08",
+      "seconds": 8.03,
+      "description": "觀音區相關影片畫面"
+    },
+    {
+      "path": "images/page_027_frame_03.jpg",
+      "filename": "page_027_frame_03.jpg",
+      "timestamp": "00:12",
+      "seconds": 12.61,
+      "description": "接著前往「好客食堂」用餐"
+    },
+    {
+      "path": "images/page_027_frame_04.jpg",
+      "filename": "page_027_frame_04.jpg",
+      "timestamp": "00:16",
+      "seconds": 16.47,
+      "description": "最後到「白沙岬燈塔」參觀"
+    }
+  ],
+  "topics": [
+    "地方文化與生活記憶"
+  ],
+  "review": {},
+  "events": [
+    {
+      "name": "讀取影片來源",
+      "status": "done",
+      "detail": "桃園觀音一日遊｜百合花海＋綠色隧道＋百年燈塔 #旅行 #景點 #賞花",
+      "recorded_at": "2026-11-05T10:08:04+00:00"
+    },
+    {
+      "name": "聲音分類",
+      "status": "skipped",
+      "detail": "failed: URL fetch failure on https://github.com/ina-foss/inaSpeechSegmenter/releases/download/models/keras_speech_music_noise_cnn.hdf5: None -- [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get issuer certificate (_ssl.c:1000)",
+      "recorded_at": "2026-11-05T10:08:04+00:00"
+    },
+    {
+      "name": "CC／語音字幕整理",
+      "status": "done",
+      "detail": "youtube_cc：保留 9 段；隔離 0 段",
+      "recorded_at": "2026-11-05T10:08:04+00:00"
+    },
+    {
+      "name": "畫面 OCR",
+      "status": "done",
+      "detail": "done",
+      "recorded_at": "2026-11-05T10:08:04+00:00"
+    },
+    {
+      "name": "人工文字修正",
+      "status": "skipped",
+      "detail": "依修正清單套用 0 處",
+      "recorded_at": "2026-11-05T10:08:04+00:00"
+    },
+    {
+      "name": "選擇性翻譯",
+      "status": "skipped",
+      "detail": "no_english_narration",
+      "recorded_at": "2026-11-05T10:08:04+00:00"
+    },
+    {
+      "name": "交叉整合",
+      "status": "done",
+      "detail": "保留來源、時間戳記與不同文字來源；自動分類不等於史料查證",
+      "recorded_at": "2026-11-05T10:08:04+00:00"
+    }
+  ],
+  "generated_at": "2026-11-05T10:08:04+00:00"
+}

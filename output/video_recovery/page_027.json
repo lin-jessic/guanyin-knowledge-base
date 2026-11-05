@@ -1,0 +1,140 @@
+{
+  "id": "page_027",
+  "title": "桃園觀音一日遊｜百合花海＋綠色隧道＋百年燈塔 #旅行 #景點 #賞花",
+  "url": "https://youtube.com/shorts/uRHrog9kbvA?si=HV51h_uice8StG-i",
+  "duration": 23.0,
+  "language_mode": "normal",
+  "cc_source": "youtube",
+  "ocr_status": "not_run",
+  "ocr_raw": [],
+  "ocr_captions": [],
+  "ocr_titles": [],
+  "speech_subtitles": [
+    {
+      "start": "00:00",
+      "end": "00:01",
+      "start_seconds": 0.666,
+      "end_seconds": 1.333,
+      "text": "我是雲",
+      "source": "youtube_cc"
+    },
+    {
+      "start": "00:01",
+      "end": "00:03",
+      "start_seconds": 1.5,
+      "end_seconds": 3.6,
+      "text": "這次來到桃園市觀音區一日遊",
+      "source": "youtube_cc"
+    },
+    {
+      "start": "00:05",
+      "end": "00:07",
+      "start_seconds": 5.0,
+      "end_seconds": 7.5,
+      "text": "先到「白千層鐵炮百合花園」賞花海",
+      "source": "youtube_cc"
+    },
+    {
+      "start": "00:08",
+      "end": "00:11",
+      "start_seconds": 8.366,
+      "end_seconds": 11.0,
+      "text": "再走進綠色隧道，漫步「白千層林道」",
+      "source": "youtube_cc"
+    },
+    {
+      "start": "00:11",
+      "end": "00:13",
+      "start_seconds": 11.366,
+      "end_seconds": 13.133,
+      "text": "接著前往「好客食堂」用餐",
+      "source": "youtube_cc"
+    },
+    {
+      "start": "00:13",
+      "end": "00:15",
+      "start_seconds": 13.466,
+      "end_seconds": 15.466,
+      "text": "並在「崙坪文化地景園區」散步",
+      "source": "youtube_cc"
+    },
+    {
+      "start": "00:16",
+      "end": "00:18",
+      "start_seconds": 16.466,
+      "end_seconds": 18.566,
+      "text": "最後到「白沙岬燈塔」參觀",
+      "source": "youtube_cc"
+    },
+    {
+      "start": "00:19",
+      "end": "00:20",
+      "start_seconds": 19.466,
+      "end_seconds": 20.966,
+      "text": "欲知詳情，快點連結",
+      "source": "youtube_cc"
+    },
+    {
+      "start": "00:21",
+      "end": "00:22",
+      "start_seconds": 21.133,
+      "end_seconds": 22.866,
+      "text": "若喜歡，按讚，訂閱",
+      "source": "youtube_cc"
+    }
+  ],
+  "raw_subtitle_count": 9,
+  "suppressed_asr": 0,
+  "images": [
+    {
+      "path": "images/page_027_frame_01.jpg",
+      "filename": "page_027_frame_01.jpg",
+      "timestamp": "00:01",
+      "seconds": 1.5,
+      "description": "這次來到桃園市觀音區一日遊"
+    },
+    {
+      "path": "images/page_027_frame_02.jpg",
+      "filename": "page_027_frame_02.jpg",
+      "timestamp": "00:08",
+      "seconds": 8.03,
+      "description": "觀音區相關影片畫面"
+    },
+    {
+      "path": "images/page_027_frame_03.jpg",
+      "filename": "page_027_frame_03.jpg",
+      "timestamp": "00:12",
+      "seconds": 12.61,
+      "description": "接著前往「好客食堂」用餐"
+    },
+    {
+      "path": "images/page_027_frame_04.jpg",
+      "filename": "page_027_frame_04.jpg",
+      "timestamp": "00:16",
+      "seconds": 16.47,
+      "description": "最後到「白沙岬燈塔」參觀"
+    }
+  ],
+  "process": [
+    {
+      "name": "原始影音與字幕",
+      "count": 9
+    },
+    {
+      "name": "影格 OCR",
+      "count": 0
+    },
+    {
+      "name": "畫面文字合併",
+      "count": 0
+    },
+    {
+      "name": "字幕來源分流",
+      "count": 9
+    },
+    {
+      "name": "保留原始來源",
+      "count": 9
+    }
+  ]
+}

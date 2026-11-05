@@ -1,0 +1,3003 @@
+{
+  "id": "extra_044",
+  "title": "❣️桃園蓮花季開幕｜蓮花園 + 莫內的花園 + 蓮荷園 + 向陽農場一日遊｜Taoyuan Lotus Festival, Taiwan",
+  "source_url": "https://www.youtube.com/watch?v=hD7z371g-wg",
+  "video_id": "hD7z371g-wg",
+  "duration": 2349,
+  "raw_status": "success (youtube_vtt (.vtt))",
+  "subtitle_source": "youtube_cc",
+  "metrics": {
+    "segments": 290,
+    "chinese_ratio": 0.0,
+    "english_ratio": 1.0,
+    "music_ratio": 0.893,
+    "duplicate_ratio": 0.848,
+    "very_short_ratio": 0.003
+  },
+  "audio_status": "failed: ffmpeg program not found",
+  "audio_segments": [],
+  "subtitle_segments": [],
+  "excluded_subtitles": [
+    {
+      "start": "00:05",
+      "end": "00:07",
+      "start_seconds": 5.239,
+      "end_seconds": 7.259,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "00:11",
+      "end": "00:13",
+      "start_seconds": 11.79,
+      "end_seconds": 13.81,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "00:17",
+      "end": "00:19",
+      "start_seconds": 17.685,
+      "end_seconds": 19.705,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "00:22",
+      "end": "00:24",
+      "start_seconds": 22.925,
+      "end_seconds": 24.945,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "00:28",
+      "end": "00:31",
+      "start_seconds": 28.165,
+      "end_seconds": 31.359,
+      "text": "[music] All",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "00:49",
+      "end": "00:53",
+      "start_seconds": 49.44,
+      "end_seconds": 53.0,
+      "text": "right, sunj.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "01:21",
+      "end": "01:24",
+      "start_seconds": 81.6,
+      "end_seconds": 84.479,
+      "text": "It's a downline.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "01:24",
+      "end": "01:26",
+      "start_seconds": 84.495,
+      "end_seconds": 86.515,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "01:29",
+      "end": "01:31",
+      "start_seconds": 89.735,
+      "end_seconds": 91.755,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "01:36",
+      "end": "01:38",
+      "start_seconds": 96.941,
+      "end_seconds": 98.961,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "01:50",
+      "end": "01:52",
+      "start_seconds": 110.696,
+      "end_seconds": 112.716,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "02:02",
+      "end": "02:04",
+      "start_seconds": 122.486,
+      "end_seconds": 124.506,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "02:07",
+      "end": "02:09",
+      "start_seconds": 127.071,
+      "end_seconds": 129.091,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "02:12",
+      "end": "02:14",
+      "start_seconds": 132.311,
+      "end_seconds": 134.331,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "02:21",
+      "end": "02:23",
+      "start_seconds": 141.481,
+      "end_seconds": 143.501,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "02:29",
+      "end": "02:32",
+      "start_seconds": 149.996,
+      "end_seconds": 152.016,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "02:38",
+      "end": "02:40",
+      "start_seconds": 158.511,
+      "end_seconds": 160.531,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "02:54",
+      "end": "02:56",
+      "start_seconds": 174.231,
+      "end_seconds": 176.251,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "03:00",
+      "end": "03:02",
+      "start_seconds": 180.782,
+      "end_seconds": 182.802,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "03:08",
+      "end": "03:11",
+      "start_seconds": 188.72,
+      "end_seconds": 191.317,
+      "text": "&gt;&gt; Oh Yeah. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "03:13",
+      "end": "03:15",
+      "start_seconds": 193.882,
+      "end_seconds": 195.902,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "03:18",
+      "end": "03:20",
+      "start_seconds": 198.467,
+      "end_seconds": 200.487,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "03:32",
+      "end": "03:35",
+      "start_seconds": 212.0,
+      "end_seconds": 215.552,
+      "text": "Heat. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "03:38",
+      "end": "03:40",
+      "start_seconds": 218.117,
+      "end_seconds": 220.137,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "03:49",
+      "end": "03:51",
+      "start_seconds": 229.907,
+      "end_seconds": 231.927,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "03:55",
+      "end": "03:58",
+      "start_seconds": 235.36,
+      "end_seconds": 238.36,
+      "text": "&gt;&gt; workout.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "04:04",
+      "end": "04:07",
+      "start_seconds": 244.56,
+      "end_seconds": 247.56,
+      "text": "Huh?",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "04:15",
+      "end": "04:18",
+      "start_seconds": 255.12,
+      "end_seconds": 258.28,
+      "text": "I don't know.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "04:46",
+      "end": "04:51",
+      "start_seconds": 286.238,
+      "end_seconds": 291.24,
+      "text": "&gt;&gt; [laughter] &gt;&gt; I can't be",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "05:24",
+      "end": "05:26",
+      "start_seconds": 324.883,
+      "end_seconds": 326.903,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "05:32",
+      "end": "05:34",
+      "start_seconds": 332.743,
+      "end_seconds": 334.763,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "05:34",
+      "end": "05:37",
+      "start_seconds": 334.8,
+      "end_seconds": 337.8,
+      "text": "Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "05:39",
+      "end": "05:41",
+      "start_seconds": 339.948,
+      "end_seconds": 341.968,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "05:44",
+      "end": "05:46",
+      "start_seconds": 344.533,
+      "end_seconds": 346.553,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "05:55",
+      "end": "05:59",
+      "start_seconds": 355.014,
+      "end_seconds": 359.56,
+      "text": "[music] Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "05:59",
+      "end": "06:01",
+      "start_seconds": 359.599,
+      "end_seconds": 361.619,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "06:04",
+      "end": "06:06",
+      "start_seconds": 364.839,
+      "end_seconds": 366.859,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "06:16",
+      "end": "06:19",
+      "start_seconds": 376.08,
+      "end_seconds": 379.304,
+      "text": "&gt;&gt; Heat. Heat. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "06:27",
+      "end": "06:29",
+      "start_seconds": 387.109,
+      "end_seconds": 389.129,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "06:34",
+      "end": "06:36",
+      "start_seconds": 394.314,
+      "end_seconds": 396.334,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "06:43",
+      "end": "06:45",
+      "start_seconds": 403.484,
+      "end_seconds": 405.504,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "07:00",
+      "end": "07:02",
+      "start_seconds": 420.514,
+      "end_seconds": 422.534,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "07:10",
+      "end": "07:12",
+      "start_seconds": 430.339,
+      "end_seconds": 432.359,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "07:19",
+      "end": "07:21",
+      "start_seconds": 439.509,
+      "end_seconds": 441.529,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "07:24",
+      "end": "07:26",
+      "start_seconds": 444.75,
+      "end_seconds": 446.77,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "07:37",
+      "end": "07:39",
+      "start_seconds": 457.85,
+      "end_seconds": 459.87,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "07:44",
+      "end": "07:46",
+      "start_seconds": 464.4,
+      "end_seconds": 466.42,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "07:51",
+      "end": "07:53",
+      "start_seconds": 471.605,
+      "end_seconds": 473.625,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "08:01",
+      "end": "08:03",
+      "start_seconds": 481.43,
+      "end_seconds": 483.45,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "08:06",
+      "end": "08:08",
+      "start_seconds": 486.015,
+      "end_seconds": 488.035,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "08:10",
+      "end": "08:12",
+      "start_seconds": 490.6,
+      "end_seconds": 492.62,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "08:27",
+      "end": "08:29",
+      "start_seconds": 507.63,
+      "end_seconds": 509.65,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "08:33",
+      "end": "08:35",
+      "start_seconds": 513.525,
+      "end_seconds": 515.545,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "08:38",
+      "end": "08:40",
+      "start_seconds": 518.11,
+      "end_seconds": 520.13,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "08:52",
+      "end": "08:54",
+      "start_seconds": 532.521,
+      "end_seconds": 534.541,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "09:00",
+      "end": "09:02",
+      "start_seconds": 540.381,
+      "end_seconds": 542.401,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "09:08",
+      "end": "09:10",
+      "start_seconds": 548.896,
+      "end_seconds": 550.916,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "09:19",
+      "end": "09:21",
+      "start_seconds": 559.376,
+      "end_seconds": 561.396,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "09:23",
+      "end": "09:28",
+      "start_seconds": 563.961,
+      "end_seconds": 568.72,
+      "text": "[music] &gt;&gt; Heat. Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "09:37",
+      "end": "09:39",
+      "start_seconds": 577.716,
+      "end_seconds": 579.736,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "09:56",
+      "end": "09:58",
+      "start_seconds": 596.711,
+      "end_seconds": 598.731,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "10:03",
+      "end": "10:05",
+      "start_seconds": 603.261,
+      "end_seconds": 605.281,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "10:11",
+      "end": "10:13",
+      "start_seconds": 611.121,
+      "end_seconds": 613.141,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "10:13",
+      "end": "10:16",
+      "start_seconds": 613.2,
+      "end_seconds": 616.279,
+      "text": "&gt;&gt; Heat. Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "10:18",
+      "end": "10:22",
+      "start_seconds": 618.982,
+      "end_seconds": 622.279,
+      "text": "[music] Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "10:23",
+      "end": "10:25",
+      "start_seconds": 623.567,
+      "end_seconds": 625.587,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "10:30",
+      "end": "10:33",
+      "start_seconds": 630.117,
+      "end_seconds": 633.447,
+      "text": "[singing] Heat. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "10:38",
+      "end": "10:40",
+      "start_seconds": 638.632,
+      "end_seconds": 640.652,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "10:43",
+      "end": "10:45",
+      "start_seconds": 643.217,
+      "end_seconds": 645.237,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "10:50",
+      "end": "10:55",
+      "start_seconds": 650.422,
+      "end_seconds": 655.24,
+      "text": "[music] &gt;&gt; Heat up",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "10:58",
+      "end": "11:01",
+      "start_seconds": 658.282,
+      "end_seconds": 661.56,
+      "text": "[music] here.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "11:04",
+      "end": "11:08",
+      "start_seconds": 664.399,
+      "end_seconds": 668.817,
+      "text": "Heat. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "11:19",
+      "end": "11:21",
+      "start_seconds": 679.242,
+      "end_seconds": 681.262,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "11:23",
+      "end": "11:27",
+      "start_seconds": 683.2,
+      "end_seconds": 687.812,
+      "text": "Heat. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "11:33",
+      "end": "11:35",
+      "start_seconds": 693.652,
+      "end_seconds": 695.672,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "11:38",
+      "end": "11:40",
+      "start_seconds": 698.237,
+      "end_seconds": 700.257,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "11:42",
+      "end": "11:46",
+      "start_seconds": 702.48,
+      "end_seconds": 706.68,
+      "text": "&gt;&gt; Heat. Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "11:46",
+      "end": "11:48",
+      "start_seconds": 706.753,
+      "end_seconds": 708.773,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "12:01",
+      "end": "12:03",
+      "start_seconds": 721.519,
+      "end_seconds": 723.838,
+      "text": "Heat. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "12:06",
+      "end": "12:08",
+      "start_seconds": 726.403,
+      "end_seconds": 728.423,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "12:10",
+      "end": "12:13",
+      "start_seconds": 730.48,
+      "end_seconds": 733.008,
+      "text": "Heat. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "12:15",
+      "end": "12:18",
+      "start_seconds": 735.76,
+      "end_seconds": 738.76,
+      "text": "Oh,",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "12:21",
+      "end": "12:23",
+      "start_seconds": 741.468,
+      "end_seconds": 743.488,
+      "text": "[music and singing]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "12:25",
+      "end": "12:27",
+      "start_seconds": 745.398,
+      "end_seconds": 747.418,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "12:34",
+      "end": "12:37",
+      "start_seconds": 754.88,
+      "end_seconds": 757.88,
+      "text": "heat, heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "12:45",
+      "end": "12:47",
+      "start_seconds": 765.048,
+      "end_seconds": 767.068,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "12:56",
+      "end": "12:58",
+      "start_seconds": 776.838,
+      "end_seconds": 778.858,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "13:02",
+      "end": "13:04",
+      "start_seconds": 782.078,
+      "end_seconds": 784.098,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "13:18",
+      "end": "13:24",
+      "start_seconds": 798.454,
+      "end_seconds": 804.349,
+      "text": "[music] &gt;&gt; Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "13:21",
+      "end": "13:26",
+      "start_seconds": 801.6,
+      "end_seconds": 806.369,
+      "text": "Heat. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "13:28",
+      "end": "13:31",
+      "start_seconds": 808.0,
+      "end_seconds": 811.0,
+      "text": "Heat. Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "13:36",
+      "end": "13:38",
+      "start_seconds": 816.139,
+      "end_seconds": 818.159,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "13:45",
+      "end": "13:47",
+      "start_seconds": 825.309,
+      "end_seconds": 827.329,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "13:49",
+      "end": "13:51",
+      "start_seconds": 829.894,
+      "end_seconds": 831.914,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "13:57",
+      "end": "13:59",
+      "start_seconds": 837.754,
+      "end_seconds": 839.774,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "14:03",
+      "end": "14:08",
+      "start_seconds": 843.36,
+      "end_seconds": 848.944,
+      "text": "&gt;&gt; Heat up here. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "14:14",
+      "end": "14:16",
+      "start_seconds": 854.129,
+      "end_seconds": 856.149,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "14:18",
+      "end": "14:20",
+      "start_seconds": 858.714,
+      "end_seconds": 860.734,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "14:28",
+      "end": "14:31",
+      "start_seconds": 868.72,
+      "end_seconds": 871.214,
+      "text": "&gt;&gt; Heat. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "14:31",
+      "end": "14:35",
+      "start_seconds": 871.76,
+      "end_seconds": 875.8,
+      "text": "Heat. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "14:39",
+      "end": "14:41",
+      "start_seconds": 879.02,
+      "end_seconds": 881.04,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "14:44",
+      "end": "14:46",
+      "start_seconds": 884.915,
+      "end_seconds": 886.935,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "14:48",
+      "end": "14:51",
+      "start_seconds": 888.959,
+      "end_seconds": 891.52,
+      "text": "&gt;&gt; Heat. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "14:53",
+      "end": "14:56",
+      "start_seconds": 893.36,
+      "end_seconds": 896.36,
+      "text": "Heat. Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "15:02",
+      "end": "15:04",
+      "start_seconds": 902.6,
+      "end_seconds": 904.62,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "15:07",
+      "end": "15:09",
+      "start_seconds": 907.185,
+      "end_seconds": 909.205,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "15:15",
+      "end": "15:17",
+      "start_seconds": 915.045,
+      "end_seconds": 917.065,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "15:19",
+      "end": "15:21",
+      "start_seconds": 919.63,
+      "end_seconds": 921.65,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "15:26",
+      "end": "15:32",
+      "start_seconds": 926.18,
+      "end_seconds": 932.075,
+      "text": "[music] &gt;&gt; Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "15:30",
+      "end": "15:34",
+      "start_seconds": 930.32,
+      "end_seconds": 934.095,
+      "text": "Heat. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "15:37",
+      "end": "15:39",
+      "start_seconds": 937.12,
+      "end_seconds": 939.99,
+      "text": "Heat. Heat. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "15:45",
+      "end": "15:47",
+      "start_seconds": 945.175,
+      "end_seconds": 947.195,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "15:49",
+      "end": "15:51",
+      "start_seconds": 949.76,
+      "end_seconds": 951.78,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "15:56",
+      "end": "15:58",
+      "start_seconds": 956.965,
+      "end_seconds": 958.985,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "16:08",
+      "end": "16:10",
+      "start_seconds": 968.101,
+      "end_seconds": 970.121,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "16:15",
+      "end": "16:17",
+      "start_seconds": 975.306,
+      "end_seconds": 977.326,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "16:21",
+      "end": "16:23",
+      "start_seconds": 981.201,
+      "end_seconds": 983.221,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "16:28",
+      "end": "16:30",
+      "start_seconds": 988.406,
+      "end_seconds": 990.426,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "16:32",
+      "end": "16:35",
+      "start_seconds": 992.991,
+      "end_seconds": 995.011,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "16:39",
+      "end": "16:41",
+      "start_seconds": 999.541,
+      "end_seconds": 1001.561,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "16:46",
+      "end": "16:48",
+      "start_seconds": 1006.746,
+      "end_seconds": 1008.766,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "16:53",
+      "end": "16:55",
+      "start_seconds": 1013.951,
+      "end_seconds": 1015.971,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "17:05",
+      "end": "17:07",
+      "start_seconds": 1025.086,
+      "end_seconds": 1027.106,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "17:08",
+      "end": "17:11",
+      "start_seconds": 1028.0,
+      "end_seconds": 1031.0,
+      "text": "&gt;&gt; Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "17:13",
+      "end": "17:15",
+      "start_seconds": 1033.601,
+      "end_seconds": 1035.621,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "17:16",
+      "end": "17:20",
+      "start_seconds": 1036.559,
+      "end_seconds": 1040.206,
+      "text": "Heat. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "17:24",
+      "end": "17:26",
+      "start_seconds": 1044.081,
+      "end_seconds": 1046.101,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "17:30",
+      "end": "17:32",
+      "start_seconds": 1050.632,
+      "end_seconds": 1052.652,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "17:37",
+      "end": "17:39",
+      "start_seconds": 1057.182,
+      "end_seconds": 1059.202,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "17:48",
+      "end": "17:50",
+      "start_seconds": 1068.972,
+      "end_seconds": 1070.992,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "17:54",
+      "end": "17:56",
+      "start_seconds": 1074.212,
+      "end_seconds": 1076.232,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "18:02",
+      "end": "18:04",
+      "start_seconds": 1082.072,
+      "end_seconds": 1084.092,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "18:09",
+      "end": "18:11",
+      "start_seconds": 1089.277,
+      "end_seconds": 1091.297,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "18:21",
+      "end": "18:23",
+      "start_seconds": 1101.067,
+      "end_seconds": 1103.087,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "18:27",
+      "end": "18:29",
+      "start_seconds": 1107.617,
+      "end_seconds": 1109.637,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "18:34",
+      "end": "18:36",
+      "start_seconds": 1114.822,
+      "end_seconds": 1116.842,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "18:41",
+      "end": "18:43",
+      "start_seconds": 1121.372,
+      "end_seconds": 1123.392,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "18:45",
+      "end": "18:48",
+      "start_seconds": 1125.679,
+      "end_seconds": 1128.679,
+      "text": "&gt;&gt; Foreign",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "19:12",
+      "end": "19:15",
+      "start_seconds": 1152.24,
+      "end_seconds": 1155.24,
+      "text": "speech. Foreign speech.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "19:54",
+      "end": "20:00",
+      "start_seconds": 1194.24,
+      "end_seconds": 1200.683,
+      "text": "Uh &gt;&gt; yeah, I know.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "19:58",
+      "end": "20:00",
+      "start_seconds": 1198.663,
+      "end_seconds": 1200.683,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "20:04",
+      "end": "20:06",
+      "start_seconds": 1204.558,
+      "end_seconds": 1206.578,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "20:19",
+      "end": "20:23",
+      "start_seconds": 1219.36,
+      "end_seconds": 1223.609,
+      "text": "Heat. Heat. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "20:26",
+      "end": "20:28",
+      "start_seconds": 1226.829,
+      "end_seconds": 1228.849,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "20:34",
+      "end": "20:36",
+      "start_seconds": 1234.034,
+      "end_seconds": 1236.054,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "20:47",
+      "end": "20:49",
+      "start_seconds": 1247.789,
+      "end_seconds": 1249.809,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "20:52",
+      "end": "20:54",
+      "start_seconds": 1252.374,
+      "end_seconds": 1254.394,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "20:58",
+      "end": "21:00",
+      "start_seconds": 1258.924,
+      "end_seconds": 1260.944,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "21:06",
+      "end": "21:08",
+      "start_seconds": 1266.784,
+      "end_seconds": 1268.804,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "21:13",
+      "end": "21:15",
+      "start_seconds": 1273.334,
+      "end_seconds": 1275.354,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "21:25",
+      "end": "21:27",
+      "start_seconds": 1285.779,
+      "end_seconds": 1287.799,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "21:31",
+      "end": "21:37",
+      "start_seconds": 1291.674,
+      "end_seconds": 1297.64,
+      "text": "[music] &gt;&gt; Heat. Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "21:34",
+      "end": "21:37",
+      "start_seconds": 1294.64,
+      "end_seconds": 1297.64,
+      "text": "Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "21:40",
+      "end": "21:42",
+      "start_seconds": 1300.844,
+      "end_seconds": 1302.864,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "21:50",
+      "end": "21:52",
+      "start_seconds": 1310.67,
+      "end_seconds": 1312.69,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "21:54",
+      "end": "21:57",
+      "start_seconds": 1314.24,
+      "end_seconds": 1317.93,
+      "text": "Heat. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "22:02",
+      "end": "22:04",
+      "start_seconds": 1322.46,
+      "end_seconds": 1324.48,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "22:12",
+      "end": "22:16",
+      "start_seconds": 1332.94,
+      "end_seconds": 1336.84,
+      "text": "[music] &gt;&gt; Heat. Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "22:20",
+      "end": "22:22",
+      "start_seconds": 1340.145,
+      "end_seconds": 1342.165,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "22:31",
+      "end": "22:33",
+      "start_seconds": 1351.28,
+      "end_seconds": 1353.3,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "22:41",
+      "end": "22:43",
+      "start_seconds": 1361.105,
+      "end_seconds": 1363.125,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "22:47",
+      "end": "22:49",
+      "start_seconds": 1367.0,
+      "end_seconds": 1369.02,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "22:50",
+      "end": "22:53",
+      "start_seconds": 1370.559,
+      "end_seconds": 1373.559,
+      "text": "&gt;&gt; Hey. Hey. Hey.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "22:56",
+      "end": "22:58",
+      "start_seconds": 1376.825,
+      "end_seconds": 1378.845,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "23:08",
+      "end": "23:10",
+      "start_seconds": 1388.615,
+      "end_seconds": 1390.635,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "23:37",
+      "end": "23:40",
+      "start_seconds": 1417.12,
+      "end_seconds": 1420.2,
+      "text": "Heat. Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "23:43",
+      "end": "23:46",
+      "start_seconds": 1423.986,
+      "end_seconds": 1426.006,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "23:48",
+      "end": "23:50",
+      "start_seconds": 1428.571,
+      "end_seconds": 1430.591,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "24:01",
+      "end": "24:03",
+      "start_seconds": 1441.016,
+      "end_seconds": 1443.036,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "24:08",
+      "end": "24:10",
+      "start_seconds": 1448.876,
+      "end_seconds": 1450.896,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "24:23",
+      "end": "24:25",
+      "start_seconds": 1463.286,
+      "end_seconds": 1465.306,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "24:47",
+      "end": "24:49",
+      "start_seconds": 1487.522,
+      "end_seconds": 1489.542,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "24:53",
+      "end": "24:55",
+      "start_seconds": 1493.417,
+      "end_seconds": 1495.437,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "24:58",
+      "end": "25:02",
+      "start_seconds": 1498.002,
+      "end_seconds": 1502.52,
+      "text": "[music] &gt;&gt; Heat. Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "25:03",
+      "end": "25:05",
+      "start_seconds": 1503.897,
+      "end_seconds": 1505.917,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "25:13",
+      "end": "25:15",
+      "start_seconds": 1513.067,
+      "end_seconds": 1515.087,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "25:18",
+      "end": "25:22",
+      "start_seconds": 1518.962,
+      "end_seconds": 1522.919,
+      "text": "[music] Heat. Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "25:23",
+      "end": "25:25",
+      "start_seconds": 1523.547,
+      "end_seconds": 1525.567,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "25:30",
+      "end": "25:32",
+      "start_seconds": 1530.097,
+      "end_seconds": 1532.117,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "25:49",
+      "end": "25:51",
+      "start_seconds": 1549.747,
+      "end_seconds": 1551.767,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "25:56",
+      "end": "25:58",
+      "start_seconds": 1556.952,
+      "end_seconds": 1558.972,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "26:04",
+      "end": "26:06",
+      "start_seconds": 1564.158,
+      "end_seconds": 1566.178,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "26:17",
+      "end": "26:20",
+      "start_seconds": 1577.76,
+      "end_seconds": 1580.84,
+      "text": "&gt;&gt; Heat. Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "26:23",
+      "end": "26:25",
+      "start_seconds": 1583.153,
+      "end_seconds": 1585.173,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "26:32",
+      "end": "26:34",
+      "start_seconds": 1592.323,
+      "end_seconds": 1594.343,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "26:41",
+      "end": "26:43",
+      "start_seconds": 1601.493,
+      "end_seconds": 1603.513,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "26:44",
+      "end": "26:48",
+      "start_seconds": 1604.32,
+      "end_seconds": 1608.12,
+      "text": "&gt;&gt; Heat. Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "26:48",
+      "end": "26:50",
+      "start_seconds": 1608.698,
+      "end_seconds": 1610.718,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "26:56",
+      "end": "26:58",
+      "start_seconds": 1616.558,
+      "end_seconds": 1618.578,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "27:03",
+      "end": "27:05",
+      "start_seconds": 1623.039,
+      "end_seconds": 1625.128,
+      "text": "&gt;&gt; Heat [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "27:10",
+      "end": "27:15",
+      "start_seconds": 1630.313,
+      "end_seconds": 1635.24,
+      "text": "&gt;&gt; [music] &gt;&gt; Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "27:12",
+      "end": "27:15",
+      "start_seconds": 1632.24,
+      "end_seconds": 1635.24,
+      "text": "Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "27:16",
+      "end": "27:18",
+      "start_seconds": 1636.863,
+      "end_seconds": 1638.883,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "27:22",
+      "end": "27:24",
+      "start_seconds": 1642.103,
+      "end_seconds": 1644.123,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "27:32",
+      "end": "27:34",
+      "start_seconds": 1652.584,
+      "end_seconds": 1654.604,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "27:35",
+      "end": "27:38",
+      "start_seconds": 1655.44,
+      "end_seconds": 1658.6,
+      "text": "&gt;&gt; Heat up",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "27:40",
+      "end": "27:42",
+      "start_seconds": 1660.444,
+      "end_seconds": 1662.464,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "27:45",
+      "end": "27:48",
+      "start_seconds": 1665.36,
+      "end_seconds": 1668.359,
+      "text": "here. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "27:53",
+      "end": "27:55",
+      "start_seconds": 1673.544,
+      "end_seconds": 1675.564,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "27:58",
+      "end": "28:00",
+      "start_seconds": 1678.784,
+      "end_seconds": 1680.804,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "28:00",
+      "end": "28:03",
+      "start_seconds": 1680.88,
+      "end_seconds": 1683.96,
+      "text": "&gt;&gt; Heat. Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "28:05",
+      "end": "28:08",
+      "start_seconds": 1685.989,
+      "end_seconds": 1688.009,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "28:13",
+      "end": "28:15",
+      "start_seconds": 1693.849,
+      "end_seconds": 1695.869,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "28:22",
+      "end": "28:26",
+      "start_seconds": 1702.364,
+      "end_seconds": 1706.919,
+      "text": "[music] &gt;&gt; Heat. Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "28:28",
+      "end": "28:30",
+      "start_seconds": 1708.259,
+      "end_seconds": 1710.279,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "28:34",
+      "end": "28:36",
+      "start_seconds": 1714.809,
+      "end_seconds": 1716.829,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "28:43",
+      "end": "28:45",
+      "start_seconds": 1723.324,
+      "end_seconds": 1725.344,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "28:49",
+      "end": "28:51",
+      "start_seconds": 1729.874,
+      "end_seconds": 1731.894,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "28:55",
+      "end": "28:57",
+      "start_seconds": 1735.769,
+      "end_seconds": 1737.789,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "29:01",
+      "end": "29:03",
+      "start_seconds": 1741.01,
+      "end_seconds": 1743.03,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "29:08",
+      "end": "29:10",
+      "start_seconds": 1748.87,
+      "end_seconds": 1750.89,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "29:18",
+      "end": "29:20",
+      "start_seconds": 1758.695,
+      "end_seconds": 1760.715,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "29:37",
+      "end": "29:39",
+      "start_seconds": 1777.035,
+      "end_seconds": 1779.055,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "29:46",
+      "end": "29:48",
+      "start_seconds": 1786.86,
+      "end_seconds": 1788.88,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "29:58",
+      "end": "30:00",
+      "start_seconds": 1798.65,
+      "end_seconds": 1800.67,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "30:05",
+      "end": "30:07",
+      "start_seconds": 1805.855,
+      "end_seconds": 1807.875,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "30:12",
+      "end": "30:14",
+      "start_seconds": 1812.405,
+      "end_seconds": 1814.425,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "30:15",
+      "end": "30:19",
+      "start_seconds": 1815.279,
+      "end_seconds": 1819.01,
+      "text": "&gt;&gt; Heat. Heat. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "30:26",
+      "end": "30:28",
+      "start_seconds": 1826.16,
+      "end_seconds": 1828.18,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "30:32",
+      "end": "30:34",
+      "start_seconds": 1832.711,
+      "end_seconds": 1834.731,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "30:39",
+      "end": "30:41",
+      "start_seconds": 1839.916,
+      "end_seconds": 1841.936,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "30:47",
+      "end": "30:49",
+      "start_seconds": 1847.776,
+      "end_seconds": 1849.796,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "30:58",
+      "end": "31:00",
+      "start_seconds": 1858.911,
+      "end_seconds": 1860.931,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "31:05",
+      "end": "31:07",
+      "start_seconds": 1865.461,
+      "end_seconds": 1867.481,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "31:17",
+      "end": "31:19",
+      "start_seconds": 1877.906,
+      "end_seconds": 1879.926,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "31:23",
+      "end": "31:25",
+      "start_seconds": 1883.146,
+      "end_seconds": 1885.166,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "31:30",
+      "end": "31:33",
+      "start_seconds": 1890.159,
+      "end_seconds": 1893.24,
+      "text": "&gt;&gt; Heat. Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "31:33",
+      "end": "31:35",
+      "start_seconds": 1893.626,
+      "end_seconds": 1895.646,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "31:42",
+      "end": "31:44",
+      "start_seconds": 1902.796,
+      "end_seconds": 1904.816,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "31:48",
+      "end": "31:55",
+      "start_seconds": 1908.691,
+      "end_seconds": 1915.297,
+      "text": "[music] &gt;&gt; Heat. Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "31:53",
+      "end": "31:55",
+      "start_seconds": 1913.277,
+      "end_seconds": 1915.297,
+      "text": "[singing]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "31:56",
+      "end": "31:58",
+      "start_seconds": 1916.551,
+      "end_seconds": 1918.571,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "32:07",
+      "end": "32:09",
+      "start_seconds": 1927.032,
+      "end_seconds": 1929.052,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "32:10",
+      "end": "32:15",
+      "start_seconds": 1930.559,
+      "end_seconds": 1935.799,
+      "text": "&gt;&gt; Heat. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "32:12",
+      "end": "32:15",
+      "start_seconds": 1932.799,
+      "end_seconds": 1935.799,
+      "text": "Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "32:20",
+      "end": "32:24",
+      "start_seconds": 1940.799,
+      "end_seconds": 1944.117,
+      "text": "Heat. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "32:28",
+      "end": "32:30",
+      "start_seconds": 1948.647,
+      "end_seconds": 1950.667,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "32:38",
+      "end": "32:41",
+      "start_seconds": 1958.32,
+      "end_seconds": 1961.32,
+      "text": "Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "32:41",
+      "end": "32:43",
+      "start_seconds": 1961.747,
+      "end_seconds": 1963.767,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "32:49",
+      "end": "32:52",
+      "start_seconds": 1969.607,
+      "end_seconds": 1972.282,
+      "text": "&gt;&gt; [music] [singing]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "32:55",
+      "end": "33:01",
+      "start_seconds": 1975.6,
+      "end_seconds": 1981.72,
+      "text": "&gt;&gt; Heat up [music] here.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "33:05",
+      "end": "33:08",
+      "start_seconds": 1985.982,
+      "end_seconds": 1988.002,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "33:10",
+      "end": "33:12",
+      "start_seconds": 1990.24,
+      "end_seconds": 1992.587,
+      "text": "Heat. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "33:19",
+      "end": "33:21",
+      "start_seconds": 1999.082,
+      "end_seconds": 2001.102,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "33:24",
+      "end": "33:26",
+      "start_seconds": 2004.978,
+      "end_seconds": 2006.998,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "33:33",
+      "end": "33:35",
+      "start_seconds": 2013.2,
+      "end_seconds": 2015.513,
+      "text": "Heat. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "33:36",
+      "end": "33:40",
+      "start_seconds": 2016.559,
+      "end_seconds": 2020.098,
+      "text": "Heat. Heat. Heat. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "33:42",
+      "end": "33:44",
+      "start_seconds": 2022.663,
+      "end_seconds": 2024.683,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "33:48",
+      "end": "33:50",
+      "start_seconds": 2028.558,
+      "end_seconds": 2030.578,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "33:55",
+      "end": "33:57",
+      "start_seconds": 2035.763,
+      "end_seconds": 2037.783,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "34:10",
+      "end": "34:12",
+      "start_seconds": 2050.173,
+      "end_seconds": 2052.193,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "34:16",
+      "end": "34:18",
+      "start_seconds": 2056.723,
+      "end_seconds": 2058.743,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "34:31",
+      "end": "34:33",
+      "start_seconds": 2071.788,
+      "end_seconds": 2073.808,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "34:37",
+      "end": "34:39",
+      "start_seconds": 2077.119,
+      "end_seconds": 2079.703,
+      "text": "&gt;&gt; Heat. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "34:53",
+      "end": "34:55",
+      "start_seconds": 2093.404,
+      "end_seconds": 2095.424,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "34:59",
+      "end": "35:01",
+      "start_seconds": 2099.954,
+      "end_seconds": 2101.974,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "35:03",
+      "end": "35:07",
+      "start_seconds": 2103.28,
+      "end_seconds": 2107.04,
+      "text": "Heat. Heat up",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "35:07",
+      "end": "35:09",
+      "start_seconds": 2107.159,
+      "end_seconds": 2109.179,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "35:13",
+      "end": "35:15",
+      "start_seconds": 2113.709,
+      "end_seconds": 2115.729,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "35:24",
+      "end": "35:26",
+      "start_seconds": 2124.189,
+      "end_seconds": 2126.209,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "35:27",
+      "end": "35:31",
+      "start_seconds": 2127.359,
+      "end_seconds": 2131.449,
+      "text": "&gt;&gt; here. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "35:42",
+      "end": "35:44",
+      "start_seconds": 2142.529,
+      "end_seconds": 2144.549,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "35:44",
+      "end": "35:47",
+      "start_seconds": 2144.88,
+      "end_seconds": 2147.96,
+      "text": "&gt;&gt; Heat. Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "35:51",
+      "end": "35:55",
+      "start_seconds": 2151.044,
+      "end_seconds": 2155.96,
+      "text": "[music] Heat. Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "35:56",
+      "end": "35:58",
+      "start_seconds": 2156.284,
+      "end_seconds": 2158.304,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "36:03",
+      "end": "36:05",
+      "start_seconds": 2163.489,
+      "end_seconds": 2165.509,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "36:16",
+      "end": "36:18",
+      "start_seconds": 2176.589,
+      "end_seconds": 2178.609,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "36:26",
+      "end": "36:28",
+      "start_seconds": 2186.415,
+      "end_seconds": 2188.435,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "36:31",
+      "end": "36:33",
+      "start_seconds": 2191.0,
+      "end_seconds": 2193.02,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "36:36",
+      "end": "36:38",
+      "start_seconds": 2196.24,
+      "end_seconds": 2198.26,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "36:42",
+      "end": "36:44",
+      "start_seconds": 2202.135,
+      "end_seconds": 2204.155,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "36:48",
+      "end": "36:50",
+      "start_seconds": 2208.03,
+      "end_seconds": 2210.05,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "36:58",
+      "end": "37:00",
+      "start_seconds": 2218.51,
+      "end_seconds": 2220.53,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "37:02",
+      "end": "37:07",
+      "start_seconds": 2222.16,
+      "end_seconds": 2227.08,
+      "text": "&gt;&gt; Yeah. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "37:07",
+      "end": "37:10",
+      "start_seconds": 2227.28,
+      "end_seconds": 2230.2,
+      "text": "Heat. Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "37:10",
+      "end": "37:12",
+      "start_seconds": 2230.955,
+      "end_seconds": 2232.975,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "37:16",
+      "end": "37:18",
+      "start_seconds": 2236.85,
+      "end_seconds": 2238.87,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "37:27",
+      "end": "37:29",
+      "start_seconds": 2247.33,
+      "end_seconds": 2249.35,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "37:33",
+      "end": "37:35",
+      "start_seconds": 2253.88,
+      "end_seconds": 2255.901,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "37:40",
+      "end": "37:42",
+      "start_seconds": 2260.431,
+      "end_seconds": 2262.451,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "37:46",
+      "end": "37:49",
+      "start_seconds": 2266.981,
+      "end_seconds": 2269.001,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "37:51",
+      "end": "37:54",
+      "start_seconds": 2271.566,
+      "end_seconds": 2274.92,
+      "text": "[music] &gt;&gt; Heat. Heat.",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "37:57",
+      "end": "38:02",
+      "start_seconds": 2277.52,
+      "end_seconds": 2282.101,
+      "text": "Heat. Heat. [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "38:10",
+      "end": "38:12",
+      "start_seconds": 2290.561,
+      "end_seconds": 2292.581,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "38:18",
+      "end": "38:20",
+      "start_seconds": 2298.421,
+      "end_seconds": 2300.441,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "38:25",
+      "end": "38:27",
+      "start_seconds": 2305.626,
+      "end_seconds": 2307.646,
+      "text": "&gt;&gt; [music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_or_lyrics"
+    },
+    {
+      "start": "38:37",
+      "end": "38:39",
+      "start_seconds": 2317.416,
+      "end_seconds": 2319.436,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "38:42",
+      "end": "38:44",
+      "start_seconds": 2322.656,
+      "end_seconds": 2324.676,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "38:48",
+      "end": "38:50",
+      "start_seconds": 2328.551,
+      "end_seconds": 2330.571,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    },
+    {
+      "start": "38:55",
+      "end": "38:57",
+      "start_seconds": 2335.101,
+      "end_seconds": 2337.121,
+      "text": "[music]",
+      "source": "youtube_cc",
+      "verified": false,
+      "exclude_reason": "music_marker"
+    }
+  ],
+  "ocr_status": "not_run",
+  "ocr_segments": [],
+  "translation_status": "no_english_narration",
+  "translations": [],
+  "images": [
+    {
+      "path": "images/extra_044_frame_01.jpg",
+      "filename": "extra_044_frame_01.jpg",
+      "timestamp": "05:52",
+      "seconds": 352.41,
+      "description": "觀音區相關影片畫面"
+    },
+    {
+      "path": "images/extra_044_frame_02.jpg",
+      "filename": "extra_044_frame_02.jpg",
+      "timestamp": "13:42",
+      "seconds": 822.28,
+      "description": "觀音區相關影片畫面"
+    },
+    {
+      "path": "images/extra_044_frame_03.jpg",
+      "filename": "extra_044_frame_03.jpg",
+      "timestamp": "21:32",
+      "seconds": 1292.15,
+      "description": "[music] &gt;&gt; Heat. Heat."
+    },
+    {
+      "path": "images/extra_044_frame_04.jpg",
+      "filename": "extra_044_frame_04.jpg",
+      "timestamp": "29:22",
+      "seconds": 1762.03,
+      "description": "觀音區相關影片畫面"
+    }
+  ],
+  "topics": [],
+  "review": {},
+  "events": [
+    {
+      "name": "讀取影片來源",
+      "status": "done",
+      "detail": "❣️桃園蓮花季開幕｜蓮花園 + 莫內的花園 + 蓮荷園 + 向陽農場一日遊｜Taoyuan Lotus Festival, Taiwan",
+      "recorded_at": "2026-11-05T10:08:04+00:00"
+    },
+    {
+      "name": "聲音分類",
+      "status": "skipped",
+      "detail": "failed: ffmpeg program not found",
+      "recorded_at": "2026-11-05T10:08:04+00:00"
+    },
+    {
+      "name": "CC／語音字幕整理",
+      "status": "done",
+      "detail": "youtube_cc：保留 0 段；隔離 290 段",
+      "recorded_at": "2026-11-05T10:08:04+00:00"
+    },
+    {
+      "name": "畫面 OCR",
+      "status": "skipped",
+      "detail": "not_run",
+      "recorded_at": "2026-11-05T10:08:04+00:00"
+    },
+    {
+      "name": "人工文字修正",
+      "status": "skipped",
+      "detail": "依修正清單套用 0 處",
+      "recorded_at": "2026-11-05T10:08:04+00:00"
+    },
+    {
+      "name": "選擇性翻譯",
+      "status": "skipped",
+      "detail": "no_english_narration",
+      "recorded_at": "2026-11-05T10:08:04+00:00"
+    },
+    {
+      "name": "交叉整合",
+      "status": "done",
+      "detail": "保留來源、時間戳記與不同文字來源；自動分類不等於史料查證",
+      "recorded_at": "2026-11-05T10:08:04+00:00"
+    }
+  ],
+  "generated_at": "2026-11-05T10:08:04+00:00"
+}

@@ -1,0 +1,5257 @@
+{
+  "id": "extra_042",
+  "title": "哈客來尞EP.2｜崙坪文化地景園區",
+  "url": "https://www.youtube.com/watch?v=y8_lNdPqdBE",
+  "duration": 303.0,
+  "language_mode": "hakka",
+  "cc_source": "whisper",
+  "ocr_status": "done",
+  "ocr_raw": [
+    {
+      "text": "HAKK",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 6.0,
+      "end_seconds": 6.75,
+      "confidence": 0.99,
+      "samples": 1,
+      "position": [
+        0.394,
+        0.74
+      ]
+    },
+    {
+      "text": "HAKKA 來玩",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 6.75,
+      "end_seconds": 7.5,
+      "confidence": 0.901,
+      "samples": 1,
+      "position": [
+        0.484,
+        0.73
+      ]
+    },
+    {
+      "text": "篇坪文化地景園區",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 7.5,
+      "end_seconds": 11.25,
+      "confidence": 0.906,
+      "samples": 5,
+      "position": [
+        0.727,
+        0.706
+      ]
+    },
+    {
+      "text": "用館時：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 7.5,
+      "end_seconds": 8.25,
+      "confidence": 0.843,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 7.5,
+      "end_seconds": 8.25,
+      "confidence": 0.969,
+      "samples": 1,
+      "position": [
+        0.711,
+        0.774
+      ]
+    },
+    {
+      "text": "到區地址：桃國市數音區學府路350巷120號",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 7.5,
+      "end_seconds": 23.25,
+      "confidence": 0.868,
+      "samples": 21,
+      "position": [
+        0.791,
+        0.806
+      ]
+    },
+    {
+      "text": "各位哈客來察的觀朋友們大家好",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 7.5,
+      "end_seconds": 11.25,
+      "confidence": 0.906,
+      "samples": 5,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "周前時：二至綢日9:00-17：00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 8.25,
+      "end_seconds": 9.0,
+      "confidence": 0.817,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.743
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 8.25,
+      "end_seconds": 9.0,
+      "confidence": 0.969,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "客家工藝館",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 8.25,
+      "end_seconds": 9.0,
+      "confidence": 0.784,
+      "samples": 1,
+      "position": [
+        0.725,
+        0.033
+      ]
+    },
+    {
+      "text": "事局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 8.25,
+      "end_seconds": 9.0,
+      "confidence": 0.809,
+      "samples": 1,
+      "position": [
+        0.938,
+        0.099
+      ]
+    },
+    {
+      "text": "用館時：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 9.0,
+      "end_seconds": 9.75,
+      "confidence": 0.843,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 9.0,
+      "end_seconds": 9.75,
+      "confidence": 0.969,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "用館：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 9.75,
+      "end_seconds": 10.5,
+      "confidence": 0.864,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 9.75,
+      "end_seconds": 10.5,
+      "confidence": 0.969,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "用館：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 10.5,
+      "end_seconds": 11.25,
+      "confidence": 0.865,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 10.5,
+      "end_seconds": 11.25,
+      "confidence": 0.969,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "坪文化地景圖區",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 11.25,
+      "end_seconds": 12.75,
+      "confidence": 0.888,
+      "samples": 2,
+      "position": [
+        0.728,
+        0.706
+      ]
+    },
+    {
+      "text": "館時間：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 11.25,
+      "end_seconds": 12.0,
+      "confidence": 0.904,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 11.25,
+      "end_seconds": 12.0,
+      "confidence": 0.94,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "我是篇坪文化地景園區的志工王裕概",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 11.25,
+      "end_seconds": 15.75,
+      "confidence": 0.923,
+      "samples": 6,
+      "position": [
+        0.504,
+        0.936
+      ]
+    },
+    {
+      "text": "館時間：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 12.0,
+      "end_seconds": 12.75,
+      "confidence": 0.924,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "家家員",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 12.0,
+      "end_seconds": 12.75,
+      "confidence": 0.545,
+      "samples": 1,
+      "position": [
+        0.502,
+        0.84
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 12.0,
+      "end_seconds": 12.75,
+      "confidence": 0.945,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "篇坪文化地景園區",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 12.75,
+      "end_seconds": 14.25,
+      "confidence": 0.897,
+      "samples": 2,
+      "position": [
+        0.727,
+        0.704
+      ]
+    },
+    {
+      "text": "館時間：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 12.75,
+      "end_seconds": 13.5,
+      "confidence": 0.919,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 12.75,
+      "end_seconds": 13.5,
+      "confidence": 0.944,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "館時間：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 13.5,
+      "end_seconds": 14.25,
+      "confidence": 0.903,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 13.5,
+      "end_seconds": 14.25,
+      "confidence": 0.94,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "坪文化地景圖區",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 14.25,
+      "end_seconds": 18.75,
+      "confidence": 0.897,
+      "samples": 6,
+      "position": [
+        0.728,
+        0.706
+      ]
+    },
+    {
+      "text": "館時間：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 14.25,
+      "end_seconds": 15.0,
+      "confidence": 0.903,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 14.25,
+      "end_seconds": 15.0,
+      "confidence": 0.94,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "館時間：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 15.0,
+      "end_seconds": 15.75,
+      "confidence": 0.903,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 15.0,
+      "end_seconds": 15.75,
+      "confidence": 0.94,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "館時間：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 15.75,
+      "end_seconds": 16.5,
+      "confidence": 0.923,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 15.75,
+      "end_seconds": 16.5,
+      "confidence": 0.945,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "今天來跟大家介紹這個",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 15.75,
+      "end_seconds": 19.5,
+      "confidence": 0.889,
+      "samples": 5,
+      "position": [
+        0.501,
+        0.936
+      ]
+    },
+    {
+      "text": "期能時尚：二至綢日9:00-17：00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 16.5,
+      "end_seconds": 17.25,
+      "confidence": 0.754,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.743
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 16.5,
+      "end_seconds": 17.25,
+      "confidence": 0.932,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "期能時尚：二至綢日9:00-17：00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 17.25,
+      "end_seconds": 18.0,
+      "confidence": 0.754,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.743
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 17.25,
+      "end_seconds": 18.0,
+      "confidence": 0.932,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "期能時尚：二至綢日9:00-17：00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 18.0,
+      "end_seconds": 18.75,
+      "confidence": 0.754,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.743
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 18.0,
+      "end_seconds": 18.75,
+      "confidence": 0.932,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "篇坪文化地景園區",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 18.75,
+      "end_seconds": 21.0,
+      "confidence": 0.825,
+      "samples": 3,
+      "position": [
+        0.727,
+        0.706
+      ]
+    },
+    {
+      "text": "期能時尚：二至綢日9:00-17：00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 18.75,
+      "end_seconds": 19.5,
+      "confidence": 0.754,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.743
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 18.75,
+      "end_seconds": 19.5,
+      "confidence": 0.932,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "團國",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 19.5,
+      "end_seconds": 20.25,
+      "confidence": 0.671,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.54
+      ]
+    },
+    {
+      "text": "期能時尚：二至綢日9:00-17：00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 19.5,
+      "end_seconds": 20.25,
+      "confidence": 0.754,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.743
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 19.5,
+      "end_seconds": 20.25,
+      "confidence": 0.932,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "客家工藝館裡面的攝影展",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 19.5,
+      "end_seconds": 23.25,
+      "confidence": 0.853,
+      "samples": 5,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "館時間：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 20.25,
+      "end_seconds": 21.0,
+      "confidence": 0.908,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 20.25,
+      "end_seconds": 21.0,
+      "confidence": 0.932,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "坪文化地景國區",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 21.0,
+      "end_seconds": 23.25,
+      "confidence": 0.885,
+      "samples": 3,
+      "position": [
+        0.728,
+        0.706
+      ]
+    },
+    {
+      "text": "期能時尚：二至綢日9:00-17：00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 21.0,
+      "end_seconds": 21.75,
+      "confidence": 0.755,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.743
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 21.0,
+      "end_seconds": 21.75,
+      "confidence": 0.932,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "用館：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 21.75,
+      "end_seconds": 22.5,
+      "confidence": 0.885,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 21.75,
+      "end_seconds": 22.5,
+      "confidence": 0.96,
+      "samples": 1,
+      "position": [
+        0.711,
+        0.774
+      ]
+    },
+    {
+      "text": "用館：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 22.5,
+      "end_seconds": 23.25,
+      "confidence": 0.885,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 22.5,
+      "end_seconds": 23.25,
+      "confidence": 0.96,
+      "samples": 1,
+      "position": [
+        0.711,
+        0.774
+      ]
+    },
+    {
+      "text": "限盈明信片",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 23.25,
+      "end_seconds": 24.0,
+      "confidence": 0.753,
+      "samples": 1,
+      "position": [
+        0.597,
+        0.819
+      ]
+    },
+    {
+      "text": "客家工藝館",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 24.0,
+      "end_seconds": 36.0,
+      "confidence": 0.923,
+      "samples": 16,
+      "position": [
+        0.099,
+        0.85
+      ]
+    },
+    {
+      "text": "報量明信片",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 24.0,
+      "end_seconds": 24.75,
+      "confidence": 0.737,
+      "samples": 1,
+      "position": [
+        0.595,
+        0.887
+      ]
+    },
+    {
+      "text": "打卡換",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 24.0,
+      "end_seconds": 24.75,
+      "confidence": 0.733,
+      "samples": 1,
+      "position": [
+        0.595,
+        0.859
+      ]
+    },
+    {
+      "text": "客家",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 24.75,
+      "end_seconds": 25.5,
+      "confidence": 0.965,
+      "samples": 1,
+      "position": [
+        0.434,
+        0.711
+      ]
+    },
+    {
+      "text": "工藝館",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 24.75,
+      "end_seconds": 25.5,
+      "confidence": 0.82,
+      "samples": 1,
+      "position": [
+        0.638,
+        0.738
+      ]
+    },
+    {
+      "text": "起國市政有院",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 24.75,
+      "end_seconds": 25.5,
+      "confidence": 0.556,
+      "samples": 1,
+      "position": [
+        0.84,
+        0.099
+      ]
+    },
+    {
+      "text": "事法局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 24.75,
+      "end_seconds": 25.5,
+      "confidence": 0.691,
+      "samples": 1,
+      "position": [
+        0.939,
+        0.1
+      ]
+    },
+    {
+      "text": "客家",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 25.5,
+      "end_seconds": 27.0,
+      "confidence": 0.992,
+      "samples": 2,
+      "position": [
+        0.432,
+        0.624
+      ]
+    },
+    {
+      "text": "工藝館",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 25.5,
+      "end_seconds": 26.25,
+      "confidence": 0.837,
+      "samples": 1,
+      "position": [
+        0.657,
+        0.654
+      ]
+    },
+    {
+      "text": "工藝館",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 26.25,
+      "end_seconds": 27.0,
+      "confidence": 0.791,
+      "samples": 1,
+      "position": [
+        0.696,
+        0.578
+      ]
+    },
+    {
+      "text": "出日",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 33.0,
+      "end_seconds": 33.75,
+      "confidence": 0.54,
+      "samples": 1,
+      "position": [
+        0.778,
+        0.412
+      ]
+    },
+    {
+      "text": "四日",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 33.0,
+      "end_seconds": 33.75,
+      "confidence": 0.548,
+      "samples": 1,
+      "position": [
+        0.938,
+        0.41
+      ]
+    },
+    {
+      "text": "營業時間",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 36.75,
+      "end_seconds": 45.75,
+      "confidence": 0.888,
+      "samples": 12,
+      "position": [
+        0.663,
+        0.701
+      ]
+    },
+    {
+      "text": "週二~遇日（11:00-14:30:午餐、14:3",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 36.75,
+      "end_seconds": 54.75,
+      "confidence": 0.905,
+      "samples": 24,
+      "position": [
+        0.793,
+        0.74
+      ]
+    },
+    {
+      "text": "0-18:00下午茶）",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 36.75,
+      "end_seconds": 54.75,
+      "confidence": 0.971,
+      "samples": 24,
+      "position": [
+        0.691,
+        0.782
+      ]
+    },
+    {
+      "text": "絡電話：03-498-5208",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 36.75,
+      "end_seconds": 54.75,
+      "confidence": 0.955,
+      "samples": 24,
+      "position": [
+        0.739,
+        0.818
+      ]
+    },
+    {
+      "text": "好客食堂",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 37.5,
+      "end_seconds": 54.0,
+      "confidence": 0.999,
+      "samples": 22,
+      "position": [
+        0.083,
+        0.85
+      ]
+    },
+    {
+      "text": "固市限府",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 41.25,
+      "end_seconds": 42.0,
+      "confidence": 0.617,
+      "samples": 1,
+      "position": [
+        0.822,
+        0.099
+      ]
+    },
+    {
+      "text": "事局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 41.25,
+      "end_seconds": 42.0,
+      "confidence": 0.737,
+      "samples": 1,
+      "position": [
+        0.941,
+        0.099
+      ]
+    },
+    {
+      "text": "好容食堂",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 41.25,
+      "end_seconds": 42.0,
+      "confidence": 0.878,
+      "samples": 1,
+      "position": [
+        0.527,
+        0.426
+      ]
+    },
+    {
+      "text": "管業時間",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 45.75,
+      "end_seconds": 47.25,
+      "confidence": 0.729,
+      "samples": 2,
+      "position": [
+        0.662,
+        0.703
+      ]
+    },
+    {
+      "text": "營業時間",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 47.25,
+      "end_seconds": 54.0,
+      "confidence": 0.871,
+      "samples": 9,
+      "position": [
+        0.662,
+        0.703
+      ]
+    },
+    {
+      "text": "能周市隊府",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 49.5,
+      "end_seconds": 50.25,
+      "confidence": 0.603,
+      "samples": 1,
+      "position": [
+        0.82,
+        0.099
+      ]
+    },
+    {
+      "text": "愛事格局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 49.5,
+      "end_seconds": 50.25,
+      "confidence": 0.623,
+      "samples": 1,
+      "position": [
+        0.927,
+        0.106
+      ]
+    },
+    {
+      "text": "這裹是坪文化地景園區內",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 54.75,
+      "end_seconds": 55.5,
+      "confidence": 0.885,
+      "samples": 1,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "受信所遣址",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 55.5,
+      "end_seconds": 56.25,
+      "confidence": 0.902,
+      "samples": 1,
+      "position": [
+        0.098,
+        0.85
+      ]
+    },
+    {
+      "text": "這裹是篇坪文化地景園區內",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 55.5,
+      "end_seconds": 57.0,
+      "confidence": 0.914,
+      "samples": 2,
+      "position": [
+        0.5,
+        0.934
+      ]
+    },
+    {
+      "text": "受信所遺址",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 56.25,
+      "end_seconds": 58.5,
+      "confidence": 0.915,
+      "samples": 3,
+      "position": [
+        0.099,
+        0.85
+      ]
+    },
+    {
+      "text": "最重要的一固座史建物遺址",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 57.0,
+      "end_seconds": 63.0,
+      "confidence": 0.974,
+      "samples": 8,
+      "position": [
+        0.502,
+        0.933
+      ]
+    },
+    {
+      "text": "受信所遣址",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 58.5,
+      "end_seconds": 59.25,
+      "confidence": 0.918,
+      "samples": 1,
+      "position": [
+        0.1,
+        0.85
+      ]
+    },
+    {
+      "text": "受信所遺址",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 59.25,
+      "end_seconds": 98.25,
+      "confidence": 0.983,
+      "samples": 52,
+      "position": [
+        0.1,
+        0.85
+      ]
+    },
+    {
+      "text": "為了在1934年",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 63.0,
+      "end_seconds": 66.0,
+      "confidence": 0.964,
+      "samples": 4,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "日本奧臺灣之間的內臺無線電活開通",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 66.0,
+      "end_seconds": 71.25,
+      "confidence": 0.891,
+      "samples": 7,
+      "position": [
+        0.503,
+        0.934
+      ]
+    },
+    {
+      "text": "目市漢府",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 66.0,
+      "end_seconds": 66.75,
+      "confidence": 0.558,
+      "samples": 1,
+      "position": [
+        0.82,
+        0.1
+      ]
+    },
+    {
+      "text": "受信所由齋坪這固地方雀屏中進",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 71.25,
+      "end_seconds": 74.25,
+      "confidence": 0.893,
+      "samples": 4,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "是因為位在桃園臺地地勢較高",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 74.25,
+      "end_seconds": 75.75,
+      "confidence": 0.926,
+      "samples": 2,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "#有",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 74.25,
+      "end_seconds": 75.0,
+      "confidence": 0.531,
+      "samples": 1,
+      "position": [
+        0.855,
+        0.1
+      ]
+    },
+    {
+      "text": "設過電信固機房",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 75.75,
+      "end_seconds": 76.5,
+      "confidence": 0.843,
+      "samples": 1,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "設這電信個機房",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 76.5,
+      "end_seconds": 77.25,
+      "confidence": 0.854,
+      "samples": 1,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "目的是接收來自日本的訊號",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 77.25,
+      "end_seconds": 84.0,
+      "confidence": 0.968,
+      "samples": 9,
+      "position": [
+        0.502,
+        0.933
+      ]
+    },
+    {
+      "text": "桃國市隊府會",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 82.5,
+      "end_seconds": 83.25,
+      "confidence": 0.507,
+      "samples": 1,
+      "position": [
+        0.832,
+        0.099
+      ]
+    },
+    {
+      "text": "事營局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 82.5,
+      "end_seconds": 83.25,
+      "confidence": 0.546,
+      "samples": 1,
+      "position": [
+        0.939,
+        0.099
+      ]
+    },
+    {
+      "text": "周圍有50公分厚的圍",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 84.0,
+      "end_seconds": 87.0,
+      "confidence": 0.967,
+      "samples": 4,
+      "position": [
+        0.5,
+        0.933
+      ]
+    },
+    {
+      "text": "周圍有50公分厚的圍",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 87.0,
+      "end_seconds": 87.75,
+      "confidence": 0.965,
+      "samples": 1,
+      "position": [
+        0.501,
+        0.933
+      ]
+    },
+    {
+      "text": "目的是防止電波遭幹",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 87.75,
+      "end_seconds": 90.0,
+      "confidence": 0.983,
+      "samples": 3,
+      "position": [
+        0.502,
+        0.933
+      ]
+    },
+    {
+      "text": "外圍還有更厚達70公分的牆即防爆",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 90.0,
+      "end_seconds": 94.5,
+      "confidence": 0.941,
+      "samples": 4,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "外圍還有更厚逹70公分的即防爆",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 90.75,
+      "end_seconds": 91.5,
+      "confidence": 0.933,
+      "samples": 1,
+      "position": [
+        0.5,
+        0.933
+      ]
+    },
+    {
+      "text": "外圍還有更厚達70公分的即防爆",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 93.0,
+      "end_seconds": 93.75,
+      "confidence": 0.938,
+      "samples": 1,
+      "position": [
+        0.5,
+        0.933
+      ]
+    },
+    {
+      "text": "應為載爭期間防止炮彈攻擎而增設的保護措施",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 94.5,
+      "end_seconds": 99.0,
+      "confidence": 0.922,
+      "samples": 6,
+      "position": [
+        0.501,
+        0.933
+      ]
+    },
+    {
+      "text": "現在看到的是一座神社",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 99.0,
+      "end_seconds": 102.0,
+      "confidence": 0.977,
+      "samples": 4,
+      "position": [
+        0.502,
+        0.934
+      ]
+    },
+    {
+      "text": "神社遺址",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 99.75,
+      "end_seconds": 126.0,
+      "confidence": 0.977,
+      "samples": 35,
+      "position": [
+        0.083,
+        0.849
+      ]
+    },
+    {
+      "text": "目前只剩下基座很難瞭解拜什磨神",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 102.0,
+      "end_seconds": 105.0,
+      "confidence": 0.975,
+      "samples": 4,
+      "position": [
+        0.502,
+        0.933
+      ]
+    },
+    {
+      "text": "神社規模不大為什呢",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 105.75,
+      "end_seconds": 108.0,
+      "confidence": 0.981,
+      "samples": 3,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "它於一種構內社",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 108.0,
+      "end_seconds": 112.5,
+      "confidence": 0.934,
+      "samples": 6,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "它屬於一種精內社",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 112.5,
+      "end_seconds": 113.25,
+      "confidence": 0.869,
+      "samples": 1,
+      "position": [
+        0.502,
+        0.934
+      ]
+    },
+    {
+      "text": "它於一種構內社",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 113.25,
+      "end_seconds": 114.75,
+      "confidence": 0.927,
+      "samples": 2,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "構的意思是機構或單位",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 114.75,
+      "end_seconds": 118.5,
+      "confidence": 0.918,
+      "samples": 5,
+      "position": [
+        0.501,
+        0.933
+      ]
+    },
+    {
+      "text": "此方糖廠鋁業工廠狸面設立的神社",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 118.5,
+      "end_seconds": 120.0,
+      "confidence": 0.823,
+      "samples": 2,
+      "position": [
+        0.502,
+        0.933
+      ]
+    },
+    {
+      "text": "比方糖薇鋁業工廠裡面設立的神社",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 120.0,
+      "end_seconds": 122.25,
+      "confidence": 0.88,
+      "samples": 3,
+      "position": [
+        0.502,
+        0.933
+      ]
+    },
+    {
+      "text": "供日本籍的員工一固心靈上的寄託",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 122.25,
+      "end_seconds": 126.0,
+      "confidence": 0.968,
+      "samples": 5,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "事洽局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 132.0,
+      "end_seconds": 132.75,
+      "confidence": 0.758,
+      "samples": 1,
+      "position": [
+        0.943,
+        0.099
+      ]
+    },
+    {
+      "text": "過狸是鵡毅制場",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 138.0,
+      "end_seconds": 138.75,
+      "confidence": 0.574,
+      "samples": 1,
+      "position": [
+        0.501,
+        0.933
+      ]
+    },
+    {
+      "text": "過狸是電毅刺場",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 138.75,
+      "end_seconds": 139.5,
+      "confidence": 0.541,
+      "samples": 1,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "於木銅合構的建物",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 139.5,
+      "end_seconds": 144.0,
+      "confidence": 0.854,
+      "samples": 6,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "能固市以府",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 140.25,
+      "end_seconds": 141.0,
+      "confidence": 0.603,
+      "samples": 1,
+      "position": [
+        0.821,
+        0.099
+      ]
+    },
+    {
+      "text": "事洽局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 140.25,
+      "end_seconds": 141.0,
+      "confidence": 0.873,
+      "samples": 1,
+      "position": [
+        0.937,
+        0.1
+      ]
+    },
+    {
+      "text": "觸殼劇場",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 141.0,
+      "end_seconds": 144.75,
+      "confidence": 0.819,
+      "samples": 5,
+      "position": [
+        0.081,
+        0.85
+      ]
+    },
+    {
+      "text": "造型非常特別",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 144.0,
+      "end_seconds": 145.5,
+      "confidence": 0.998,
+      "samples": 2,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "施殼劇場",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 144.75,
+      "end_seconds": 149.25,
+      "confidence": 0.888,
+      "samples": 6,
+      "position": [
+        0.083,
+        0.85
+      ]
+    },
+    {
+      "text": "拱形最寬跨距37公尺",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 145.5,
+      "end_seconds": 150.0,
+      "confidence": 0.949,
+      "samples": 6,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "事洗局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 148.5,
+      "end_seconds": 149.25,
+      "confidence": 0.677,
+      "samples": 1,
+      "position": [
+        0.938,
+        0.097
+      ]
+    },
+    {
+      "text": "殺劇場",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 149.25,
+      "end_seconds": 150.0,
+      "confidence": 0.708,
+      "samples": 1,
+      "position": [
+        0.082,
+        0.85
+      ]
+    },
+    {
+      "text": "殼劇場",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 150.0,
+      "end_seconds": 171.0,
+      "confidence": 0.919,
+      "samples": 28,
+      "position": [
+        0.083,
+        0.85
+      ]
+    },
+    {
+      "text": "高度7.19公尺",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 150.0,
+      "end_seconds": 153.75,
+      "confidence": 0.995,
+      "samples": 5,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "PHCUO",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 152.25,
+      "end_seconds": 153.0,
+      "confidence": 0.569,
+      "samples": 1,
+      "position": [
+        0.225,
+        0.656
+      ]
+    },
+    {
+      "text": "是齋坪做為地景藝術的地標",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 153.75,
+      "end_seconds": 156.75,
+      "confidence": 0.859,
+      "samples": 4,
+      "position": [
+        0.502,
+        0.934
+      ]
+    },
+    {
+      "text": "可供民活助休開的地方",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 156.75,
+      "end_seconds": 157.5,
+      "confidence": 0.869,
+      "samples": 1,
+      "position": [
+        0.501,
+        0.933
+      ]
+    },
+    {
+      "text": "社國市隊有會",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 156.75,
+      "end_seconds": 157.5,
+      "confidence": 0.54,
+      "samples": 1,
+      "position": [
+        0.839,
+        0.099
+      ]
+    },
+    {
+      "text": "可供民活助休閑的地方",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 157.5,
+      "end_seconds": 158.25,
+      "confidence": 0.883,
+      "samples": 1,
+      "position": [
+        0.5,
+        0.933
+      ]
+    },
+    {
+      "text": "可供民活動休開的地方",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 158.25,
+      "end_seconds": 159.0,
+      "confidence": 0.848,
+      "samples": 1,
+      "position": [
+        0.498,
+        0.934
+      ]
+    },
+    {
+      "text": "可供民活動休開的地方",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 159.0,
+      "end_seconds": 160.5,
+      "confidence": 0.916,
+      "samples": 2,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "非常方便造型也非常獨特",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 160.5,
+      "end_seconds": 161.25,
+      "confidence": 0.971,
+      "samples": 1,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "非常方便造型也非常獨特",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 161.25,
+      "end_seconds": 162.75,
+      "confidence": 0.978,
+      "samples": 2,
+      "position": [
+        0.5,
+        0.935
+      ]
+    },
+    {
+      "text": "非常方便造型也非常獨特",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 162.75,
+      "end_seconds": 163.5,
+      "confidence": 0.975,
+      "samples": 1,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "非常漂亮很多人會來這裹拍照辦活動",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 163.5,
+      "end_seconds": 168.0,
+      "confidence": 0.907,
+      "samples": 6,
+      "position": [
+        0.5,
+        0.934
+      ]
+    },
+    {
+      "text": "毅在篇坪十分眼",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 168.0,
+      "end_seconds": 168.75,
+      "confidence": 0.845,
+      "samples": 1,
+      "position": [
+        0.501,
+        0.933
+      ]
+    },
+    {
+      "text": "絕殼在篇坪十分拾眼",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 168.75,
+      "end_seconds": 171.0,
+      "confidence": 0.777,
+      "samples": 3,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "國市有",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 173.25,
+      "end_seconds": 174.0,
+      "confidence": 0.769,
+      "samples": 1,
+      "position": [
+        0.836,
+        0.097
+      ]
+    },
+    {
+      "text": "對我們第一次來",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 186.75,
+      "end_seconds": 188.25,
+      "confidence": 0.892,
+      "samples": 2,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "一起來就在這",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 188.25,
+      "end_seconds": 189.75,
+      "confidence": 0.888,
+      "samples": 2,
+      "position": [
+        0.503,
+        0.935
+      ]
+    },
+    {
+      "text": "鑲小孩可以有運動",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 189.75,
+      "end_seconds": 192.0,
+      "confidence": 0.962,
+      "samples": 3,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "能固市以府",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 189.75,
+      "end_seconds": 190.5,
+      "confidence": 0.626,
+      "samples": 1,
+      "position": [
+        0.821,
+        0.099
+      ]
+    },
+    {
+      "text": "學事格局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 189.75,
+      "end_seconds": 190.5,
+      "confidence": 0.727,
+      "samples": 1,
+      "position": [
+        0.926,
+        0.105
+      ]
+    },
+    {
+      "text": "今天好不好玩",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 192.0,
+      "end_seconds": 193.5,
+      "confidence": 0.998,
+      "samples": 2,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "好玩",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 193.5,
+      "end_seconds": 195.0,
+      "confidence": 0.999,
+      "samples": 2,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "你在這退玩什座",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 195.0,
+      "end_seconds": 196.5,
+      "confidence": 0.714,
+      "samples": 2,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "滑板車",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 196.5,
+      "end_seconds": 198.0,
+      "confidence": 0.918,
+      "samples": 2,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "滑板車喔你的滑板車在哪裡",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 198.0,
+      "end_seconds": 199.5,
+      "confidence": 0.915,
+      "samples": 2,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "新固市隊有多公事活局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 198.0,
+      "end_seconds": 198.75,
+      "confidence": 0.503,
+      "samples": 1,
+      "position": [
+        0.87,
+        0.099
+      ]
+    },
+    {
+      "text": "羽毛球",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 199.5,
+      "end_seconds": 201.0,
+      "confidence": 1.0,
+      "samples": 2,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "還不蠟",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 201.0,
+      "end_seconds": 201.75,
+      "confidence": 0.828,
+      "samples": 1,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "因為算瑩寬的",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 201.75,
+      "end_seconds": 203.25,
+      "confidence": 0.823,
+      "samples": 2,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "因為算蜜竟的",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 203.25,
+      "end_seconds": 204.0,
+      "confidence": 0.854,
+      "samples": 1,
+      "position": [
+        0.5,
+        0.935
+      ]
+    },
+    {
+      "text": "還有我剛才有看到一些長者也都會有",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 204.0,
+      "end_seconds": 207.75,
+      "confidence": 0.965,
+      "samples": 4,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "還有我剛才有看到一些長者也都會有",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 206.25,
+      "end_seconds": 207.0,
+      "confidence": 0.959,
+      "samples": 1,
+      "position": [
+        0.5,
+        0.932
+      ]
+    },
+    {
+      "text": "國市限有司",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 206.25,
+      "end_seconds": 207.0,
+      "confidence": 0.537,
+      "samples": 1,
+      "position": [
+        0.841,
+        0.099
+      ]
+    },
+    {
+      "text": "可以在這活動做一些走動我覺得璧不錯的",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 207.75,
+      "end_seconds": 210.75,
+      "confidence": 0.903,
+      "samples": 4,
+      "position": [
+        0.5,
+        0.935
+      ]
+    },
+    {
+      "text": "可以在這活動做一些走動我覺得不錯的",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 210.75,
+      "end_seconds": 211.5,
+      "confidence": 0.921,
+      "samples": 1,
+      "position": [
+        0.501,
+        0.934
+      ]
+    },
+    {
+      "text": "我覺得建不錯的",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 212.25,
+      "end_seconds": 213.75,
+      "confidence": 0.971,
+      "samples": 2,
+      "position": [
+        0.501,
+        0.934
+      ]
+    },
+    {
+      "text": "我覺得建築不錯的",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 213.75,
+      "end_seconds": 215.25,
+      "confidence": 0.932,
+      "samples": 2,
+      "position": [
+        0.5,
+        0.934
+      ]
+    },
+    {
+      "text": "武上固市政有司",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 214.5,
+      "end_seconds": 215.25,
+      "confidence": 0.706,
+      "samples": 1,
+      "position": [
+        0.843,
+        0.097
+      ]
+    },
+    {
+      "text": "事活局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 214.5,
+      "end_seconds": 215.25,
+      "confidence": 0.751,
+      "samples": 1,
+      "position": [
+        0.938,
+        0.099
+      ]
+    },
+    {
+      "text": "因為我剛去那看有一個裡面有個導員",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 215.25,
+      "end_seconds": 218.25,
+      "confidence": 0.907,
+      "samples": 4,
+      "position": [
+        0.502,
+        0.933
+      ]
+    },
+    {
+      "text": "對他這個造價不菲",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 218.25,
+      "end_seconds": 221.25,
+      "confidence": 0.931,
+      "samples": 4,
+      "position": [
+        0.5,
+        0.933
+      ]
+    },
+    {
+      "text": "我岳母的姐姐",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 221.25,
+      "end_seconds": 222.0,
+      "confidence": 0.999,
+      "samples": 1,
+      "position": [
+        0.5,
+        0.933
+      ]
+    },
+    {
+      "text": "我岳母的姐姐",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 222.0,
+      "end_seconds": 222.75,
+      "confidence": 0.999,
+      "samples": 1,
+      "position": [
+        0.501,
+        0.936
+      ]
+    },
+    {
+      "text": "她的丈夫",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 222.75,
+      "end_seconds": 224.25,
+      "confidence": 0.99,
+      "samples": 2,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "趙目市的有多事格局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 222.75,
+      "end_seconds": 223.5,
+      "confidence": 0.606,
+      "samples": 1,
+      "position": [
+        0.87,
+        0.097
+      ]
+    },
+    {
+      "text": "當年的丈夫就在這裡面當工程師",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 224.25,
+      "end_seconds": 227.25,
+      "confidence": 0.846,
+      "samples": 4,
+      "position": [
+        0.502,
+        0.936
+      ]
+    },
+    {
+      "text": "就是因為有這個故事的牽連",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 227.25,
+      "end_seconds": 229.5,
+      "confidence": 0.907,
+      "samples": 3,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "所以我們現在沒事",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 229.5,
+      "end_seconds": 231.0,
+      "confidence": 0.946,
+      "samples": 2,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "像今天天氣還沒有下雨",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 231.0,
+      "end_seconds": 233.25,
+      "confidence": 0.991,
+      "samples": 3,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "北國市隊有夢事培局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 231.0,
+      "end_seconds": 231.75,
+      "confidence": 0.631,
+      "samples": 1,
+      "position": [
+        0.868,
+        0.096
+      ]
+    },
+    {
+      "text": "涼涼的就帶她過來點一點東西吃一吃這樣",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 233.25,
+      "end_seconds": 237.0,
+      "confidence": 0.899,
+      "samples": 5,
+      "position": [
+        0.501,
+        0.934
+      ]
+    },
+    {
+      "text": "武國市政有事基局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 239.25,
+      "end_seconds": 240.0,
+      "confidence": 0.674,
+      "samples": 1,
+      "position": [
+        0.87,
+        0.097
+      ]
+    },
+    {
+      "text": "社目市路有事治局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 247.5,
+      "end_seconds": 248.25,
+      "confidence": 0.62,
+      "samples": 1,
+      "position": [
+        0.869,
+        0.096
+      ]
+    },
+    {
+      "text": "新局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 264.0,
+      "end_seconds": 264.75,
+      "confidence": 0.591,
+      "samples": 1,
+      "position": [
+        0.945,
+        0.101
+      ]
+    },
+    {
+      "text": "哈客來察的各位朋友",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 271.5,
+      "end_seconds": 273.75,
+      "confidence": 0.915,
+      "samples": 3,
+      "position": [
+        0.502,
+        0.936
+      ]
+    },
+    {
+      "text": "客家",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 272.25,
+      "end_seconds": 273.0,
+      "confidence": 0.741,
+      "samples": 1,
+      "position": [
+        0.537,
+        0.098
+      ]
+    },
+    {
+      "text": "工藝館",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 272.25,
+      "end_seconds": 273.0,
+      "confidence": 0.865,
+      "samples": 1,
+      "position": [
+        0.645,
+        0.112
+      ]
+    },
+    {
+      "text": "將來希望大家知道這裹後",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 273.75,
+      "end_seconds": 275.25,
+      "confidence": 0.817,
+      "samples": 2,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "將來希望大家知道這裹後",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 275.25,
+      "end_seconds": 276.75,
+      "confidence": 0.849,
+      "samples": 2,
+      "position": [
+        0.5,
+        0.935
+      ]
+    },
+    {
+      "text": "常來裹玩也可以來露營野餐",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 276.75,
+      "end_seconds": 281.25,
+      "confidence": 0.908,
+      "samples": 6,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "客家",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 280.5,
+      "end_seconds": 281.25,
+      "confidence": 0.861,
+      "samples": 1,
+      "position": [
+        0.533,
+        0.108
+      ]
+    },
+    {
+      "text": "工藝館",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 280.5,
+      "end_seconds": 281.25,
+      "confidence": 0.724,
+      "samples": 1,
+      "position": [
+        0.643,
+        0.119
+      ]
+    },
+    {
+      "text": "22年",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 280.5,
+      "end_seconds": 281.25,
+      "confidence": 0.582,
+      "samples": 1,
+      "position": [
+        0.941,
+        0.099
+      ]
+    },
+    {
+      "text": "起來欣賞大自然",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 281.25,
+      "end_seconds": 285.0,
+      "confidence": 0.908,
+      "samples": 4,
+      "position": [
+        0.514,
+        0.934
+      ]
+    },
+    {
+      "text": "一起來欣賞大自然",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 282.0,
+      "end_seconds": 282.75,
+      "confidence": 0.951,
+      "samples": 1,
+      "position": [
+        0.486,
+        0.938
+      ]
+    },
+    {
+      "text": "非常款迎各位謝謝",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 285.0,
+      "end_seconds": 287.25,
+      "confidence": 0.964,
+      "samples": 3,
+      "position": [
+        0.501,
+        0.934
+      ]
+    },
+    {
+      "text": "哈客來寮珊",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 287.25,
+      "end_seconds": 288.75,
+      "confidence": 0.71,
+      "samples": 2,
+      "position": [
+        0.5,
+        0.934
+      ]
+    },
+    {
+      "text": "哈客來寮",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 288.75,
+      "end_seconds": 293.25,
+      "confidence": 0.82,
+      "samples": 6,
+      "position": [
+        0.501,
+        0.933
+      ]
+    },
+    {
+      "text": "武江國市隊有事活局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 288.75,
+      "end_seconds": 289.5,
+      "confidence": 0.549,
+      "samples": 1,
+      "position": [
+        0.87,
+        0.094
+      ]
+    },
+    {
+      "text": "中心",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 288.75,
+      "end_seconds": 289.5,
+      "confidence": 0.594,
+      "samples": 1,
+      "position": [
+        0.175,
+        0.214
+      ]
+    },
+    {
+      "text": "哈客來察珊珊",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 293.25,
+      "end_seconds": 294.0,
+      "confidence": 0.681,
+      "samples": 1,
+      "position": [
+        0.501,
+        0.934
+      ]
+    },
+    {
+      "text": "哈客來察",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 294.0,
+      "end_seconds": 294.75,
+      "confidence": 0.809,
+      "samples": 1,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "哈客來察遊冊",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 294.75,
+      "end_seconds": 296.25,
+      "confidence": 0.756,
+      "samples": 2,
+      "position": [
+        0.502,
+        0.936
+      ]
+    },
+    {
+      "text": "哈客來寮珊",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 296.25,
+      "end_seconds": 298.5,
+      "confidence": 0.737,
+      "samples": 3,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "Department of HakkaAffairs,Taoyuan",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 298.5,
+      "end_seconds": 303.3,
+      "confidence": 0.97,
+      "samples": 7,
+      "position": [
+        0.408,
+        0.615
+      ]
+    },
+    {
+      "text": "廣告",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 298.5,
+      "end_seconds": 303.3,
+      "confidence": 0.97,
+      "samples": 7,
+      "position": [
+        0.914,
+        0.897
+      ]
+    },
+    {
+      "text": "哈客來察",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 298.5,
+      "end_seconds": 299.25,
+      "confidence": 0.74,
+      "samples": 1,
+      "position": [
+        0.502,
+        0.936
+      ]
+    }
+  ],
+  "ocr_captions": [
+    {
+      "text": "HAKKA 來玩",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 6.75,
+      "end_seconds": 7.5,
+      "confidence": 0.901,
+      "samples": 1,
+      "position": [
+        0.484,
+        0.73
+      ]
+    },
+    {
+      "text": "篇坪文化地景園區",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 7.5,
+      "end_seconds": 11.25,
+      "confidence": 0.906,
+      "samples": 5,
+      "position": [
+        0.727,
+        0.706
+      ]
+    },
+    {
+      "text": "用館時：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 7.5,
+      "end_seconds": 8.25,
+      "confidence": 0.843,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 7.5,
+      "end_seconds": 8.25,
+      "confidence": 0.969,
+      "samples": 1,
+      "position": [
+        0.711,
+        0.774
+      ]
+    },
+    {
+      "text": "到區地址：桃國市數音區學府路350巷120號",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 7.5,
+      "end_seconds": 23.25,
+      "confidence": 0.868,
+      "samples": 21,
+      "position": [
+        0.791,
+        0.806
+      ]
+    },
+    {
+      "text": "各位哈客來察的觀朋友們大家好",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 7.5,
+      "end_seconds": 11.25,
+      "confidence": 0.906,
+      "samples": 5,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "周前時：二至綢日9:00-17：00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 8.25,
+      "end_seconds": 9.0,
+      "confidence": 0.817,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.743
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 8.25,
+      "end_seconds": 9.0,
+      "confidence": 0.969,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "用館時：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 9.0,
+      "end_seconds": 9.75,
+      "confidence": 0.843,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 9.0,
+      "end_seconds": 9.75,
+      "confidence": 0.969,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "用館：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 9.75,
+      "end_seconds": 10.5,
+      "confidence": 0.864,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 9.75,
+      "end_seconds": 10.5,
+      "confidence": 0.969,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "用館：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 10.5,
+      "end_seconds": 11.25,
+      "confidence": 0.865,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 10.5,
+      "end_seconds": 11.25,
+      "confidence": 0.969,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "坪文化地景圖區",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 11.25,
+      "end_seconds": 12.75,
+      "confidence": 0.888,
+      "samples": 2,
+      "position": [
+        0.728,
+        0.706
+      ]
+    },
+    {
+      "text": "館時間：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 11.25,
+      "end_seconds": 12.0,
+      "confidence": 0.904,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 11.25,
+      "end_seconds": 12.0,
+      "confidence": 0.94,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "我是篇坪文化地景園區的志工王裕概",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 11.25,
+      "end_seconds": 15.75,
+      "confidence": 0.923,
+      "samples": 6,
+      "position": [
+        0.504,
+        0.936
+      ]
+    },
+    {
+      "text": "館時間：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 12.0,
+      "end_seconds": 12.75,
+      "confidence": 0.924,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 12.0,
+      "end_seconds": 12.75,
+      "confidence": 0.945,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "篇坪文化地景園區",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 12.75,
+      "end_seconds": 14.25,
+      "confidence": 0.897,
+      "samples": 2,
+      "position": [
+        0.727,
+        0.704
+      ]
+    },
+    {
+      "text": "館時間：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 12.75,
+      "end_seconds": 13.5,
+      "confidence": 0.919,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 12.75,
+      "end_seconds": 13.5,
+      "confidence": 0.944,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "館時間：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 13.5,
+      "end_seconds": 14.25,
+      "confidence": 0.903,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 13.5,
+      "end_seconds": 14.25,
+      "confidence": 0.94,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "坪文化地景圖區",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 14.25,
+      "end_seconds": 18.75,
+      "confidence": 0.897,
+      "samples": 6,
+      "position": [
+        0.728,
+        0.706
+      ]
+    },
+    {
+      "text": "館時間：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 14.25,
+      "end_seconds": 15.0,
+      "confidence": 0.903,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 14.25,
+      "end_seconds": 15.0,
+      "confidence": 0.94,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "館時間：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 15.0,
+      "end_seconds": 15.75,
+      "confidence": 0.903,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 15.0,
+      "end_seconds": 15.75,
+      "confidence": 0.94,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "館時間：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 15.75,
+      "end_seconds": 16.5,
+      "confidence": 0.923,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 15.75,
+      "end_seconds": 16.5,
+      "confidence": 0.945,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "今天來跟大家介紹這個",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 15.75,
+      "end_seconds": 19.5,
+      "confidence": 0.889,
+      "samples": 5,
+      "position": [
+        0.501,
+        0.936
+      ]
+    },
+    {
+      "text": "期能時尚：二至綢日9:00-17：00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 16.5,
+      "end_seconds": 17.25,
+      "confidence": 0.754,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.743
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 16.5,
+      "end_seconds": 17.25,
+      "confidence": 0.932,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "期能時尚：二至綢日9:00-17：00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 17.25,
+      "end_seconds": 18.0,
+      "confidence": 0.754,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.743
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 17.25,
+      "end_seconds": 18.0,
+      "confidence": 0.932,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "期能時尚：二至綢日9:00-17：00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 18.0,
+      "end_seconds": 18.75,
+      "confidence": 0.754,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.743
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 18.0,
+      "end_seconds": 18.75,
+      "confidence": 0.932,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "篇坪文化地景園區",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 18.75,
+      "end_seconds": 21.0,
+      "confidence": 0.825,
+      "samples": 3,
+      "position": [
+        0.727,
+        0.706
+      ]
+    },
+    {
+      "text": "期能時尚：二至綢日9:00-17：00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 18.75,
+      "end_seconds": 19.5,
+      "confidence": 0.754,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.743
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 18.75,
+      "end_seconds": 19.5,
+      "confidence": 0.932,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "期能時尚：二至綢日9:00-17：00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 19.5,
+      "end_seconds": 20.25,
+      "confidence": 0.754,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.743
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 19.5,
+      "end_seconds": 20.25,
+      "confidence": 0.932,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "客家工藝館裡面的攝影展",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 19.5,
+      "end_seconds": 23.25,
+      "confidence": 0.853,
+      "samples": 5,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "館時間：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 20.25,
+      "end_seconds": 21.0,
+      "confidence": 0.908,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 20.25,
+      "end_seconds": 21.0,
+      "confidence": 0.932,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "坪文化地景國區",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 21.0,
+      "end_seconds": 23.25,
+      "confidence": 0.885,
+      "samples": 3,
+      "position": [
+        0.728,
+        0.706
+      ]
+    },
+    {
+      "text": "期能時尚：二至綢日9:00-17：00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 21.0,
+      "end_seconds": 21.75,
+      "confidence": 0.755,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.743
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 21.0,
+      "end_seconds": 21.75,
+      "confidence": 0.932,
+      "samples": 1,
+      "position": [
+        0.712,
+        0.774
+      ]
+    },
+    {
+      "text": "用館：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 21.75,
+      "end_seconds": 22.5,
+      "confidence": 0.885,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 21.75,
+      "end_seconds": 22.5,
+      "confidence": 0.96,
+      "samples": 1,
+      "position": [
+        0.711,
+        0.774
+      ]
+    },
+    {
+      "text": "用館：二至日9:00-17:00",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 22.5,
+      "end_seconds": 23.25,
+      "confidence": 0.885,
+      "samples": 1,
+      "position": [
+        0.752,
+        0.744
+      ]
+    },
+    {
+      "text": "絡電話：03-498-4602",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 22.5,
+      "end_seconds": 23.25,
+      "confidence": 0.96,
+      "samples": 1,
+      "position": [
+        0.711,
+        0.774
+      ]
+    },
+    {
+      "text": "客家工藝館",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 24.0,
+      "end_seconds": 36.0,
+      "confidence": 0.923,
+      "samples": 16,
+      "position": [
+        0.099,
+        0.85
+      ]
+    },
+    {
+      "text": "客家",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 25.5,
+      "end_seconds": 27.0,
+      "confidence": 0.992,
+      "samples": 2,
+      "position": [
+        0.432,
+        0.624
+      ]
+    },
+    {
+      "text": "營業時間",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 36.75,
+      "end_seconds": 45.75,
+      "confidence": 0.888,
+      "samples": 12,
+      "position": [
+        0.663,
+        0.701
+      ]
+    },
+    {
+      "text": "週二~遇日（11:00-14:30:午餐、14:3",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 36.75,
+      "end_seconds": 54.75,
+      "confidence": 0.905,
+      "samples": 24,
+      "position": [
+        0.793,
+        0.74
+      ]
+    },
+    {
+      "text": "0-18:00下午茶）",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 36.75,
+      "end_seconds": 54.75,
+      "confidence": 0.971,
+      "samples": 24,
+      "position": [
+        0.691,
+        0.782
+      ]
+    },
+    {
+      "text": "絡電話：03-498-5208",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 36.75,
+      "end_seconds": 54.75,
+      "confidence": 0.955,
+      "samples": 24,
+      "position": [
+        0.739,
+        0.818
+      ]
+    },
+    {
+      "text": "好客食堂",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 37.5,
+      "end_seconds": 54.0,
+      "confidence": 0.999,
+      "samples": 22,
+      "position": [
+        0.083,
+        0.85
+      ]
+    },
+    {
+      "text": "管業時間",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 45.75,
+      "end_seconds": 47.25,
+      "confidence": 0.729,
+      "samples": 2,
+      "position": [
+        0.662,
+        0.703
+      ]
+    },
+    {
+      "text": "營業時間",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 47.25,
+      "end_seconds": 54.0,
+      "confidence": 0.871,
+      "samples": 9,
+      "position": [
+        0.662,
+        0.703
+      ]
+    },
+    {
+      "text": "這裹是坪文化地景園區內",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 54.75,
+      "end_seconds": 55.5,
+      "confidence": 0.885,
+      "samples": 1,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "這裹是篇坪文化地景園區內",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 55.5,
+      "end_seconds": 57.0,
+      "confidence": 0.914,
+      "samples": 2,
+      "position": [
+        0.5,
+        0.934
+      ]
+    },
+    {
+      "text": "受信所遺址",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 56.25,
+      "end_seconds": 58.5,
+      "confidence": 0.915,
+      "samples": 3,
+      "position": [
+        0.099,
+        0.85
+      ]
+    },
+    {
+      "text": "最重要的一固座史建物遺址",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 57.0,
+      "end_seconds": 63.0,
+      "confidence": 0.974,
+      "samples": 8,
+      "position": [
+        0.502,
+        0.933
+      ]
+    },
+    {
+      "text": "受信所遺址",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 59.25,
+      "end_seconds": 98.25,
+      "confidence": 0.983,
+      "samples": 52,
+      "position": [
+        0.1,
+        0.85
+      ]
+    },
+    {
+      "text": "為了在1934年",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 63.0,
+      "end_seconds": 66.0,
+      "confidence": 0.964,
+      "samples": 4,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "日本奧臺灣之間的內臺無線電活開通",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 66.0,
+      "end_seconds": 71.25,
+      "confidence": 0.891,
+      "samples": 7,
+      "position": [
+        0.503,
+        0.934
+      ]
+    },
+    {
+      "text": "受信所由齋坪這固地方雀屏中進",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 71.25,
+      "end_seconds": 74.25,
+      "confidence": 0.893,
+      "samples": 4,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "是因為位在桃園臺地地勢較高",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 74.25,
+      "end_seconds": 75.75,
+      "confidence": 0.926,
+      "samples": 2,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "設過電信固機房",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 75.75,
+      "end_seconds": 76.5,
+      "confidence": 0.843,
+      "samples": 1,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "設這電信個機房",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 76.5,
+      "end_seconds": 77.25,
+      "confidence": 0.854,
+      "samples": 1,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "目的是接收來自日本的訊號",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 77.25,
+      "end_seconds": 84.0,
+      "confidence": 0.968,
+      "samples": 9,
+      "position": [
+        0.502,
+        0.933
+      ]
+    },
+    {
+      "text": "周圍有50公分厚的圍",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 84.0,
+      "end_seconds": 87.0,
+      "confidence": 0.967,
+      "samples": 4,
+      "position": [
+        0.5,
+        0.933
+      ]
+    },
+    {
+      "text": "周圍有50公分厚的圍",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 87.0,
+      "end_seconds": 87.75,
+      "confidence": 0.965,
+      "samples": 1,
+      "position": [
+        0.501,
+        0.933
+      ]
+    },
+    {
+      "text": "目的是防止電波遭幹",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 87.75,
+      "end_seconds": 90.0,
+      "confidence": 0.983,
+      "samples": 3,
+      "position": [
+        0.502,
+        0.933
+      ]
+    },
+    {
+      "text": "外圍還有更厚達70公分的牆即防爆",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 90.0,
+      "end_seconds": 94.5,
+      "confidence": 0.941,
+      "samples": 4,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "外圍還有更厚逹70公分的即防爆",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 90.75,
+      "end_seconds": 91.5,
+      "confidence": 0.933,
+      "samples": 1,
+      "position": [
+        0.5,
+        0.933
+      ]
+    },
+    {
+      "text": "外圍還有更厚達70公分的即防爆",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 93.0,
+      "end_seconds": 93.75,
+      "confidence": 0.938,
+      "samples": 1,
+      "position": [
+        0.5,
+        0.933
+      ]
+    },
+    {
+      "text": "應為載爭期間防止炮彈攻擎而增設的保護措施",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 94.5,
+      "end_seconds": 99.0,
+      "confidence": 0.922,
+      "samples": 6,
+      "position": [
+        0.501,
+        0.933
+      ]
+    },
+    {
+      "text": "現在看到的是一座神社",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 99.0,
+      "end_seconds": 102.0,
+      "confidence": 0.977,
+      "samples": 4,
+      "position": [
+        0.502,
+        0.934
+      ]
+    },
+    {
+      "text": "神社遺址",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 99.75,
+      "end_seconds": 126.0,
+      "confidence": 0.977,
+      "samples": 35,
+      "position": [
+        0.083,
+        0.849
+      ]
+    },
+    {
+      "text": "目前只剩下基座很難瞭解拜什磨神",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 102.0,
+      "end_seconds": 105.0,
+      "confidence": 0.975,
+      "samples": 4,
+      "position": [
+        0.502,
+        0.933
+      ]
+    },
+    {
+      "text": "神社規模不大為什呢",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 105.75,
+      "end_seconds": 108.0,
+      "confidence": 0.981,
+      "samples": 3,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "它於一種構內社",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 108.0,
+      "end_seconds": 112.5,
+      "confidence": 0.934,
+      "samples": 6,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "它屬於一種精內社",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 112.5,
+      "end_seconds": 113.25,
+      "confidence": 0.869,
+      "samples": 1,
+      "position": [
+        0.502,
+        0.934
+      ]
+    },
+    {
+      "text": "它於一種構內社",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 113.25,
+      "end_seconds": 114.75,
+      "confidence": 0.927,
+      "samples": 2,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "構的意思是機構或單位",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 114.75,
+      "end_seconds": 118.5,
+      "confidence": 0.918,
+      "samples": 5,
+      "position": [
+        0.501,
+        0.933
+      ]
+    },
+    {
+      "text": "此方糖廠鋁業工廠狸面設立的神社",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 118.5,
+      "end_seconds": 120.0,
+      "confidence": 0.823,
+      "samples": 2,
+      "position": [
+        0.502,
+        0.933
+      ]
+    },
+    {
+      "text": "比方糖薇鋁業工廠裡面設立的神社",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 120.0,
+      "end_seconds": 122.25,
+      "confidence": 0.88,
+      "samples": 3,
+      "position": [
+        0.502,
+        0.933
+      ]
+    },
+    {
+      "text": "供日本籍的員工一固心靈上的寄託",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 122.25,
+      "end_seconds": 126.0,
+      "confidence": 0.968,
+      "samples": 5,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "過狸是鵡毅制場",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 138.0,
+      "end_seconds": 138.75,
+      "confidence": 0.574,
+      "samples": 1,
+      "position": [
+        0.501,
+        0.933
+      ]
+    },
+    {
+      "text": "過狸是電毅刺場",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 138.75,
+      "end_seconds": 139.5,
+      "confidence": 0.541,
+      "samples": 1,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "於木銅合構的建物",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 139.5,
+      "end_seconds": 144.0,
+      "confidence": 0.854,
+      "samples": 6,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "觸殼劇場",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 141.0,
+      "end_seconds": 144.75,
+      "confidence": 0.819,
+      "samples": 5,
+      "position": [
+        0.081,
+        0.85
+      ]
+    },
+    {
+      "text": "造型非常特別",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 144.0,
+      "end_seconds": 145.5,
+      "confidence": 0.998,
+      "samples": 2,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "施殼劇場",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 144.75,
+      "end_seconds": 149.25,
+      "confidence": 0.888,
+      "samples": 6,
+      "position": [
+        0.083,
+        0.85
+      ]
+    },
+    {
+      "text": "拱形最寬跨距37公尺",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 145.5,
+      "end_seconds": 150.0,
+      "confidence": 0.949,
+      "samples": 6,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "殼劇場",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 150.0,
+      "end_seconds": 171.0,
+      "confidence": 0.919,
+      "samples": 28,
+      "position": [
+        0.083,
+        0.85
+      ]
+    },
+    {
+      "text": "高度7.19公尺",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 150.0,
+      "end_seconds": 153.75,
+      "confidence": 0.995,
+      "samples": 5,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "是齋坪做為地景藝術的地標",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 153.75,
+      "end_seconds": 156.75,
+      "confidence": 0.859,
+      "samples": 4,
+      "position": [
+        0.502,
+        0.934
+      ]
+    },
+    {
+      "text": "可供民活助休開的地方",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 156.75,
+      "end_seconds": 157.5,
+      "confidence": 0.869,
+      "samples": 1,
+      "position": [
+        0.501,
+        0.933
+      ]
+    },
+    {
+      "text": "可供民活助休閑的地方",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 157.5,
+      "end_seconds": 158.25,
+      "confidence": 0.883,
+      "samples": 1,
+      "position": [
+        0.5,
+        0.933
+      ]
+    },
+    {
+      "text": "可供民活動休開的地方",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 158.25,
+      "end_seconds": 159.0,
+      "confidence": 0.848,
+      "samples": 1,
+      "position": [
+        0.498,
+        0.934
+      ]
+    },
+    {
+      "text": "可供民活動休開的地方",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 159.0,
+      "end_seconds": 160.5,
+      "confidence": 0.916,
+      "samples": 2,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "非常方便造型也非常獨特",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 160.5,
+      "end_seconds": 161.25,
+      "confidence": 0.971,
+      "samples": 1,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "非常方便造型也非常獨特",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 161.25,
+      "end_seconds": 162.75,
+      "confidence": 0.978,
+      "samples": 2,
+      "position": [
+        0.5,
+        0.935
+      ]
+    },
+    {
+      "text": "非常方便造型也非常獨特",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 162.75,
+      "end_seconds": 163.5,
+      "confidence": 0.975,
+      "samples": 1,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "非常漂亮很多人會來這裹拍照辦活動",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 163.5,
+      "end_seconds": 168.0,
+      "confidence": 0.907,
+      "samples": 6,
+      "position": [
+        0.5,
+        0.934
+      ]
+    },
+    {
+      "text": "毅在篇坪十分眼",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 168.0,
+      "end_seconds": 168.75,
+      "confidence": 0.845,
+      "samples": 1,
+      "position": [
+        0.501,
+        0.933
+      ]
+    },
+    {
+      "text": "絕殼在篇坪十分拾眼",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 168.75,
+      "end_seconds": 171.0,
+      "confidence": 0.777,
+      "samples": 3,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "對我們第一次來",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 186.75,
+      "end_seconds": 188.25,
+      "confidence": 0.892,
+      "samples": 2,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "一起來就在這",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 188.25,
+      "end_seconds": 189.75,
+      "confidence": 0.888,
+      "samples": 2,
+      "position": [
+        0.503,
+        0.935
+      ]
+    },
+    {
+      "text": "鑲小孩可以有運動",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 189.75,
+      "end_seconds": 192.0,
+      "confidence": 0.962,
+      "samples": 3,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "今天好不好玩",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 192.0,
+      "end_seconds": 193.5,
+      "confidence": 0.998,
+      "samples": 2,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "好玩",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 193.5,
+      "end_seconds": 195.0,
+      "confidence": 0.999,
+      "samples": 2,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "你在這退玩什座",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 195.0,
+      "end_seconds": 196.5,
+      "confidence": 0.714,
+      "samples": 2,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "滑板車",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 196.5,
+      "end_seconds": 198.0,
+      "confidence": 0.918,
+      "samples": 2,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "滑板車喔你的滑板車在哪裡",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 198.0,
+      "end_seconds": 199.5,
+      "confidence": 0.915,
+      "samples": 2,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "羽毛球",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 199.5,
+      "end_seconds": 201.0,
+      "confidence": 1.0,
+      "samples": 2,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "因為算瑩寬的",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 201.75,
+      "end_seconds": 203.25,
+      "confidence": 0.823,
+      "samples": 2,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "還有我剛才有看到一些長者也都會有",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 204.0,
+      "end_seconds": 207.75,
+      "confidence": 0.965,
+      "samples": 4,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "還有我剛才有看到一些長者也都會有",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 206.25,
+      "end_seconds": 207.0,
+      "confidence": 0.959,
+      "samples": 1,
+      "position": [
+        0.5,
+        0.932
+      ]
+    },
+    {
+      "text": "可以在這活動做一些走動我覺得璧不錯的",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 207.75,
+      "end_seconds": 210.75,
+      "confidence": 0.903,
+      "samples": 4,
+      "position": [
+        0.5,
+        0.935
+      ]
+    },
+    {
+      "text": "可以在這活動做一些走動我覺得不錯的",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 210.75,
+      "end_seconds": 211.5,
+      "confidence": 0.921,
+      "samples": 1,
+      "position": [
+        0.501,
+        0.934
+      ]
+    },
+    {
+      "text": "我覺得建不錯的",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 212.25,
+      "end_seconds": 213.75,
+      "confidence": 0.971,
+      "samples": 2,
+      "position": [
+        0.501,
+        0.934
+      ]
+    },
+    {
+      "text": "我覺得建築不錯的",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 213.75,
+      "end_seconds": 215.25,
+      "confidence": 0.932,
+      "samples": 2,
+      "position": [
+        0.5,
+        0.934
+      ]
+    },
+    {
+      "text": "因為我剛去那看有一個裡面有個導員",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 215.25,
+      "end_seconds": 218.25,
+      "confidence": 0.907,
+      "samples": 4,
+      "position": [
+        0.502,
+        0.933
+      ]
+    },
+    {
+      "text": "對他這個造價不菲",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 218.25,
+      "end_seconds": 221.25,
+      "confidence": 0.931,
+      "samples": 4,
+      "position": [
+        0.5,
+        0.933
+      ]
+    },
+    {
+      "text": "她的丈夫",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 222.75,
+      "end_seconds": 224.25,
+      "confidence": 0.99,
+      "samples": 2,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "當年的丈夫就在這裡面當工程師",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 224.25,
+      "end_seconds": 227.25,
+      "confidence": 0.846,
+      "samples": 4,
+      "position": [
+        0.502,
+        0.936
+      ]
+    },
+    {
+      "text": "就是因為有這個故事的牽連",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 227.25,
+      "end_seconds": 229.5,
+      "confidence": 0.907,
+      "samples": 3,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "所以我們現在沒事",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 229.5,
+      "end_seconds": 231.0,
+      "confidence": 0.946,
+      "samples": 2,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "像今天天氣還沒有下雨",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 231.0,
+      "end_seconds": 233.25,
+      "confidence": 0.991,
+      "samples": 3,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "涼涼的就帶她過來點一點東西吃一吃這樣",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 233.25,
+      "end_seconds": 237.0,
+      "confidence": 0.899,
+      "samples": 5,
+      "position": [
+        0.501,
+        0.934
+      ]
+    },
+    {
+      "text": "哈客來察的各位朋友",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 271.5,
+      "end_seconds": 273.75,
+      "confidence": 0.915,
+      "samples": 3,
+      "position": [
+        0.502,
+        0.936
+      ]
+    },
+    {
+      "text": "將來希望大家知道這裹後",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 273.75,
+      "end_seconds": 275.25,
+      "confidence": 0.817,
+      "samples": 2,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "將來希望大家知道這裹後",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 275.25,
+      "end_seconds": 276.75,
+      "confidence": 0.849,
+      "samples": 2,
+      "position": [
+        0.5,
+        0.935
+      ]
+    },
+    {
+      "text": "常來裹玩也可以來露營野餐",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 276.75,
+      "end_seconds": 281.25,
+      "confidence": 0.908,
+      "samples": 6,
+      "position": [
+        0.502,
+        0.935
+      ]
+    },
+    {
+      "text": "起來欣賞大自然",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 281.25,
+      "end_seconds": 285.0,
+      "confidence": 0.908,
+      "samples": 4,
+      "position": [
+        0.514,
+        0.934
+      ]
+    },
+    {
+      "text": "一起來欣賞大自然",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 282.0,
+      "end_seconds": 282.75,
+      "confidence": 0.951,
+      "samples": 1,
+      "position": [
+        0.486,
+        0.938
+      ]
+    },
+    {
+      "text": "非常款迎各位謝謝",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 285.0,
+      "end_seconds": 287.25,
+      "confidence": 0.964,
+      "samples": 3,
+      "position": [
+        0.501,
+        0.934
+      ]
+    },
+    {
+      "text": "哈客來寮珊",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 287.25,
+      "end_seconds": 288.75,
+      "confidence": 0.71,
+      "samples": 2,
+      "position": [
+        0.5,
+        0.934
+      ]
+    },
+    {
+      "text": "哈客來寮",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 288.75,
+      "end_seconds": 293.25,
+      "confidence": 0.82,
+      "samples": 6,
+      "position": [
+        0.501,
+        0.933
+      ]
+    },
+    {
+      "text": "哈客來察遊冊",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 294.75,
+      "end_seconds": 296.25,
+      "confidence": 0.756,
+      "samples": 2,
+      "position": [
+        0.502,
+        0.936
+      ]
+    },
+    {
+      "text": "哈客來寮珊",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 296.25,
+      "end_seconds": 298.5,
+      "confidence": 0.737,
+      "samples": 3,
+      "position": [
+        0.501,
+        0.935
+      ]
+    },
+    {
+      "text": "Department of HakkaAffairs,Taoyuan",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 298.5,
+      "end_seconds": 303.3,
+      "confidence": 0.97,
+      "samples": 7,
+      "position": [
+        0.408,
+        0.615
+      ]
+    },
+    {
+      "text": "廣告",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 298.5,
+      "end_seconds": 303.3,
+      "confidence": 0.97,
+      "samples": 7,
+      "position": [
+        0.914,
+        0.897
+      ]
+    }
+  ],
+  "ocr_titles": [
+    {
+      "text": "客家工藝館",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 8.25,
+      "end_seconds": 9.0,
+      "confidence": 0.784,
+      "samples": 1,
+      "position": [
+        0.725,
+        0.033
+      ]
+    },
+    {
+      "text": "事局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 8.25,
+      "end_seconds": 9.0,
+      "confidence": 0.809,
+      "samples": 1,
+      "position": [
+        0.938,
+        0.099
+      ]
+    },
+    {
+      "text": "起國市政有院",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 24.75,
+      "end_seconds": 25.5,
+      "confidence": 0.556,
+      "samples": 1,
+      "position": [
+        0.84,
+        0.099
+      ]
+    },
+    {
+      "text": "事法局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 24.75,
+      "end_seconds": 25.5,
+      "confidence": 0.691,
+      "samples": 1,
+      "position": [
+        0.939,
+        0.1
+      ]
+    },
+    {
+      "text": "出日",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 33.0,
+      "end_seconds": 33.75,
+      "confidence": 0.54,
+      "samples": 1,
+      "position": [
+        0.778,
+        0.412
+      ]
+    },
+    {
+      "text": "四日",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 33.0,
+      "end_seconds": 33.75,
+      "confidence": 0.548,
+      "samples": 1,
+      "position": [
+        0.938,
+        0.41
+      ]
+    },
+    {
+      "text": "固市限府",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 41.25,
+      "end_seconds": 42.0,
+      "confidence": 0.617,
+      "samples": 1,
+      "position": [
+        0.822,
+        0.099
+      ]
+    },
+    {
+      "text": "事局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 41.25,
+      "end_seconds": 42.0,
+      "confidence": 0.737,
+      "samples": 1,
+      "position": [
+        0.941,
+        0.099
+      ]
+    },
+    {
+      "text": "好容食堂",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 41.25,
+      "end_seconds": 42.0,
+      "confidence": 0.878,
+      "samples": 1,
+      "position": [
+        0.527,
+        0.426
+      ]
+    },
+    {
+      "text": "能周市隊府",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 49.5,
+      "end_seconds": 50.25,
+      "confidence": 0.603,
+      "samples": 1,
+      "position": [
+        0.82,
+        0.099
+      ]
+    },
+    {
+      "text": "愛事格局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 49.5,
+      "end_seconds": 50.25,
+      "confidence": 0.623,
+      "samples": 1,
+      "position": [
+        0.927,
+        0.106
+      ]
+    },
+    {
+      "text": "目市漢府",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 66.0,
+      "end_seconds": 66.75,
+      "confidence": 0.558,
+      "samples": 1,
+      "position": [
+        0.82,
+        0.1
+      ]
+    },
+    {
+      "text": "#有",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 74.25,
+      "end_seconds": 75.0,
+      "confidence": 0.531,
+      "samples": 1,
+      "position": [
+        0.855,
+        0.1
+      ]
+    },
+    {
+      "text": "桃國市隊府會",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 82.5,
+      "end_seconds": 83.25,
+      "confidence": 0.507,
+      "samples": 1,
+      "position": [
+        0.832,
+        0.099
+      ]
+    },
+    {
+      "text": "事營局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 82.5,
+      "end_seconds": 83.25,
+      "confidence": 0.546,
+      "samples": 1,
+      "position": [
+        0.939,
+        0.099
+      ]
+    },
+    {
+      "text": "事洽局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 132.0,
+      "end_seconds": 132.75,
+      "confidence": 0.758,
+      "samples": 1,
+      "position": [
+        0.943,
+        0.099
+      ]
+    },
+    {
+      "text": "能固市以府",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 140.25,
+      "end_seconds": 141.0,
+      "confidence": 0.603,
+      "samples": 1,
+      "position": [
+        0.821,
+        0.099
+      ]
+    },
+    {
+      "text": "事洽局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 140.25,
+      "end_seconds": 141.0,
+      "confidence": 0.873,
+      "samples": 1,
+      "position": [
+        0.937,
+        0.1
+      ]
+    },
+    {
+      "text": "事洗局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 148.5,
+      "end_seconds": 149.25,
+      "confidence": 0.677,
+      "samples": 1,
+      "position": [
+        0.938,
+        0.097
+      ]
+    },
+    {
+      "text": "社國市隊有會",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 156.75,
+      "end_seconds": 157.5,
+      "confidence": 0.54,
+      "samples": 1,
+      "position": [
+        0.839,
+        0.099
+      ]
+    },
+    {
+      "text": "國市有",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 173.25,
+      "end_seconds": 174.0,
+      "confidence": 0.769,
+      "samples": 1,
+      "position": [
+        0.836,
+        0.097
+      ]
+    },
+    {
+      "text": "能固市以府",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 189.75,
+      "end_seconds": 190.5,
+      "confidence": 0.626,
+      "samples": 1,
+      "position": [
+        0.821,
+        0.099
+      ]
+    },
+    {
+      "text": "學事格局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 189.75,
+      "end_seconds": 190.5,
+      "confidence": 0.727,
+      "samples": 1,
+      "position": [
+        0.926,
+        0.105
+      ]
+    },
+    {
+      "text": "新固市隊有多公事活局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 198.0,
+      "end_seconds": 198.75,
+      "confidence": 0.503,
+      "samples": 1,
+      "position": [
+        0.87,
+        0.099
+      ]
+    },
+    {
+      "text": "國市限有司",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 206.25,
+      "end_seconds": 207.0,
+      "confidence": 0.537,
+      "samples": 1,
+      "position": [
+        0.841,
+        0.099
+      ]
+    },
+    {
+      "text": "武上固市政有司",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 214.5,
+      "end_seconds": 215.25,
+      "confidence": 0.706,
+      "samples": 1,
+      "position": [
+        0.843,
+        0.097
+      ]
+    },
+    {
+      "text": "事活局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 214.5,
+      "end_seconds": 215.25,
+      "confidence": 0.751,
+      "samples": 1,
+      "position": [
+        0.938,
+        0.099
+      ]
+    },
+    {
+      "text": "趙目市的有多事格局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 222.75,
+      "end_seconds": 223.5,
+      "confidence": 0.606,
+      "samples": 1,
+      "position": [
+        0.87,
+        0.097
+      ]
+    },
+    {
+      "text": "北國市隊有夢事培局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 231.0,
+      "end_seconds": 231.75,
+      "confidence": 0.631,
+      "samples": 1,
+      "position": [
+        0.868,
+        0.096
+      ]
+    },
+    {
+      "text": "武國市政有事基局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 239.25,
+      "end_seconds": 240.0,
+      "confidence": 0.674,
+      "samples": 1,
+      "position": [
+        0.87,
+        0.097
+      ]
+    },
+    {
+      "text": "社目市路有事治局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 247.5,
+      "end_seconds": 248.25,
+      "confidence": 0.62,
+      "samples": 1,
+      "position": [
+        0.869,
+        0.096
+      ]
+    },
+    {
+      "text": "新局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 264.0,
+      "end_seconds": 264.75,
+      "confidence": 0.591,
+      "samples": 1,
+      "position": [
+        0.945,
+        0.101
+      ]
+    },
+    {
+      "text": "客家",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 272.25,
+      "end_seconds": 273.0,
+      "confidence": 0.741,
+      "samples": 1,
+      "position": [
+        0.537,
+        0.098
+      ]
+    },
+    {
+      "text": "工藝館",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 272.25,
+      "end_seconds": 273.0,
+      "confidence": 0.865,
+      "samples": 1,
+      "position": [
+        0.645,
+        0.112
+      ]
+    },
+    {
+      "text": "客家",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 280.5,
+      "end_seconds": 281.25,
+      "confidence": 0.861,
+      "samples": 1,
+      "position": [
+        0.533,
+        0.108
+      ]
+    },
+    {
+      "text": "工藝館",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 280.5,
+      "end_seconds": 281.25,
+      "confidence": 0.724,
+      "samples": 1,
+      "position": [
+        0.643,
+        0.119
+      ]
+    },
+    {
+      "text": "22年",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 280.5,
+      "end_seconds": 281.25,
+      "confidence": 0.582,
+      "samples": 1,
+      "position": [
+        0.941,
+        0.099
+      ]
+    },
+    {
+      "text": "武江國市隊有事活局",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 288.75,
+      "end_seconds": 289.5,
+      "confidence": 0.549,
+      "samples": 1,
+      "position": [
+        0.87,
+        0.094
+      ]
+    },
+    {
+      "text": "中心",
+      "source": "ocr",
+      "kind": "title",
+      "start_seconds": 288.75,
+      "end_seconds": 289.5,
+      "confidence": 0.594,
+      "samples": 1,
+      "position": [
+        0.175,
+        0.214
+      ]
+    }
+  ],
+  "speech_subtitles": [],
+  "raw_subtitle_count": 160,
+  "suppressed_asr": 160,
+  "images": [
+    {
+      "path": "images/extra_042_frame_01.jpg",
+      "filename": "extra_042_frame_01.jpg",
+      "timestamp": "00:11",
+      "seconds": 11.86,
+      "description": "文化基進演技術"
+    },
+    {
+      "path": "images/extra_042_frame_02.jpg",
+      "filename": "extra_042_frame_02.jpg",
+      "timestamp": "00:22",
+      "seconds": 22.46,
+      "description": "文化基進演技"
+    },
+    {
+      "path": "images/extra_042_frame_03.jpg",
+      "filename": "extra_042_frame_03.jpg",
+      "timestamp": "00:45",
+      "seconds": 45.5,
+      "description": "文化基進演技"
+    },
+    {
+      "path": "images/extra_042_frame_04.jpg",
+      "filename": "extra_042_frame_04.jpg",
+      "timestamp": "01:46",
+      "seconds": 106.16,
+      "description": "腮筒"
+    }
+  ],
+  "process": [
+    {
+      "name": "原始影音與字幕",
+      "count": 160
+    },
+    {
+      "name": "影格 OCR",
+      "count": 210
+    },
+    {
+      "name": "畫面文字合併",
+      "count": 150
+    },
+    {
+      "name": "字幕來源分流",
+      "count": 0
+    },
+    {
+      "name": "保留原始來源",
+      "count": 160
+    }
+  ]
+}

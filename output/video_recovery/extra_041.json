@@ -1,0 +1,212 @@
+{
+  "id": "extra_041",
+  "title": "【觀新藻礁👉探索桃園海岸的魅力】",
+  "url": "https://www.youtube.com/watch?v=mkrTE-tLQnI",
+  "duration": 71.0,
+  "language_mode": "visual",
+  "cc_source": "none",
+  "ocr_status": "done",
+  "ocr_raw": [
+    {
+      "text": "GuanxinAlgal Reef",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 0.75,
+      "end_seconds": 5.25,
+      "confidence": 0.978,
+      "samples": 6,
+      "position": [
+        0.499,
+        0.585
+      ]
+    },
+    {
+      "text": "TaoybanCity",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 66.75,
+      "end_seconds": 67.5,
+      "confidence": 0.931,
+      "samples": 1,
+      "position": [
+        0.506,
+        0.56
+      ]
+    },
+    {
+      "text": "Govemment",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 66.75,
+      "end_seconds": 67.5,
+      "confidence": 0.981,
+      "samples": 1,
+      "position": [
+        0.627,
+        0.56
+      ]
+    },
+    {
+      "text": "廣告",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 66.75,
+      "end_seconds": 71.17,
+      "confidence": 0.971,
+      "samples": 6,
+      "position": [
+        0.912,
+        0.865
+      ]
+    },
+    {
+      "text": "TaoyuanCityGovernment",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 67.5,
+      "end_seconds": 71.17,
+      "confidence": 0.997,
+      "samples": 5,
+      "position": [
+        0.567,
+        0.56
+      ]
+    },
+    {
+      "text": "桃險",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 70.5,
+      "end_seconds": 71.17,
+      "confidence": 0.547,
+      "samples": 1,
+      "position": [
+        0.376,
+        0.512
+      ]
+    }
+  ],
+  "ocr_captions": [
+    {
+      "text": "GuanxinAlgal Reef",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 0.75,
+      "end_seconds": 5.25,
+      "confidence": 0.978,
+      "samples": 6,
+      "position": [
+        0.499,
+        0.585
+      ]
+    },
+    {
+      "text": "TaoybanCity",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 66.75,
+      "end_seconds": 67.5,
+      "confidence": 0.931,
+      "samples": 1,
+      "position": [
+        0.506,
+        0.56
+      ]
+    },
+    {
+      "text": "Govemment",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 66.75,
+      "end_seconds": 67.5,
+      "confidence": 0.981,
+      "samples": 1,
+      "position": [
+        0.627,
+        0.56
+      ]
+    },
+    {
+      "text": "廣告",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 66.75,
+      "end_seconds": 71.17,
+      "confidence": 0.971,
+      "samples": 6,
+      "position": [
+        0.912,
+        0.865
+      ]
+    },
+    {
+      "text": "TaoyuanCityGovernment",
+      "source": "ocr",
+      "kind": "subtitle",
+      "start_seconds": 67.5,
+      "end_seconds": 71.17,
+      "confidence": 0.997,
+      "samples": 5,
+      "position": [
+        0.567,
+        0.56
+      ]
+    }
+  ],
+  "ocr_titles": [],
+  "speech_subtitles": [],
+  "raw_subtitle_count": 0,
+  "suppressed_asr": 0,
+  "images": [
+    {
+      "path": "images/extra_041_frame_01.jpg",
+      "filename": "extra_041_frame_01.jpg",
+      "timestamp": "00:10",
+      "seconds": 10.68,
+      "description": "觀音區相關影片畫面"
+    },
+    {
+      "path": "images/extra_041_frame_02.jpg",
+      "filename": "extra_041_frame_02.jpg",
+      "timestamp": "00:24",
+      "seconds": 24.91,
+      "description": "觀音區相關影片畫面"
+    },
+    {
+      "path": "images/extra_041_frame_03.jpg",
+      "filename": "extra_041_frame_03.jpg",
+      "timestamp": "00:39",
+      "seconds": 39.14,
+      "description": "觀音區相關影片畫面"
+    },
+    {
+      "path": "images/extra_041_frame_04.jpg",
+      "filename": "extra_041_frame_04.jpg",
+      "timestamp": "00:53",
+      "seconds": 53.38,
+      "description": "觀音區相關影片畫面"
+    }
+  ],
+  "process": [
+    {
+      "name": "原始影音與字幕",
+      "count": 0
+    },
+    {
+      "name": "影格 OCR",
+      "count": 6
+    },
+    {
+      "name": "畫面文字合併",
+      "count": 5
+    },
+    {
+      "name": "字幕來源分流",
+      "count": 0
+    },
+    {
+      "name": "保留原始來源",
+      "count": 0
+    }
+  ]
+}
