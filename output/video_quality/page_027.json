@@ -1,0 +1,254 @@
+{
+  "id": "page_027",
+  "video_id": "uRHrog9kbvA",
+  "source_url": "https://youtube.com/shorts/uRHrog9kbvA?si=HV51h_uice8StG-i",
+  "title": "桃園觀音一日遊｜百合花海＋綠色隧道＋百年燈塔 #旅行 #景點 #賞花",
+  "raw_crawl_status": "success (youtube_vtt (.vtt))",
+  "subtitle_source": "youtube_vtt",
+  "raw_subtitle_count": 9,
+  "candidate_subtitle_count": 9,
+  "excluded_subtitle_count": 0,
+  "candidate_timestamps": [
+    {
+      "start": "00:00",
+      "end": "00:01",
+      "start_seconds": 0.666,
+      "end_seconds": 1.333,
+      "text": "我是雲",
+      "verified": false,
+      "source": "subtitle_candidate"
+    },
+    {
+      "start": "00:01",
+      "end": "00:03",
+      "start_seconds": 1.5,
+      "end_seconds": 3.6,
+      "text": "這次來到桃園市觀音區一日遊",
+      "verified": false,
+      "source": "subtitle_candidate"
+    },
+    {
+      "start": "00:05",
+      "end": "00:07",
+      "start_seconds": 5.0,
+      "end_seconds": 7.5,
+      "text": "先到「白千層鐵炮百合花園」賞花海",
+      "verified": false,
+      "source": "subtitle_candidate"
+    },
+    {
+      "start": "00:08",
+      "end": "00:11",
+      "start_seconds": 8.366,
+      "end_seconds": 11.0,
+      "text": "再走進綠色隧道，漫步「白千層林道」",
+      "verified": false,
+      "source": "subtitle_candidate"
+    },
+    {
+      "start": "00:11",
+      "end": "00:13",
+      "start_seconds": 11.366,
+      "end_seconds": 13.133,
+      "text": "接著前往「好客食堂」用餐",
+      "verified": false,
+      "source": "subtitle_candidate"
+    },
+    {
+      "start": "00:13",
+      "end": "00:15",
+      "start_seconds": 13.466,
+      "end_seconds": 15.466,
+      "text": "並在「崙坪文化地景園區」散步",
+      "verified": false,
+      "source": "subtitle_candidate"
+    },
+    {
+      "start": "00:16",
+      "end": "00:18",
+      "start_seconds": 16.466,
+      "end_seconds": 18.566,
+      "text": "最後到「白沙岬燈塔」參觀",
+      "verified": false,
+      "source": "subtitle_candidate"
+    },
+    {
+      "start": "00:19",
+      "end": "00:20",
+      "start_seconds": 19.466,
+      "end_seconds": 20.966,
+      "text": "欲知詳情，快點連結",
+      "verified": false,
+      "source": "subtitle_candidate"
+    },
+    {
+      "start": "00:21",
+      "end": "00:22",
+      "start_seconds": 21.133,
+      "end_seconds": 22.866,
+      "text": "若喜歡，按讚，訂閱",
+      "verified": false,
+      "source": "subtitle_candidate"
+    }
+  ],
+  "image_count": 4,
+  "metrics": {
+    "segments": 9,
+    "chinese_ratio": 1.0,
+    "english_ratio": 0.0,
+    "music_ratio": 0.0,
+    "duplicate_ratio": 0.0,
+    "very_short_ratio": 0.111
+  },
+  "quality_state": "needs_review",
+  "quality_reason": "字幕已擷取，尚未通過內容審核",
+  "warnings": [],
+  "ocr_attempted": false,
+  "ocr_error": "",
+  "ocr_texts": [],
+  "review_state": "pending",
+  "review_note": "",
+  "reviewed_at": null,
+  "stages": [
+    {
+      "step": "來源註冊",
+      "status": "done",
+      "detail": "有影片來源 ID 與原始網址",
+      "time": null
+    },
+    {
+      "step": "影片取得",
+      "status": "done",
+      "detail": "來源影片資訊已輸出（不代表授權已確認）",
+      "time": null
+    },
+    {
+      "step": "語音字幕",
+      "status": "done",
+      "detail": "YouTube VTT；9 段原始字幕",
+      "time": null
+    },
+    {
+      "step": "代表畫面",
+      "status": "done",
+      "detail": "4 張影格",
+      "time": null
+    },
+    {
+      "step": "畫面文字 OCR",
+      "status": "pending",
+      "detail": "尚未執行，可使用 --ocr",
+      "time": null
+    },
+    {
+      "step": "字幕品質分析",
+      "status": "done",
+      "detail": "判定：needs_review；屬自動初篩",
+      "time": null
+    },
+    {
+      "step": "人工審核",
+      "status": "pending",
+      "detail": "尚未人工審核",
+      "time": null
+    }
+  ],
+  "analyzed_at": "2026-11-05T08:21:51+00:00",
+  "crawled_at": "2026-11-05T14:54:08+08:00",
+  "images": [
+    {
+      "path": "images/page_027_frame_01.jpg",
+      "filename": "page_027_frame_01.jpg",
+      "timestamp": "00:01",
+      "seconds": 1.5,
+      "description": "這次來到桃園市觀音區一日遊"
+    },
+    {
+      "path": "images/page_027_frame_02.jpg",
+      "filename": "page_027_frame_02.jpg",
+      "timestamp": "00:08",
+      "seconds": 8.03,
+      "description": "觀音區相關影片畫面"
+    },
+    {
+      "path": "images/page_027_frame_03.jpg",
+      "filename": "page_027_frame_03.jpg",
+      "timestamp": "00:12",
+      "seconds": 12.61,
+      "description": "接著前往「好客食堂」用餐"
+    },
+    {
+      "path": "images/page_027_frame_04.jpg",
+      "filename": "page_027_frame_04.jpg",
+      "timestamp": "00:16",
+      "seconds": 16.47,
+      "description": "最後到「白沙岬燈塔」參觀"
+    }
+  ],
+  "raw_timestamps": [
+    {
+      "start": "00:00",
+      "end": "00:01",
+      "start_seconds": 0.666,
+      "end_seconds": 1.333,
+      "text": "我是雲"
+    },
+    {
+      "start": "00:01",
+      "end": "00:03",
+      "start_seconds": 1.5,
+      "end_seconds": 3.6,
+      "text": "這次來到桃園市觀音區一日遊"
+    },
+    {
+      "start": "00:05",
+      "end": "00:07",
+      "start_seconds": 5.0,
+      "end_seconds": 7.5,
+      "text": "先到「白千層鐵炮百合花園」賞花海"
+    },
+    {
+      "start": "00:08",
+      "end": "00:11",
+      "start_seconds": 8.366,
+      "end_seconds": 11.0,
+      "text": "再走進綠色隧道，漫步「白千層林道」"
+    },
+    {
+      "start": "00:11",
+      "end": "00:13",
+      "start_seconds": 11.366,
+      "end_seconds": 13.133,
+      "text": "接著前往「好客食堂」用餐"
+    },
+    {
+      "start": "00:13",
+      "end": "00:15",
+      "start_seconds": 13.466,
+      "end_seconds": 15.466,
+      "text": "並在「崙坪文化地景園區」散步"
+    },
+    {
+      "start": "00:16",
+      "end": "00:18",
+      "start_seconds": 16.466,
+      "end_seconds": 18.566,
+      "text": "最後到「白沙岬燈塔」參觀"
+    },
+    {
+      "start": "00:19",
+      "end": "00:20",
+      "start_seconds": 19.466,
+      "end_seconds": 20.966,
+      "text": "欲知詳情，快點連結"
+    },
+    {
+      "start": "00:21",
+      "end": "00:22",
+      "start_seconds": 21.133,
+      "end_seconds": 22.866,
+      "text": "若喜歡，按讚，訂閱"
+    }
+  ],
+  "usable_for_knowledge": false
+}

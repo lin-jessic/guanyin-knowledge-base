@@ -1,0 +1,389 @@
+{
+  "id": "extra_041",
+  "video_id": "mkrTE-tLQnI",
+  "source_url": "https://www.youtube.com/watch?v=mkrTE-tLQnI",
+  "title": "【觀新藻礁👉探索桃園海岸的魅力】",
+  "raw_crawl_status": "success (no_subtitles)",
+  "subtitle_source": "none",
+  "raw_subtitle_count": 0,
+  "candidate_subtitle_count": 0,
+  "excluded_subtitle_count": 0,
+  "candidate_timestamps": [],
+  "image_count": 4,
+  "metrics": {
+    "segments": 0,
+    "chinese_ratio": 0.0,
+    "english_ratio": 0.0,
+    "music_ratio": 0.0,
+    "duplicate_ratio": 0.0,
+    "very_short_ratio": 0.0
+  },
+  "quality_state": "visual_only",
+  "quality_reason": "已由研究者指定：無可靠語音逐字稿，應檢查畫面文字",
+  "warnings": [],
+  "ocr_attempted": true,
+  "ocr_error": "",
+  "ocr_texts": [
+    {
+      "start": "00:01",
+      "end": "00:02",
+      "start_seconds": 1.0,
+      "end_seconds": 2.0,
+      "text": "觀新藻礁",
+      "confidence": 0.983,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "00:01",
+      "end": "00:02",
+      "start_seconds": 1.0,
+      "end_seconds": 2.0,
+      "text": "Guanxin Algal Reef",
+      "confidence": 0.946,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "00:02",
+      "end": "00:03",
+      "start_seconds": 2.0,
+      "end_seconds": 3.0,
+      "text": "觀新藻礁",
+      "confidence": 0.983,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "00:02",
+      "end": "00:03",
+      "start_seconds": 2.0,
+      "end_seconds": 3.0,
+      "text": "Guanxin Algal Reef",
+      "confidence": 0.946,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "00:03",
+      "end": "00:04",
+      "start_seconds": 3.0,
+      "end_seconds": 4.0,
+      "text": "觀新藻礁",
+      "confidence": 0.981,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "00:03",
+      "end": "00:04",
+      "start_seconds": 3.0,
+      "end_seconds": 4.0,
+      "text": "Guanxin Algal Reef",
+      "confidence": 0.98,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "00:04",
+      "end": "00:05",
+      "start_seconds": 4.0,
+      "end_seconds": 5.0,
+      "text": "觀新藻礁",
+      "confidence": 0.885,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "00:04",
+      "end": "00:05",
+      "start_seconds": 4.0,
+      "end_seconds": 5.0,
+      "text": "Guanxin Algal Reef",
+      "confidence": 0.976,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "01:07",
+      "end": "01:08",
+      "start_seconds": 67.0,
+      "end_seconds": 68.0,
+      "text": "桃園",
+      "confidence": 0.704,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "01:07",
+      "end": "01:08",
+      "start_seconds": 67.0,
+      "end_seconds": 68.0,
+      "text": "桃園市政府",
+      "confidence": 0.935,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "01:07",
+      "end": "01:08",
+      "start_seconds": 67.0,
+      "end_seconds": 68.0,
+      "text": "Taoyuan CityGovernment",
+      "confidence": 0.985,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "01:07",
+      "end": "01:08",
+      "start_seconds": 67.0,
+      "end_seconds": 68.0,
+      "text": "廣告",
+      "confidence": 0.966,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "01:08",
+      "end": "01:09",
+      "start_seconds": 68.0,
+      "end_seconds": 69.0,
+      "text": "桃園",
+      "confidence": 0.867,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "01:08",
+      "end": "01:09",
+      "start_seconds": 68.0,
+      "end_seconds": 69.0,
+      "text": "桃園市政府",
+      "confidence": 0.958,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "01:08",
+      "end": "01:09",
+      "start_seconds": 68.0,
+      "end_seconds": 69.0,
+      "text": "TaoyuanCityGovernment",
+      "confidence": 0.996,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "01:08",
+      "end": "01:09",
+      "start_seconds": 68.0,
+      "end_seconds": 69.0,
+      "text": "廣告",
+      "confidence": 0.956,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "01:09",
+      "end": "01:10",
+      "start_seconds": 69.0,
+      "end_seconds": 70.0,
+      "text": "桃園",
+      "confidence": 0.867,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "01:09",
+      "end": "01:10",
+      "start_seconds": 69.0,
+      "end_seconds": 70.0,
+      "text": "桃園市政府",
+      "confidence": 0.957,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "01:09",
+      "end": "01:10",
+      "start_seconds": 69.0,
+      "end_seconds": 70.0,
+      "text": "TaoyuanCityGovernment",
+      "confidence": 0.996,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "01:09",
+      "end": "01:10",
+      "start_seconds": 69.0,
+      "end_seconds": 70.0,
+      "text": "廣告",
+      "confidence": 0.956,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "01:10",
+      "end": "01:11",
+      "start_seconds": 70.0,
+      "end_seconds": 71.0,
+      "text": "桃園",
+      "confidence": 0.759,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "01:10",
+      "end": "01:11",
+      "start_seconds": 70.0,
+      "end_seconds": 71.0,
+      "text": "桃園市政府",
+      "confidence": 0.957,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "01:10",
+      "end": "01:11",
+      "start_seconds": 70.0,
+      "end_seconds": 71.0,
+      "text": "TaoyuanCityGovernment",
+      "confidence": 0.998,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "01:10",
+      "end": "01:11",
+      "start_seconds": 70.0,
+      "end_seconds": 71.0,
+      "text": "廣告",
+      "confidence": 0.952,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "01:11",
+      "end": "01:12",
+      "start_seconds": 71.0,
+      "end_seconds": 72.0,
+      "text": "桃園",
+      "confidence": 0.959,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "01:11",
+      "end": "01:12",
+      "start_seconds": 71.0,
+      "end_seconds": 72.0,
+      "text": "桃園市政府",
+      "confidence": 0.946,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "01:11",
+      "end": "01:12",
+      "start_seconds": 71.0,
+      "end_seconds": 72.0,
+      "text": "Taoyuan City Government",
+      "confidence": 0.951,
+      "source": "ocr_candidate",
+      "verified": false
+    },
+    {
+      "start": "01:11",
+      "end": "01:12",
+      "start_seconds": 71.0,
+      "end_seconds": 72.0,
+      "text": "廣告",
+      "confidence": 0.904,
+      "source": "ocr_candidate",
+      "verified": false
+    }
+  ],
+  "review_state": "pending",
+  "review_note": "",
+  "reviewed_at": null,
+  "stages": [
+    {
+      "step": "來源註冊",
+      "status": "done",
+      "detail": "有影片來源 ID 與原始網址",
+      "time": null
+    },
+    {
+      "step": "影片取得",
+      "status": "done",
+      "detail": "來源影片資訊已輸出（不代表授權已確認）",
+      "time": null
+    },
+    {
+      "step": "語音字幕",
+      "status": "skipped",
+      "detail": "沒有可用語音逐字稿；0 段原始字幕",
+      "time": null
+    },
+    {
+      "step": "代表畫面",
+      "status": "done",
+      "detail": "4 張影格",
+      "time": null
+    },
+    {
+      "step": "畫面文字 OCR",
+      "status": "done",
+      "detail": "28 段候選畫面文字",
+      "time": null
+    },
+    {
+      "step": "字幕品質分析",
+      "status": "done",
+      "detail": "判定：visual_only；屬自動初篩",
+      "time": null
+    },
+    {
+      "step": "人工審核",
+      "status": "pending",
+      "detail": "尚未人工審核",
+      "time": null
+    }
+  ],
+  "analyzed_at": "2026-11-05T08:22:58+00:00",
+  "crawled_at": "2026-11-05T15:34:06+08:00",
+  "images": [
+    {
+      "path": "images/extra_041_frame_01.jpg",
+      "filename": "extra_041_frame_01.jpg",
+      "timestamp": "00:10",
+      "seconds": 10.68,
+      "description": "觀音區相關影片畫面"
+    },
+    {
+      "path": "images/extra_041_frame_02.jpg",
+      "filename": "extra_041_frame_02.jpg",
+      "timestamp": "00:24",
+      "seconds": 24.91,
+      "description": "觀音區相關影片畫面"
+    },
+    {
+      "path": "images/extra_041_frame_03.jpg",
+      "filename": "extra_041_frame_03.jpg",
+      "timestamp": "00:39",
+      "seconds": 39.14,
+      "description": "觀音區相關影片畫面"
+    },
+    {
+      "path": "images/extra_041_frame_04.jpg",
+      "filename": "extra_041_frame_04.jpg",
+      "timestamp": "00:53",
+      "seconds": 53.38,
+      "description": "觀音區相關影片畫面"
+    }
+  ],
+  "raw_timestamps": [],
+  "usable_for_knowledge": false
+}
