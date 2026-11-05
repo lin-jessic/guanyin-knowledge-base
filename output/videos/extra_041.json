@@ -1,0 +1,50 @@
+{
+  "id": "extra_041",
+  "type": "video",
+  "title": "【觀新藻礁👉探索桃園海岸的魅力】",
+  "source_url": "https://www.youtube.com/watch?v=mkrTE-tLQnI",
+  "source_name": "桃園事",
+  "content": "（無可用字幕逐字稿紀錄）",
+  "images": [
+    {
+      "path": "images/extra_041_frame_01.jpg",
+      "filename": "extra_041_frame_01.jpg",
+      "timestamp": "00:10",
+      "seconds": 10.68,
+      "description": "觀音區相關影片畫面"
+    },
+    {
+      "path": "images/extra_041_frame_02.jpg",
+      "filename": "extra_041_frame_02.jpg",
+      "timestamp": "00:24",
+      "seconds": 24.91,
+      "description": "觀音區相關影片畫面"
+    },
+    {
+      "path": "images/extra_041_frame_03.jpg",
+      "filename": "extra_041_frame_03.jpg",
+      "timestamp": "00:39",
+      "seconds": 39.14,
+      "description": "觀音區相關影片畫面"
+    },
+    {
+      "path": "images/extra_041_frame_04.jpg",
+      "filename": "extra_041_frame_04.jpg",
+      "timestamp": "00:53",
+      "seconds": 53.38,
+      "description": "觀音區相關影片畫面"
+    }
+  ],
+  "links": [
+    "https://www.youtube.com/watch?v=mkrTE-tLQnI"
+  ],
+  "timestamps": [],
+  "crawl_status": "success (no_subtitles)",
+  "crawled_at": "2026-11-05T15:34:06+08:00",
+  "metadata": {
+    "video_id": "mkrTE-tLQnI",
+    "duration": 71,
+    "view_count": 2960,
+    "upload_date": "20220901"
+  }
+}
