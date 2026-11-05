@@ -1,0 +1,50 @@
+{
+  "id": "page_030",
+  "type": "video",
+  "title": "歷史那一刻 石門水庫遷村故事｜華視新聞雜誌｜精選",
+  "source_url": "https://youtu.be/AWP_v5I0zYA",
+  "source_name": "華視新聞雜誌",
+  "content": "（無可用字幕逐字稿紀錄）",
+  "images": [
+    {
+      "path": "images/page_030_frame_01.jpg",
+      "filename": "page_030_frame_01.jpg",
+      "timestamp": "02:02",
+      "seconds": 122.39,
+      "description": "觀音區相關影片畫面"
+    },
+    {
+      "path": "images/page_030_frame_02.jpg",
+      "filename": "page_030_frame_02.jpg",
+      "timestamp": "04:45",
+      "seconds": 285.57,
+      "description": "觀音區相關影片畫面"
+    },
+    {
+      "path": "images/page_030_frame_03.jpg",
+      "filename": "page_030_frame_03.jpg",
+      "timestamp": "07:28",
+      "seconds": 448.75,
+      "description": "觀音區相關影片畫面"
+    },
+    {
+      "path": "images/page_030_frame_04.jpg",
+      "filename": "page_030_frame_04.jpg",
+      "timestamp": "10:11",
+      "seconds": 611.94,
+      "description": "觀音區相關影片畫面"
+    }
+  ],
+  "links": [
+    "https://youtu.be/AWP_v5I0zYA"
+  ],
+  "timestamps": [],
+  "crawl_status": "success (no_subtitles)",
+  "crawled_at": "2026-11-05T14:55:48+08:00",
+  "metadata": {
+    "video_id": "AWP_v5I0zYA",
+    "duration": 816,
+    "view_count": 50537,
+    "upload_date": "20260128"
+  }
+}
