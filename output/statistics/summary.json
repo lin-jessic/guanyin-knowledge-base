@@ -1,0 +1,190 @@
+{
+  "total": 77,
+  "teacher_total": 31,
+  "teacher_crawl_success_rate": 0.968,
+  "teacher_complete_rate": 0.097,
+  "by_type": {
+    "web": 67,
+    "video": 10
+  },
+  "by_origin": {
+    "teacher": {
+      "partial": 27,
+      "failed": 1,
+      "complete": 3
+    },
+    "extra": {
+      "partial": 42,
+      "unavailable": 1,
+      "complete": 3
+    }
+  },
+  "processing_status": {
+    "partial": 69,
+    "failed": 1,
+    "complete": 6,
+    "unavailable": 1
+  },
+  "crawl_status": {
+    "success": 75,
+    "failed": 1,
+    "unavailable": 1
+  },
+  "content_chars": 32171,
+  "article_images": 0,
+  "video_frames": 40,
+  "subtitle_segments": 4292,
+  "subtitle_source": {
+    "youtube_vtt": 4,
+    "whisper": 5,
+    "no_subtitles": 1
+  },
+  "top_domains": [
+    [
+      "travel.tycg.gov.tw",
+      32
+    ],
+    [
+      "YouTube",
+      10
+    ],
+    [
+      "zh.wikipedia.org",
+      5
+    ],
+    [
+      "romantichakka.com",
+      2
+    ],
+    [
+      "vocus.cc",
+      2
+    ],
+    [
+      "ezgo.ardswc.gov.tw",
+      2
+    ],
+    [
+      "guanyin.tycg.gov.tw",
+      2
+    ],
+    [
+      "forest.gov.tw",
+      2
+    ],
+    [
+      "smiletaiwan.cw.com.tw",
+      1
+    ],
+    [
+      "natsuphil.com",
+      1
+    ],
+    [
+      "bip.gov.tw",
+      1
+    ],
+    [
+      "guanyin-hro.tycg.gov.tw",
+      1
+    ]
+  ],
+  "failure_reasons": [
+    [
+      "HTTP 404",
+      1
+    ],
+    [
+      "無法確認 robots.txt（保守停止）",
+      1
+    ]
+  ],
+  "partial_reasons": [
+    [
+      "尚無清理後正文／字幕",
+      66
+    ],
+    [
+      "內容品質不足",
+      3
+    ]
+  ],
+  "topics": [
+    [
+      "觀光景點",
+      5
+    ],
+    [
+      "歷史文化",
+      1
+    ]
+  ],
+  "top_keywords": [
+    [
+      "觀音",
+      3
+    ],
+    [
+      "埤塘",
+      1
+    ],
+    [
+      "甘泉寺",
+      1
+    ],
+    [
+      "飛機",
+      1
+    ],
+    [
+      "白沙岬燈塔",
+      1
+    ],
+    [
+      "百合花",
+      1
+    ],
+    [
+      "綠色",
+      1
+    ],
+    [
+      "賞花",
+      1
+    ],
+    [
+      "隧道",
+      1
+    ],
+    [
+      "一日遊",
+      1
+    ],
+    [
+      "石門水庫",
+      1
+    ],
+    [
+      "移民新村",
+      1
+    ],
+    [
+      "樹林",
+      1
+    ],
+    [
+      "老家",
+      1
+    ],
+    [
+      "居民",
+      1
+    ]
+  ],
+  "verdicts": {
+    "有衝突": 4,
+    "已證實": 1,
+    "資料不足": 1
+  },
+  "claims": 6
+}

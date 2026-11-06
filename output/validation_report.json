@@ -1,0 +1,400 @@
+{
+  "checked_at": "2026-11-06T15:48:13+08:00",
+  "records": 77,
+  "claims": 6,
+  "errors": 0,
+  "warnings": 63,
+  "infos": 2,
+  "issues": [
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_001",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_003",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_004",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_005",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_006",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_007",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_008",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_009",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_010",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_011",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_012",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_013",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_014",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_015",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_016",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_017",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_018",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_019",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_020",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_021",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_022",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_023",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_024",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_025",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "info",
+      "code": "id_alias",
+      "id": "page_026",
+      "message": "其他模組使用的 ID「video_2hbu5n9VLZY」已對應到 page_026"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_028",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_029",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "page_031",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_001",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_002",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_006",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_007",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_008",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_009",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_010",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_011",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_012",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_013",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_014",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_015",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_016",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_017",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_018",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_019",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_020",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_021",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_022",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_023",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_024",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_025",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_026",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_027",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_028",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_029",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_030",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_031",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_032",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_033",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_034",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_035",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_036",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_037",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_038",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "warning",
+      "code": "no_clean_content",
+      "id": "extra_039",
+      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+    },
+    {
+      "level": "info",
+      "code": "quote_pending",
+      "id": "C05",
+      "message": "extra_001 尚無正文，等內容取得後才能比對引用原句"
+    }
+  ]
+}

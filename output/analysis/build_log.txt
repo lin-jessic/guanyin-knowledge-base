@@ -1,0 +1,3 @@
+找不到 output/crawl_report.csv，改用 site/index.html 內嵌的爬取紀錄（77 筆，為建站當時的快照；沒有 raw_html，網頁內容仍需組員 2 產生）
+尚無 output/articles/（組員 2 的正文清理成果），網頁內容先標為「尚無清理後內容」
+影片模組使用 ID「video_2hbu5n9VLZY」，已依影片網址對應回正式 ID page_026

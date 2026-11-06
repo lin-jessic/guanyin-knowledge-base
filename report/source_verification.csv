@@ -1,0 +1,24 @@
+﻿claim_id,claim,verdict,conclusion,role,record_id,quote,location,source_name,source_url,authority,finding,checked_by,checked_at
+C01,「石觀音」地名由來（觀音形石出現）的年代,有衝突,官方來源之間就有 1860 年與 1780 年兩說，而且多以「相傳」敘述；同一支影片前後也各說一個年份。知識庫並列兩說並標示出處，不採單一年份。可共同確認的是：地名源自觀音形石的傳說。,crawled,page_026,舊稱石觀音源自於1860年有農民在小溪拾得一顆酷似觀音佛像的天然石頭,00:01:26,IROIRO（YouTube）,https://www.youtube.com/watch?v=2hbu5n9VLZY&t=86s,video,影片說 1860 年,組員4（AI 協助檢索，待組員複核）,2026-11-05
+C01,,,,crawled,page_026,甘泉寺前身為福龍寺起源於清乾隆年間大約1780年左右,00:30:12,IROIRO（YouTube）,https://www.youtube.com/watch?v=2hbu5n9VLZY&t=1812s,video,同一支影片後段改說約 1780 年（前後不一致）,組員4（AI 協助檢索，待組員複核）,2026-11-05
+C01,,,,evidence,page_007,,,桃園市觀音區戶政事務所〈歷史沿革〉,https://www.guanyin-hro.tycg.gov.tw/cp.aspx?n=13772,official,清咸豐 10 年（1860）相傳農民在溪中拾得觀音形石像，同年籌建福龍山寺，後因湧泉改名甘泉寺,組員4（AI 協助檢索，待組員複核）,2026-11-05
+C01,,,,evidence,extra_013,,,客家委員會 客家雲〈觀音甘泉寺〉,https://cloud.hakka.gov.tw/Details?p=64716&pid=279528,official,清乾隆 45 年（1780）石像自埤塘湧出；咸豐 8–9 年（1858–1859）建廟並命名甘泉寺,組員4（AI 協助檢索，待組員複核）,2026-11-05
+C01,,,,evidence,,,,甘泉寺官方網站〈歷史沿革〉,https://www.ganquan-temple.org.tw/aboutus,self_published,首頁稱咸豐年間拾得石像；沿革時間軸寫 1887 年（光緒 13 年）創建並定名甘泉寺,組員4（AI 協助檢索，待組員複核）,2026-11-05
+C02,觀音鄉改制為觀音區的年份,有衝突,影片說 2015 年，但戶政事務所寫 2014 年（民國 103 年）桃園升格直轄市、觀音鄉改制為觀音區。影片敘述與官方不符，應採 2014 年。,crawled,page_026,日治時期1920年改制為觀音庄戰後改為觀音鄉2015年桃園升格直轄市後改為觀音區,00:01:37,IROIRO（YouTube）,https://www.youtube.com/watch?v=2hbu5n9VLZY&t=97s,video,影片說 2015 年改為觀音區；1920 年改為觀音庄,組員4（AI 協助檢索，待組員複核）,2026-11-05
+C02,,,,evidence,page_007,,,桃園市觀音區戶政事務所〈歷史沿革〉,https://www.guanyin-hro.tycg.gov.tw/cp.aspx?n=13772,official,1920 年改「觀音庄」；1950 年定名桃園縣觀音鄉；2014 年（民國 103 年）桃園縣升格直轄市，改制為桃園市觀音區,組員4（AI 協助檢索，待組員複核）,2026-11-05
+C03,白沙岬燈塔於 2021 年指定為國定古蹟,已證實,文化部 110 年（2021）5 月 10 日公告指定「觀音白沙岬燈塔」為國定古蹟，與影片敘述一致。影片所說 2002 年列縣定古蹟，客家雲也有相同紀錄。,crawled,page_026,2002年公告為桃園縣第一座縣定古蹟2021年再升格為國定古蹟,00:24:52,IROIRO（YouTube）,https://www.youtube.com/watch?v=2hbu5n9VLZY&t=1492s,video,影片：2002 縣定古蹟、2021 國定古蹟,組員4（AI 協助檢索，待組員複核）,2026-11-05
+C03,,,,evidence,,,,行政院公報 第027卷第087期 文化部公告（文授資局蹟字第11030046391號）,https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg027087/ch05/type3/gov46/num14/Eg.pdf,official,中華民國 110 年 5 月 10 日公告指定「觀音白沙岬燈塔」為國定古蹟，即日生效,組員4（AI 協助檢索，待組員複核）,2026-11-05
+C03,,,,evidence,,,,客家委員會 客家雲〈石觀音白沙岬燈塔〉,https://cloud.hakka.gov.tw/Details?p=60095&pid=280612,official,2002 年（民國 91 年）列為桃園縣縣定古蹟,組員4（AI 協助檢索，待組員複核）,2026-11-05
+C04,白沙岬燈塔的興建與完工年代,有衝突,動工 1898 年：影片與客家雲一致。完工年在官方來源之間就不一致：文化部公告寫 1900 年竣工，航港局、觀光署、客家雲寫 1901 年。extra_040 所說 1899 年來自語音辨識字幕，沒有其他來源支持。完工年需再查日治時期原始檔案。,crawled,page_026,位於桃園觀音海岸的白沙岬燈塔是於日治時期1898年開始興建,00:24:35,IROIRO（YouTube）,https://www.youtube.com/watch?v=2hbu5n9VLZY&t=1475s,video,影片：1898 年開始興建,組員4（AI 協助檢索，待組員複核）,2026-11-05
+C04,,,,crawled,extra_040,建於1899年,00:01:37,桃園事（YouTube）,https://www.youtube.com/watch?v=ZC3aSIDH5rw&t=97s,video,語音辨識字幕：建於 1899 年（字幕待審核）,組員4（AI 協助檢索，待組員複核）,2026-11-05
+C04,,,,evidence,,,,行政院公報 文化部公告（110 年 5 月 10 日）指定理由,https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg027087/ch05/type3/gov46/num14/Eg.pdf,official,指定理由寫 1900 年竣工,組員4（AI 協助檢索，待組員複核）,2026-11-05
+C04,,,,evidence,,,,交通部航港局 燈塔專區〈白沙岬燈塔〉,https://lighthouse.motcmpb.gov.tw/lighthouse_3_29.html,official,1901 年完工；白色圓形磚塔 27.7 公尺,組員4（AI 協助檢索，待組員複核）,2026-11-05
+C04,,,,evidence,,,,交通部觀光署〈白沙岬燈塔〉,https://www.taiwan.net.tw/m1.aspx?sNo=0001016&id=A12-00194,official,1901 年建造；原高 38 公尺以上，二戰受損重建後 27.7 公尺,組員4（AI 協助檢索，待組員複核）,2026-11-05
+C04,,,,evidence,,,,客家委員會 客家雲〈石觀音白沙岬燈塔〉,https://cloud.hakka.gov.tw/Details?p=60095&pid=280612,official,明治 31 年（1898）動工、明治 34 年（1901）1 月完工點燈,組員4（AI 協助檢索，待組員複核）,2026-11-05
+C05,觀音區面積,有衝突,四個政府頁面出現 87.98、87.9807、99.83、99.85 平方公里，分成約 88 與約 100 兩組，連區公所同一頁都寫了兩種；頁面都沒有說明統計範圍與基準年。引用時須寫明出處與日期，並向地政機關確認。,crawled,extra_001,面積達99.83平方公里,觀音意象 頁面,桃園市觀音區公所〈觀音意象〉,https://www.guanyin.tycg.gov.tw/cp.aspx?Create=1&n=6874,official,99.83 平方公里,組員4（AI 協助檢索，待組員複核）,2026-11-05
+C05,,,,evidence,,,,桃園市觀音區公所〈行政區域〉,https://www.guanyin.tycg.gov.tw/cp.aspx?n=6873,official,同一頁同時寫 87.98 與 99.83 平方公里，未說明差異,組員4（AI 協助檢索，待組員複核）,2026-11-05
+C05,,,,evidence,,,,桃園市觀音區戶政事務所〈行政區域〉,https://www.guanyin-hro.tycg.gov.tw/cp.aspx?n=13774,official,87.9807 平方公里,組員4（AI 協助檢索，待組員複核）,2026-11-05
+C05,,,,evidence,,,,桃園市政府〈土地〉（數據更新 114-05-06）,https://www.tycg.gov.tw/cp.aspx?n=35,official,觀音區 99.85 平方公里,組員4（AI 協助檢索，待組員複核）,2026-11-05
+C06,草漯沙丘的長度與面積,資料不足,影片提到沙丘帶長 8.1 公里、面積約 4 平方公里，但這次無法讀取林業保育署的草漯沙丘頁面，沒有官方數字可以比對。待組員 1 爬取 extra_010、extra_011 後再查證，在此之前不當作已確認事實。,crawled,page_026,蔓延8.1公里長的沙丘帶,00:28:31,IROIRO（YouTube）,https://www.youtube.com/watch?v=2hbu5n9VLZY&t=1711s,video,影片：8.1 公里長,組員4（AI 協助檢索，待組員複核）,2026-11-05
+C06,,,,crawled,page_026,總面積約4平方公里沙丘高度最高可達15公尺,00:29:22,IROIRO（YouTube）,https://www.youtube.com/watch?v=2hbu5n9VLZY&t=1762s,video,影片：面積約 4 平方公里、最高 15 公尺,組員4（AI 協助檢索，待組員複核）,2026-11-05
+C06,,,,evidence,extra_011,,,農業部林業及自然保育署〈草漯沙丘自然地景〉,https://www.forest.gov.tw/0008127,official,尚未取得頁面內容（本次查證環境無法讀取），待爬取後比對,組員4（AI 協助檢索，待組員複核）,2026-11-05
