@@ -8,8 +8,9 @@ from pathlib import Path
 from urllib.parse import urlsplit
 from .url_manager import load_urls,canonical,is_video,valid_url
 from .fetcher import fetch_web
+from .article_parser import parse_article, write_article_outputs
 
-FIELDS=['id','type','origin','topic','source_url','final_url','title','source_name','crawl_status','reason','http_status','attempts','elapsed_ms','link_count','sha256','changed','crawled_at','depth','parent_url']
+FIELDS=['id','type','origin','topic','source_url','final_url','title','source_name','crawl_status','reason','http_status','attempts','elapsed_ms','link_count','sha256','changed','crawled_at','depth','parent_url','content_status','processing_status','processing_reason','image_count']
 KEYWORDS=('觀音','guanyin','kuangin','草漯','白沙岬','藻礁','大潭','崙坪','蓮花','hakka','沙丘')
 
 def relevant_links(links,source_url,limit,allow_hosts):
@@ -37,6 +38,8 @@ def save_report(path,reports):
 def main():
     p=argparse.ArgumentParser(description='Guanyin crawler / member 1')
     p.add_argument('--urls',default='urls.csv');p.add_argument('--id');p.add_argument('--url')
+    p.add_argument('--web-only',action='store_true',help='只處理一般網頁，跳過 YouTube／video 來源')
+    p.add_argument('--no-browser-fallback',action='store_true',help='停用 JavaScript／403 的 Selenium fallback')
     p.add_argument('--origin',choices=['teacher','extra']);p.add_argument('--explore',action='store_true')
     p.add_argument('--include-discovery',action='store_true')
     p.add_argument('--max-extra',type=int,default=2);p.add_argument('--delay',type=float,default=2)
@@ -54,6 +57,8 @@ def main():
     if a.url:
         if not valid_url(a.url):p.error('指定的網址不合法')
         entries=[dict(id='manual_001',url=a.url,type='video' if is_video(a.url) else 'web',origin='manual',topic='')]
+    if a.web_only:
+        entries=[r for r in entries if r.get('type') == 'web']
     if not entries:p.error('沒有可處理的網址')
     out=Path(a.report).parent
     (out/'raw_html').mkdir(parents=True,exist_ok=True)
@@ -81,13 +86,30 @@ def main():
                 result=process_video(e,out_dir=out)
             except Exception as exc:
                 result=dict(status='failed',reason=f'影片處理異常: {exc}',http_status='500',final_url=url,title='',source_name=urlsplit(url).hostname or 'youtube.com',html='',links=[],attempts=1,elapsed_ms=0)
-        else:result=fetch_web(url,timeout=a.timeout,retries=a.retries,respect_robots=not a.no_robots_check)
+        else:result=fetch_web(url,timeout=a.timeout,retries=a.retries,respect_robots=not a.no_robots_check,
+                              browser_fallback=not a.no_browser_fallback)
         digest=hashlib.sha256(result['html'].encode('utf-8')).hexdigest() if result['status']=='success' else ''
         changed='unknown' if not old.get('sha256') or not digest else str(old['sha256']!=digest).lower()
+        article_result = None
         if result['status']=='success':
             (out/'raw_html'/f"{e['id']}.html").write_text(result['html'],encoding='utf-8')
             (out/'links'/f"{e['id']}.json").write_text(json.dumps(result['links'],ensure_ascii=False,indent=2),encoding='utf-8')
-        reports[e['id']]=dict(id=e['id'],type=e['type'],origin=e.get('origin',''),topic=e.get('topic',''),source_url=url,final_url=result['final_url'],title=result['title'],source_name=result['source_name'],crawl_status=result['status'],reason=result['reason'],http_status=result['http_status'],attempts=result['attempts'],elapsed_ms=result['elapsed_ms'],link_count=len(result['links']),sha256=digest,changed=changed,crawled_at=now,depth=depth,parent_url=parent_url)
+            if e['type']=='web':
+                try:
+                    article_result = parse_article(result['html'], result['final_url'] or url, e['id'], out/'images',
+                                                   image_headers=result.get('image_headers'), crawled_at=now)
+                    write_article_outputs(article_result, out)
+                except Exception as exc:
+                    article_result = {'content_status':'missing','processing_status':'failed',
+                                      'processing_reason':f'正文／圖片處理異常: {type(exc).__name__}: {exc}', 'images':[]}
+        default_content = 'not_applicable' if e['type'] == 'video' else 'missing'
+        default_processing = ('not_applicable' if e['type'] == 'video' else
+                              (result['status'] if result['status'] in ('failed', 'unavailable') else 'partial'))
+        reports[e['id']]=dict(id=e['id'],type=e['type'],origin=e.get('origin',''),topic=e.get('topic',''),source_url=url,final_url=result['final_url'],title=result['title'],source_name=result['source_name'],crawl_status=result['status'],reason=result['reason'],http_status=result['http_status'],attempts=result['attempts'],elapsed_ms=result['elapsed_ms'],link_count=len(result['links']),sha256=digest,changed=changed,crawled_at=now,depth=depth,parent_url=parent_url,
+                              content_status=(article_result or {}).get('content_status',default_content),
+                              processing_status=(article_result or {}).get('processing_status',default_processing),
+                              processing_reason=(article_result or {}).get('processing_reason',''),
+                              image_count=len((article_result or {}).get('images',[])))
         save_report(report_path,reports)
         print(f"[{count}/{len(pending)}+延伸] {e['id']} {result['status']} (HTTP {result['http_status']}) {url[:80]}",flush=True)
         if a.delay>0 and e['type']=='web':time.sleep(a.delay)
