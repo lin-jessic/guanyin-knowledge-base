@@ -5,6 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 
 HEADERS={'User-Agent':'GuanyinKnowledgeCrawler/1.0 (university coursework; respects robots.txt)'}
+IMAGE_HEADERS={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36','Accept':'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8','Sec-Fetch-Dest':'image','Sec-Fetch-Mode':'no-cors','Sec-Fetch-Site':'cross-site'}
 RETRY_CODES={429,500,502,503,504}
 ROBOTS_CACHE={}
 
@@ -106,7 +107,8 @@ def fetch_web(url,timeout=15,retries=2,respect_robots=True,browser_fallback=True
                 if parsed.scheme not in ('http','https'):continue
                 link=parsed._replace(fragment='').geturl()
                 if link not in seen:seen.add(link);links.append(link)
-            return dict(status='success',reason=render_reason,http_status=r.status_code,final_url=r.url,title=title,source_name=urlparse(r.url).netloc,html=r.text,links=links,attempts=attempt,elapsed_ms=round((time.monotonic()-started)*1000))
+            image_headers=dict(IMAGE_HEADERS,Referer=r.url)
+            return dict(status='success',reason=render_reason,http_status=r.status_code,final_url=r.url,title=title,source_name=urlparse(r.url).netloc,html=r.text,links=links,image_headers=image_headers,attempts=attempt,elapsed_ms=round((time.monotonic()-started)*1000))
         except requests.exceptions.RequestException as e:
             if attempt<=retries:time.sleep(min(2**(attempt-1),8));continue
             if browser_fallback:

@@ -7,7 +7,7 @@ source_url: https://www.guanyin.tycg.gov.tw/SiteMap.aspx
 跳到主要內容區塊跳到主要內容區塊var $a = $('.for_accessibility a'); $a.on('click', function (evt) { var $href = $($(this).attr('href')), $target = $href.find('a').eq(0).get(0); setTimeout(function () { try { $target.focus(); } catch (e) { } }, 0); });document.body.setAttribute("data-js", "true");主選單 結束標題手機版選單搜尋搜尋- [住院補助](/Advanced_Search.aspx?q=住院補助)
 - [市民卡](/Advanced_Search.aspx?q=市民卡)
 
-$(function () { $('[data-search="btn_3daf258afccf4c58a774532e4cc3e3ee"]').on("keydown", function (event) { if (event.which == 13) { event.preventDefault(); document.querySelector('.submit [data-search="btn_3daf258afccf4c58a774532e4cc3e3ee"]').click(); } }); });- [進階搜尋](https://www.google.com.tw/advanced_search?hl=zh-Hant-tw&as_sitesearch=https://www.guanyin.tycg.gov.tw)
+$(function () { $('[data-search="btn_e9ee866cbc05430cbf7a6cb043774c64"]').on("keydown", function (event) { if (event.which == 13) { event.preventDefault(); document.querySelector('.submit [data-search="btn_e9ee866cbc05430cbf7a6cb043774c64"]').click(); } }); });- [進階搜尋](https://www.google.com.tw/advanced_search?hl=zh-Hant-tw&as_sitesearch=https://www.guanyin.tycg.gov.tw)
 
 - [觀音區介紹](cl.aspx?n=6871)[認識本區](cl.aspx?n=6872)[觀光旅遊資訊](cl.aspx?n=6875)[本所組織介紹](cl.aspx?n=6879)[本所沿革](cp.aspx?n=6884)[未來展望](cp.aspx?n=6885)
 - [訊息公告](cl.aspx?n=5606)[最新消息](News.aspx?n=5607&sms=10729)[活動相簿](News_Photo.aspx?n=6887&sms=11629)[RSS訂閱](cp.aspx?n=6888)[錄取公告](News.aspx?n=20131&sms=19434)[徵才資訊](News.aspx?n=6958&sms=11676)
@@ -45,7 +45,7 @@ $(function () { $('[data-search="btn_3daf258afccf4c58a774532e4cc3e3ee"]').on("ke
 搜尋搜尋搜尋- [住院補助](/Advanced_Search.aspx?q=住院補助)
 - [市民卡](/Advanced_Search.aspx?q=市民卡)
 
-$(function () { $('[data-search="btn_fd56a5c018664fa28ff1742594d64f61"]').on("keydown", function (event) { if (event.which == 13) { event.preventDefault(); document.querySelector('.submit [data-search="btn_fd56a5c018664fa28ff1742594d64f61"]').click(); } }); });- [進階搜尋](https://www.google.com.tw/advanced_search?hl=zh-Hant-tw&as_sitesearch=https://www.guanyin.tycg.gov.tw)
+$(function () { $('[data-search="btn_02cfe93acd7d496593113b831984aaec"]').on("keydown", function (event) { if (event.which == 13) { event.preventDefault(); document.querySelector('.submit [data-search="btn_02cfe93acd7d496593113b831984aaec"]').click(); } }); });- [進階搜尋](https://www.google.com.tw/advanced_search?hl=zh-Hant-tw&as_sitesearch=https://www.guanyin.tycg.gov.tw)
 
 熱門關鍵字- [住院補助](Advanced_Search.aspx?q=住院補助)
 - [市民卡](Advanced_Search.aspx?q=市民卡)

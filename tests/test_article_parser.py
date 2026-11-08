@@ -66,6 +66,16 @@ class ArticleParserTests(unittest.TestCase):
             self.assertTrue(Path(tmp, "articles", "page_004.json").is_file())
             self.assertTrue(Path(tmp, "articles", "page_004.md").is_file())
 
+    def test_html_base_is_used_for_relative_images(self):
+        image = png_bytes()
+        html = """<base href="https://example.org/"><main>
+        <p>這是一段足夠長的正文，測試 base href 下相對圖片網址的解析。</p>
+        <img data-original="images/topic/photo.jpg" alt="景點照片"></main>"""
+        with tempfile.TemporaryDirectory() as tmp:
+            result = parse_article(html, "https://example.org/topic/1", "page_005", tmp,
+                                   downloader=lambda url: image)
+            self.assertEqual(result["images"][0]["source_url"], "https://example.org/images/topic/photo.jpg")
+
 
 if __name__ == "__main__":
     unittest.main()

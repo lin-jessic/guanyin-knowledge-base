@@ -325,6 +325,8 @@ def parse_article(html: str, page_url: str, page_id: str, image_dir: str | Path,
                   crawled_at: str | None = None) -> dict:
     """解析一頁 HTML，回傳可直接寫入 ``output/articles`` 的 JSON dict。"""
     soup = BeautifulSoup(html or "", "html.parser")
+    base_tag = soup.find("base", href=True)
+    document_base = urljoin(page_url, base_tag.get("href")) if base_tag else page_url
     title = _clean_text(soup.find("h1").get_text(" ", strip=True) if soup.find("h1")
                         else (soup.title.get_text(" ", strip=True) if soup.title else ""))
     site_meta = soup.find("meta", property="og:site_name")
@@ -379,7 +381,7 @@ def parse_article(html: str, page_url: str, page_id: str, image_dir: str | Path,
     image_dir = Path(image_dir); image_dir.mkdir(parents=True, exist_ok=True)
     image_map: dict[int, dict] = {}; seen_hashes: set[str] = set(); failures = []
     for img in root.find_all("img"):
-        src = image_url(img, page_url)
+        src = image_url(img, document_base)
         attrs = " ".join([src, img.get("alt", ""), " ".join(img.get("class", []))])
         parent_text = " ".join(str(x) for x in img.parent.get("class", []) if img.parent) if img.parent else ""
         if not src or BAD_IMAGE_RE.search(attrs) or BAD_HOST_RE.search(src) or PARENT_IMAGE_NOISE_RE.search(parent_text):
@@ -408,7 +410,7 @@ def parse_article(html: str, page_url: str, page_id: str, image_dir: str | Path,
     result["content"] = markdown
     links = []
     for anchor in root.select("a[href]"):
-        href = urljoin(page_url, anchor.get("href", "")).split("#", 1)[0]
+        href = urljoin(document_base, anchor.get("href", "")).split("#", 1)[0]
         if href.startswith(("http://", "https://")) and href not in links:
             links.append(href)
     result["links"] = links[:300]

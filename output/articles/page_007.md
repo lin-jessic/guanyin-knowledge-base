@@ -7,7 +7,7 @@ source_url: https://www.guanyin-hro.tycg.gov.tw/cp.aspx?n=13772
 跳到主要內容區塊跳到主要內容區塊var $a = $('.for_accessibility a'); $a.on('click', function (evt) { var $href = $($(this).attr('href')), $target = $href.find('a').eq(0).get(0); setTimeout(function () { try { $target.focus(); } catch (e) { } }, 0); });document.body.setAttribute("data-js", "true");主選單 結束標題手機版選單搜尋搜尋- [書表下載](/Advanced_Search.aspx?q=書表下載)
 - [門牌查詢](/Advanced_Search.aspx?q=門牌查詢)
 
-$(function () { $('[data-search="btn_b1052a96f0ce410cb68bb11830601d2c"]').on("keydown", function (event) { if (event.which == 13) { event.preventDefault(); document.querySelector('.submit [data-search="btn_b1052a96f0ce410cb68bb11830601d2c"]').click(); } }); });- [進階搜尋](https://www.google.com.tw/advanced_search?hl=zh-Hant-tw&as_sitesearch=https://www.guanyin-hro.tycg.gov.tw)
+$(function () { $('[data-search="btn_5867bd4a01ca4413905b20ba4ac70728"]').on("keydown", function (event) { if (event.which == 13) { event.preventDefault(); document.querySelector('.submit [data-search="btn_5867bd4a01ca4413905b20ba4ac70728"]').click(); } }); });- [進階搜尋](https://www.google.com.tw/advanced_search?hl=zh-Hant-tw&as_sitesearch=https://www.guanyin-hro.tycg.gov.tw)
 
 - [認識我們](cl.aspx?n=13766)[主管介紹](cp.aspx?n=13767)[環境介紹](cp.aspx?n=13768)[組織架構](cp.aspx?n=13769)[業務職掌](cp.aspx?n=13770)[所徽介紹](cp.aspx?n=13771)[歷史沿革](cp.aspx?n=13772)[地理位置](cp.aspx?n=13773)[行政區域](cp.aspx?n=13774)[志工園地](cp.aspx?n=13775)[志工活動花絮](News_Photo.aspx?n=17201&sms=18535)
 - [訊息公告](cl.aspx?n=13776)[最新消息](News.aspx?n=13777&sms=15793)[活動花絮](News_Photo.aspx?n=18346&sms=18892)[藝文廊區](cl.aspx?n=27095)
@@ -50,7 +50,7 @@ $(function () { $('[data-search="btn_b1052a96f0ce410cb68bb11830601d2c"]').on("ke
 搜尋搜尋- [書表下載](/Advanced_Search.aspx?q=書表下載)
 - [門牌查詢](/Advanced_Search.aspx?q=門牌查詢)
 
-$(function () { $('[data-search="btn_8857f10e330d4374a051e0b54d57138f"]').on("keydown", function (event) { if (event.which == 13) { event.preventDefault(); document.querySelector('.submit [data-search="btn_8857f10e330d4374a051e0b54d57138f"]').click(); } }); });- [進階搜尋](https://www.google.com.tw/advanced_search?hl=zh-Hant-tw&as_sitesearch=https://www.guanyin-hro.tycg.gov.tw)
+$(function () { $('[data-search="btn_e20033f9cb7c4b72bd76cb648bb18eed"]').on("keydown", function (event) { if (event.which == 13) { event.preventDefault(); document.querySelector('.submit [data-search="btn_e20033f9cb7c4b72bd76cb648bb18eed"]').click(); } }); });- [進階搜尋](https://www.google.com.tw/advanced_search?hl=zh-Hant-tw&as_sitesearch=https://www.guanyin-hro.tycg.gov.tw)
 
 - [認識我們](cl.aspx?n=13766)[主管介紹](cp.aspx?n=13767)[環境介紹](cp.aspx?n=13768)[組織架構](cp.aspx?n=13769)[業務職掌](cp.aspx?n=13770)[所徽介紹](cp.aspx?n=13771)[歷史沿革](cp.aspx?n=13772)[地理位置](cp.aspx?n=13773)[行政區域](cp.aspx?n=13774)[志工園地](cp.aspx?n=13775)[志工活動花絮](News_Photo.aspx?n=17201&sms=18535)
 - [訊息公告](cl.aspx?n=13776)[最新消息](News.aspx?n=13777&sms=15793)[活動花絮](News_Photo.aspx?n=18346&sms=18892)[藝文廊區](cl.aspx?n=27095)[藝文廊區展出申請及管理要點](cp.aspx?n=27099)[線上藝文廊區](News.aspx?n=27109&sms=21107)

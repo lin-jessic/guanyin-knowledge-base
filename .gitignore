@@ -30,6 +30,7 @@ test_work/
 models/
 .cache/
 tmp/pydeps/
+deps2/
 chromedriver/
 
 # Crawler Intermediate Output

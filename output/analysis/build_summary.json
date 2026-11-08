@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-11-08T20:45:12+08:00",
+  "built_at": "2026-11-09T00:12:52+08:00",
   "records": 77,
   "adapters": [
     "registry",
@@ -14,7 +14,7 @@
     "partial": 4
   },
   "analyzed": 70,
-  "similar_pairs": 260,
+  "similar_pairs": 382,
   "log": [
     "影片模組使用 ID「video_2hbu5n9VLZY」，已依影片網址對應回正式 ID page_026"
   ]

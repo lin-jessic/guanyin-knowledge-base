@@ -8,6 +8,7 @@
 圖片工程採「候選縮小後下載」策略，而不是下載整個網頁再人工刪除：
 
 1. 依 `data-src`、`data-original`、`data-lazy-src`、`data-url`、`srcset`、`src` 順序解析 lazy-loading URL。
+   同時遵守 HTML `<base href>`，並以頁面 Referer／瀏覽器型 headers 下載跨網域圖片。
 2. 在正文容器內排除 logo、icon、avatar、banner、廣告／追蹤／社群關鍵字、SVG／GIF／ICO，以及推薦輪播和廣告主機。
 3. 下載後以 Pillow 檢查至少 150×150、非極端長寬比，並以 MD5 去重，再轉存成 `output/images/{id}_image_XX.jpg`。
 4. 圖片會插回原本 HTML 位置；JSON 同時記錄 `file`、`source_url`、`caption`、`context_paragraph`、尺寸與 hash。
