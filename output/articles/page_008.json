@@ -1,0 +1,58 @@
+{
+  "id": "page_008",
+  "type": "web",
+  "title": "關於甘泉寺",
+  "source_url": "https://www.ganquan-temple.org.tw/",
+  "source_name": "www.ganquan-temple.org.tw",
+  "author": "",
+  "published_at": "",
+  "content": "最新消息- [![](../images/page_008_image_01.jpg)](https://www.facebook.com/share/v/181ERZaoFV/)[普渡法會](https://www.facebook.com/share/v/181ERZaoFV/)2026-01-26\n- [![](../images/page_008_image_02.jpg)](/news/%E6%B4%BB%E5%8B%95%E5%85%AC%E5%91%8A/annual-events-calendar)[年度行事曆](/news/%E6%B4%BB%E5%8B%95%E5%85%AC%E5%91%8A/annual-events-calendar)2026-01-22\n- [![](../images/page_008_image_03.jpg)](/news/%E6%B4%BB%E5%8B%95%E5%85%AC%E5%91%8A/%E8%81%8A%E8%81%8A%E5%AE%89%E5%A4%AA%E6%AD%B2%E9%82%A3%E4%BA%9B%E4%BA%8B)[聊聊安太歲那些事](/news/%E6%B4%BB%E5%8B%95%E5%85%AC%E5%91%8A/%E8%81%8A%E8%81%8A%E5%AE%89%E5%A4%AA%E6%AD%B2%E9%82%A3%E4%BA%9B%E4%BA%8B)2025-12-06\n\n更多訊息",
+  "images": [
+    {
+      "file": "images/page_008_image_01.jpg",
+      "file_path": "output/images/page_008_image_01.jpg",
+      "source_url": "https://www.ganquan-temple.org.tw/upload-files/news/20250913-1.png",
+      "caption": "",
+      "context_paragraph": "普渡法會 2026-01-26",
+      "article_id": "page_008",
+      "kind": "article_image",
+      "width": 400,
+      "height": 250,
+      "md5": "e4690c9d7b36332d5278ecc81bfee0d1"
+    },
+    {
+      "file": "images/page_008_image_02.jpg",
+      "file_path": "output/images/page_008_image_02.jpg",
+      "source_url": "https://www.ganquan-temple.org.tw/upload-files/news/annual-events-calendar.png",
+      "caption": "",
+      "context_paragraph": "年度行事曆 2026-01-22",
+      "article_id": "page_008",
+      "kind": "article_image",
+      "width": 400,
+      "height": 250,
+      "md5": "746217d956faee20b6f6a1e1726c3851"
+    },
+    {
+      "file": "images/page_008_image_03.jpg",
+      "file_path": "output/images/page_008_image_03.jpg",
+      "source_url": "https://www.ganquan-temple.org.tw/upload-files/news/202501231.png",
+      "caption": "",
+      "context_paragraph": "聊聊安太歲那些事 2025-12-06",
+      "article_id": "page_008",
+      "kind": "article_image",
+      "width": 400,
+      "height": 250,
+      "md5": "ffc5a8a4f5678dd9e2e5a37bb98e0741"
+    }
+  ],
+  "links": [
+    "https://www.facebook.com/share/v/181ERZaoFV/",
+    "https://www.ganquan-temple.org.tw/news/%E6%B4%BB%E5%8B%95%E5%85%AC%E5%91%8A/annual-events-calendar",
+    "https://www.ganquan-temple.org.tw/news/%E6%B4%BB%E5%8B%95%E5%85%AC%E5%91%8A/%E8%81%8A%E8%81%8A%E5%AE%89%E5%A4%AA%E6%AD%B2%E9%82%A3%E4%BA%9B%E4%BA%8B",
+    "https://www.ganquan-temple.org.tw/news"
+  ],
+  "content_status": "ok",
+  "processing_status": "complete",
+  "processing_reason": "",
+  "crawled_at": "2026-11-08T19:33:45+08:00"
+}

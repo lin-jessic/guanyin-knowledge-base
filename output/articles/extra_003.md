@@ -1,0 +1,109 @@
+---
+title: 桃園市觀音區公所
+author: 
+published_at: 
+source_url: https://www.guanyin.tycg.gov.tw/SiteMap.aspx
+---
+跳到主要內容區塊跳到主要內容區塊var $a = $('.for_accessibility a'); $a.on('click', function (evt) { var $href = $($(this).attr('href')), $target = $href.find('a').eq(0).get(0); setTimeout(function () { try { $target.focus(); } catch (e) { } }, 0); });document.body.setAttribute("data-js", "true");主選單 結束標題手機版選單搜尋搜尋- [住院補助](/Advanced_Search.aspx?q=住院補助)
+- [市民卡](/Advanced_Search.aspx?q=市民卡)
+
+$(function () { $('[data-search="btn_3daf258afccf4c58a774532e4cc3e3ee"]').on("keydown", function (event) { if (event.which == 13) { event.preventDefault(); document.querySelector('.submit [data-search="btn_3daf258afccf4c58a774532e4cc3e3ee"]').click(); } }); });- [進階搜尋](https://www.google.com.tw/advanced_search?hl=zh-Hant-tw&as_sitesearch=https://www.guanyin.tycg.gov.tw)
+
+- [觀音區介紹](cl.aspx?n=6871)[認識本區](cl.aspx?n=6872)[觀光旅遊資訊](cl.aspx?n=6875)[本所組織介紹](cl.aspx?n=6879)[本所沿革](cp.aspx?n=6884)[未來展望](cp.aspx?n=6885)
+- [訊息公告](cl.aspx?n=5606)[最新消息](News.aspx?n=5607&sms=10729)[活動相簿](News_Photo.aspx?n=6887&sms=11629)[RSS訂閱](cp.aspx?n=6888)[錄取公告](News.aspx?n=20131&sms=19434)[徵才資訊](News.aspx?n=6958&sms=11676)
+- [生活便民資訊](cl.aspx?n=6890)[各類申辦](ENews.aspx?n=6891&sms=11630)[法規資料](cl.aspx?n=6892)[常見問答](News.aspx?n=6897&sms=11633)[下載專區](cl.aspx?n=6898)[生活資訊](News.aspx?n=6901&sms=11636)[福利補助](https://swimspublic.tycg.gov.tw/)[防災專區](cl.aspx?n=6903)[廉政服務專區](cl.aspx?n=6912)[性別主流化專區](News.aspx?n=6920&sms=11651)[檔案應用](cl.aspx?n=6921)[安全社區推動中心](cl.aspx?n=6924)[重大計畫進度查詢](https://reiso.tycg.gov.tw/)[兒童權利公約CRC專區](cl.aspx?n=24541)[社會福利相關政令宣導](News.aspx?n=6942&sms=11667)[兒童及少年發展帳戶專區](News.aspx?n=6944&sms=11669)[強化社會安全網專區](News.aspx?n=6946&sms=11671)[台電促協金公告](cl.aspx?n=6947)[統計表專區](News.aspx?n=21153&sms=20287)[員工專區](cl.aspx?n=23716)[桃園市免費低劑量肺癌篩檢](cl.aspx?n=24105)
+- [機關通訊錄](cl.aspx?n=6949)[聯絡資訊](cp.aspx?n=6950)[交通資訊](cp.aspx?n=6951)[市政信箱](https://taotalk.tycg.gov.tw/interface/Petition?channel=H_DEPC_380620000A)
+- [相關資料](cl.aspx?n=6953)[資訊公開](cp.aspx?n=6954)[個人資料保護專區](News.aspx?n=6955&sms=11673)[影音專區](News_Video.aspx?n=6956&sms=11674)[招標公告](News.aspx?n=6957&sms=11675)[相關連結](News_Link.aspx?n=6959&sms=11677)[遊說資訊專區](News.aspx?n=6960&sms=11678)[出版品](News.aspx?n=6961&sms=11679)[會計資料專區](cl.aspx?n=6962)[勞工專區](News.aspx?n=6970&sms=11687)[重大政策](cl.aspx?n=24027)
+
+熱門關鍵字- [住院補助](Advanced_Search.aspx?q=住院補助)
+- [市民卡](Advanced_Search.aspx?q=市民卡)
+
+上方連結- [回首頁](Default.aspx)
+- [網站導覽](SiteMap.aspx)
+- [市政信箱](https://taotalk.tycg.gov.tw/interface/Petition?channel=H_DEPC_380620000A)
+- [常見問答](/News.aspx?n=6897&sms=11633)
+- [桃園市政府](https://www.tycg.gov.tw)
+- [English](https://eng.tycg.gov.tw/?ccms_cs=1)
+
+下方連結- [隱私權政策](https://www.tycg.gov.tw/cp.aspx?n=5845&s=1312&ccms_cs=1&state=1C5D152DDF4F3ED0)
+- [政府網站資料開放宣告](https://www.tycg.gov.tw/cp.aspx?n=5847&s=1314&ccms_cs=1&state=1C5D152DDF4F3ED0)
+- [網站安全政策](https://www.tycg.gov.tw/cp.aspx?n=5846&s=1313&ccms_cs=1&state=1C5D152DDF4F3ED0)
+
+:::# [桃園市觀音區公所](Default.aspx)
+
+上方連結- [回首頁](Default.aspx)
+- [網站導覽](SiteMap.aspx)
+- [市政信箱](https://taotalk.tycg.gov.tw/interface/Petition?channel=H_DEPC_380620000A)
+- [常見問答](/News.aspx?n=6897&sms=11633)
+- [桃園市政府](https://www.tycg.gov.tw)
+- [English](https://eng.tycg.gov.tw/?ccms_cs=1)
+
+字級- [字級小](javascript:void(0))
+- [字級中](javascript:void(0))
+- [字級大](javascript:void(0))
+
+搜尋搜尋搜尋- [住院補助](/Advanced_Search.aspx?q=住院補助)
+- [市民卡](/Advanced_Search.aspx?q=市民卡)
+
+$(function () { $('[data-search="btn_fd56a5c018664fa28ff1742594d64f61"]').on("keydown", function (event) { if (event.which == 13) { event.preventDefault(); document.querySelector('.submit [data-search="btn_fd56a5c018664fa28ff1742594d64f61"]').click(); } }); });- [進階搜尋](https://www.google.com.tw/advanced_search?hl=zh-Hant-tw&as_sitesearch=https://www.guanyin.tycg.gov.tw)
+
+熱門關鍵字- [住院補助](Advanced_Search.aspx?q=住院補助)
+- [市民卡](Advanced_Search.aspx?q=市民卡)
+
+- [觀音區介紹](cl.aspx?n=6871)[認識本區](cl.aspx?n=6872)[觀光旅遊資訊](cl.aspx?n=6875)[本所組織介紹](cl.aspx?n=6879)[本所沿革](cp.aspx?n=6884)[未來展望](cp.aspx?n=6885)
+- [訊息公告](cl.aspx?n=5606)[最新消息](News.aspx?n=5607&sms=10729)[活動相簿](News_Photo.aspx?n=6887&sms=11629)[RSS訂閱](cp.aspx?n=6888)[錄取公告](News.aspx?n=20131&sms=19434)[徵才資訊](News.aspx?n=6958&sms=11676)
+- [生活便民資訊](cl.aspx?n=6890)[各類申辦](ENews.aspx?n=6891&sms=11630)[法規資料](cl.aspx?n=6892)[常見問答](News.aspx?n=6897&sms=11633)[下載專區](cl.aspx?n=6898)[生活資訊](News.aspx?n=6901&sms=11636)[福利補助](https://swimspublic.tycg.gov.tw/)[防災專區](cl.aspx?n=6903)[廉政服務專區](cl.aspx?n=6912)[性別主流化專區](News.aspx?n=6920&sms=11651)[檔案應用](cl.aspx?n=6921)[安全社區推動中心](cl.aspx?n=6924)[重大計畫進度查詢](https://reiso.tycg.gov.tw/)[兒童權利公約CRC專區](cl.aspx?n=24541)[社會福利相關政令宣導](News.aspx?n=6942&sms=11667)[兒童及少年發展帳戶專區](News.aspx?n=6944&sms=11669)[強化社會安全網專區](News.aspx?n=6946&sms=11671)[台電促協金公告](cl.aspx?n=6947)[統計表專區](News.aspx?n=21153&sms=20287)[員工專區](cl.aspx?n=23716)[桃園市免費低劑量肺癌篩檢](cl.aspx?n=24105)
+- [機關通訊錄](cl.aspx?n=6949)[聯絡資訊](cp.aspx?n=6950)[交通資訊](cp.aspx?n=6951)[市政信箱](https://taotalk.tycg.gov.tw/interface/Petition?channel=H_DEPC_380620000A)
+- [相關資料](cl.aspx?n=6953)[資訊公開](cp.aspx?n=6954)[個人資料保護專區](News.aspx?n=6955&sms=11673)[影音專區](News_Video.aspx?n=6956&sms=11674)[招標公告](News.aspx?n=6957&sms=11675)[相關連結](News_Link.aspx?n=6959&sms=11677)[遊說資訊專區](News.aspx?n=6960&sms=11678)[出版品](News.aspx?n=6961&sms=11679)[會計資料專區](cl.aspx?n=6962)[勞工專區](News.aspx?n=6970&sms=11687)[重大政策](cl.aspx?n=24027)
+
+:::資訊總覽- [觀音區介紹](cl.aspx?n=6871)
+- [訊息公告](cl.aspx?n=5606)
+- [生活便民資訊](cl.aspx?n=6890)
+- [機關通訊錄](cl.aspx?n=6949)
+- [相關資料](cl.aspx?n=6953)
+
+:::## 網站導覽
+
+跳過此子選單列請按[Enter]，繼續則按[Tab]網頁功能- [列印內容](javascript:CCMS_Print(78);)
+
+- 本網站依無障礙網頁設計原則建置，網站的主要內容分為四大區塊：
+- 本網站的快速鍵﹝Accesskey﹞設定如下：
+- 如果您的瀏覽器是Firefox:
+
+- [觀音區介紹](cl.aspx?n=6871)[認識本區](cl.aspx?n=6872)[行政區域](cp.aspx?n=6873)[觀音意象](cp.aspx?n=6874)[觀光旅遊資訊](cl.aspx?n=6875)[賞蓮地圖](cp.aspx?n=6876)[遊憩資訊](News.aspx?n=6877&sms=11625)[地方特產](News.aspx?n=6878&sms=11626)[本所組織介紹](cl.aspx?n=6879)[主管介紹](cp.aspx?n=6880)[組織架構圖](cp.aspx?n=6881)[業務職掌](cp.aspx?n=6882)[辦公室配置圖](cp.aspx?n=6883)[本所沿革](cp.aspx?n=6884)[未來展望](cp.aspx?n=6885)
+- [訊息公告](cl.aspx?n=5606)[最新消息](News.aspx?n=5607&sms=10729)[活動相簿](News_Photo.aspx?n=6887&sms=11629)[RSS訂閱](cp.aspx?n=6888)[錄取公告](News.aspx?n=20131&sms=19434)[徵才資訊](News.aspx?n=6958&sms=11676)
+- [生活便民資訊](cl.aspx?n=6890)[各類申辦](ENews.aspx?n=6891&sms=11630)[法規資料](cl.aspx?n=6892)[中央法規](https://law.moj.gov.tw/index.aspx)[本市自治法規](https://law.tycg.gov.tw/)[觀音區法規專區](News.aspx?n=6895&sms=11631)[觀音區繼續適用法規](News.aspx?n=6896&sms=11632)[常見問答](News.aspx?n=6897&sms=11633)[下載專區](cl.aspx?n=6898)[民眾常用檔案下載](News.aspx?n=6899&sms=11634)[公務檔案下載](News.aspx?n=6900&sms=11635)[生活資訊](News.aspx?n=6901&sms=11636)[福利補助](https://swimspublic.tycg.gov.tw/)[防災專區](cl.aspx?n=6903)[災害潛勢及防災地圖](News.aspx?n=6904&sms=11637)[緊急通報聯繫窗口](News.aspx?n=6905&sms=11638)[避難收容處所資訊](News.aspx?n=6906&sms=11639)[防災宣導](News.aspx?n=6907&sms=11640)[收容物資整備資訊](News.aspx?n=6908&sms=11641)[演習訓練及應變成果](News.aspx?n=6909&sms=11642)[災防相關網站連結](News.aspx?n=6910&sms=11643)[文件下載專區](News.aspx?n=6911&sms=11644)[廉政服務專區](cl.aspx?n=6912)[檢舉管道](cp.aspx?n=6913)[維護業務](News.aspx?n=6914&sms=11645)[防貪業務](News.aspx?n=6915&sms=11646)[廉政法規](News.aspx?n=6916&sms=11647)[請託關說登錄查察業務](News.aspx?n=6917&sms=11648)[影音宣導](News_Video.aspx?n=6918&sms=11649)[公職人員利益衝突迴避身分揭露專區](News.aspx?n=6919&sms=11650)[公益揭弊者保護專區](News.aspx?n=24511&sms=20456)[工程透明專區](News.aspx?n=20861&sms=19595)[性別主流化專區](News.aspx?n=6920&sms=11651)[檔案應用](cl.aspx?n=6921)[檔案應用申請](News.aspx?n=6922&sms=11652)[相關連結](News_Link.aspx?n=6923&sms=11653)[安全社區推動中心](cl.aspx?n=6924)[最新消息](News.aspx?n=6925&sms=11654)[關於我們](cl.aspx?n=6926)[安全社區組織架構](News.aspx?n=6927&sms=11655)[推動項目](cl.aspx?n=6930)[居家安全](News.aspx?n=6931&sms=11658)[學校安全](News.aspx?n=6932&sms=11659)[道路安全](News.aspx?n=6933&sms=11660)[水域安全](News.aspx?n=6934&sms=11661)[農事安全](News.aspx?n=6935&sms=11662)[海報文宣](News.aspx?n=6936&sms=11663)[會議及活動花絮](cl.aspx?n=6937)[活動影片](News_Video.aspx?n=6938&sms=11664)[重大計畫進度查詢](https://reiso.tycg.gov.tw/)[兒童權利公約CRC專區](cl.aspx?n=24541)[最新消息](News.aspx?n=24546&sms=11668)[推動CRC](News.aspx?n=24545&sms=20467)[國家報告](News.aspx?n=24544&sms=20466)[相關法規](News.aspx?n=24543&sms=20470)[宣導題材](News.aspx?n=24542&sms=20464)[相關連結](News.aspx?n=24547&sms=11653)[社會福利相關政令宣導](News.aspx?n=6942&sms=11667)[兒童及少年發展帳戶專區](News.aspx?n=6944&sms=11669)[強化社會安全網專區](News.aspx?n=6946&sms=11671)[台電促協金公告](cl.aspx?n=6947)[促(電)協金執行公開資訊](News.aspx?n=6948&sms=11672)[統計表專區](News.aspx?n=21153&sms=20287)[視覺化查詢](cl.aspx?n=21160)[員工專區](cl.aspx?n=23716)[退休照護](News.aspx?n=23718&sms=11666)[員工協助方案(EAP)](News.aspx?n=23720&sms=20321)[桃園市免費低劑量肺癌篩檢](cl.aspx?n=24105)[桃園市免費低劑量肺癌篩檢巡迴資訊](News.aspx?n=24107&sms=20387)[運用台電促協金補助地方居民參與LDCT車篩檢相關表件](News_Toggle.aspx?n=26596&sms=20387)[觀音區行動CT車服務時間](News.aspx?n=27171&sms=21089)
+- [機關通訊錄](cl.aspx?n=6949)[聯絡資訊](cp.aspx?n=6950)[交通資訊](cp.aspx?n=6951)[市政信箱](https://taotalk.tycg.gov.tw/interface/Petition?channel=H_DEPC_380620000A)
+- [相關資料](cl.aspx?n=6953)[資訊公開](cp.aspx?n=6954)[個人資料保護專區](News.aspx?n=6955&sms=11673)[影音專區](News_Video.aspx?n=6956&sms=11674)[招標公告](News.aspx?n=6957&sms=11675)[相關連結](News_Link.aspx?n=6959&sms=11677)[遊說資訊專區](News.aspx?n=6960&sms=11678)[出版品](News.aspx?n=6961&sms=11679)[會計資料專區](cl.aspx?n=6962)[單位預算](News.aspx?n=6963&sms=11680)[單位決算](News.aspx?n=6964&sms=11681)[會計月報](News.aspx?n=6965&sms=11682)[補(捐)助民間團體](News.aspx?n=6966&sms=11683)[統計業務](News.aspx?n=6967&sms=11684)[會計檔案下載](News.aspx?n=6968&sms=11685)[辦理政策及業務宣導之執行情形表](News.aspx?n=6969&sms=11686)[勞工專區](News.aspx?n=6970&sms=11687)[重大政策](cl.aspx?n=24027)[重大施政計畫](News.aspx?n=24031&sms=20367)
+
+- [回上一頁](javascript:window.location =document.referrer;)
+- [回最上面](#Accesskey_U)
+
+選單:::- [觀音區介紹](cl.aspx?n=6871)[認識本區](cl.aspx?n=6872)[觀光旅遊資訊](cl.aspx?n=6875)[本所組織介紹](cl.aspx?n=6879)[本所沿革](cp.aspx?n=6884)[未來展望](cp.aspx?n=6885)
+- [訊息公告](cl.aspx?n=5606)[最新消息](News.aspx?n=5607&sms=10729)[活動相簿](News_Photo.aspx?n=6887&sms=11629)[RSS訂閱](cp.aspx?n=6888)[錄取公告](News.aspx?n=20131&sms=19434)[徵才資訊](News.aspx?n=6958&sms=11676)
+- [生活便民資訊](cl.aspx?n=6890)[各類申辦](ENews.aspx?n=6891&sms=11630)[法規資料](cl.aspx?n=6892)[常見問答](News.aspx?n=6897&sms=11633)[下載專區](cl.aspx?n=6898)[生活資訊](News.aspx?n=6901&sms=11636)[福利補助](https://swimspublic.tycg.gov.tw/)[防災專區](cl.aspx?n=6903)[廉政服務專區](cl.aspx?n=6912)[性別主流化專區](News.aspx?n=6920&sms=11651)[檔案應用](cl.aspx?n=6921)[安全社區推動中心](cl.aspx?n=6924)[重大計畫進度查詢](https://reiso.tycg.gov.tw/)[兒童權利公約CRC專區](cl.aspx?n=24541)[社會福利相關政令宣導](News.aspx?n=6942&sms=11667)[兒童及少年發展帳戶專區](News.aspx?n=6944&sms=11669)[強化社會安全網專區](News.aspx?n=6946&sms=11671)[台電促協金公告](cl.aspx?n=6947)[陳情案件統計表](News.aspx?n=21150&sms=19627)[統計表專區](News.aspx?n=21153&sms=20287)[員工專區](cl.aspx?n=23716)[桃園市免費低劑量肺癌篩檢](cl.aspx?n=24105)
+- [機關通訊錄](cl.aspx?n=6949)[聯絡資訊](cp.aspx?n=6950)[交通資訊](cp.aspx?n=6951)[市政信箱](https://taotalk.tycg.gov.tw/interface/Petition?channel=H_DEPC_380620000A)
+- [相關資料](cl.aspx?n=6953)[資訊公開](cp.aspx?n=6954)[個人資料保護專區](News.aspx?n=6955&sms=11673)[影音專區](News_Video.aspx?n=6956&sms=11674)[招標公告](News.aspx?n=6957&sms=11675)[相關連結](News_Link.aspx?n=6959&sms=11677)[遊說資訊專區](News.aspx?n=6960&sms=11678)[出版品](News.aspx?n=6961&sms=11679)[會計資料專區](cl.aspx?n=6962)[勞工專區](News.aspx?n=6970&sms=11687)[重大政策](cl.aspx?n=24027)
+
+下方連結- [隱私權政策](https://www.tycg.gov.tw/cp.aspx?n=5845&s=1312&ccms_cs=1&state=1C5D152DDF4F3ED0)
+- [政府網站資料開放宣告](https://www.tycg.gov.tw/cp.aspx?n=5847&s=1314&ccms_cs=1&state=1C5D152DDF4F3ED0)
+- [網站安全政策](https://www.tycg.gov.tw/cp.aspx?n=5846&s=1313&ccms_cs=1&state=1C5D152DDF4F3ED0)
+
+@media screen and (min-width: 769px) { .info-line { float: left; width: 99px; color: #fff; font-size: 1rem; font-weight: bold; text-align: center; margin: 17px 25px 17px 0; } } .info-line { text-align: center; } .info-line a { color: #fff !important; text-decoration: none !important; } @media screen and (min-width: 769px) { .info-line a { font-size: 1rem; display: block; color: #292929; } } .footer_info { float: left; font-size: 1rem; line-height: 20px; margin-top: 20px; overflow: hidden; } .footer_info a { font-size: 1rem; font-weight: bold; line-height: 27px; color: #fff !important;text-decoration: none !important; } .footer_info > a > span { background-color: #FFC64D; color: #343434; font-size: 1rem; border-radius: 32px; padding: 4px; margin-left: 3px; } @media screen and (max-width: 769px) { .icon-simple .ct>.in { flex-direction: column; } } .base-footer .msg-tool { flex: 2; }
+桃園市府Line公所怎麼去？GO
+桃園市觀音區公所
+地址：328251 桃園市觀音區觀音里19鄰觀新路56號 | 電話：03-4732121
+服務時間：星期一至五 上午8:00至下午5:00
+瀏覽器支援：Chrome、Firefox、Edge、Safari為主，如使用IE瀏覽器Win7已不再支援IE，Win10已於2022年6月15日淘汰並停止支援IE。公所怎麼去?
+
+地址 : 328251 桃園市觀音區觀音里19鄰觀新路56號
+
+電話 : 03-4732121
+
+服務時間 : 星期一至五 上午8:00至下午17:00
+
+觀音區公所 © 2026. All rights reserved.
+
+瀏覽器支援：Chrome、Firefox、Edge、Safari為主，如使用IE瀏覽器Win7已不再支援IE，Win10將於2022年6月15日淘汰並停止支援IE。
+
+更新日期115-11-06瀏覽人次..upback to toprequirejs.config({ baseUrl:'https://www.guanyin.tycg.gov.tw/js' }); requirejs(['main'], function (func) { func(); });document.querySelectorAll('.list-text.share').forEach((shareElement) => { const firstLink = shareElement.querySelector('a'); if (firstLink) { firstLink.setAttribute('aria-selected', shareElement.classList.contains('is-active') ? 'true' : 'false'); firstLink.addEventListener('click', (event) => { event.preventDefault(); if (shareElement.classList.contains('is-active')) { firstLink.setAttribute('aria-selected', 'false'); } else { firstLink.setAttribute('aria-selected', 'true'); } }); } });function updateAriaSelected() { document.querySelectorAll('.list-text.tab [role="tab"]').forEach((anchor) => { if (anchor.closest('li').classList.contains('is-active')) { anchor.setAttribute('aria-selected', 'true'); } else { anchor.setAttribute('aria-selected', 'false'); } }); } updateAriaSelected(); document.querySelectorAll('.list-text.tab [role="tab"]').forEach((anchor) => { anchor.addEventListener('click', (event) => { event.preventDefault(); document.querySelectorAll('.list-text.tab li').forEach((li) => li.classList.remove('is-active')); anchor.closest('li').classList.add('is-active'); updateAriaSelected(); }); });

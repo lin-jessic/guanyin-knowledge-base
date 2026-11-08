@@ -1,0 +1,150 @@
+---
+title: 桃園市觀音區戶政事務所
+author: 
+published_at: 
+source_url: https://www.guanyin-hro.tycg.gov.tw/cp.aspx?n=13772
+---
+跳到主要內容區塊跳到主要內容區塊var $a = $('.for_accessibility a'); $a.on('click', function (evt) { var $href = $($(this).attr('href')), $target = $href.find('a').eq(0).get(0); setTimeout(function () { try { $target.focus(); } catch (e) { } }, 0); });document.body.setAttribute("data-js", "true");主選單 結束標題手機版選單搜尋搜尋- [書表下載](/Advanced_Search.aspx?q=書表下載)
+- [門牌查詢](/Advanced_Search.aspx?q=門牌查詢)
+
+$(function () { $('[data-search="btn_b1052a96f0ce410cb68bb11830601d2c"]').on("keydown", function (event) { if (event.which == 13) { event.preventDefault(); document.querySelector('.submit [data-search="btn_b1052a96f0ce410cb68bb11830601d2c"]').click(); } }); });- [進階搜尋](https://www.google.com.tw/advanced_search?hl=zh-Hant-tw&as_sitesearch=https://www.guanyin-hro.tycg.gov.tw)
+
+- [認識我們](cl.aspx?n=13766)[主管介紹](cp.aspx?n=13767)[環境介紹](cp.aspx?n=13768)[組織架構](cp.aspx?n=13769)[業務職掌](cp.aspx?n=13770)[所徽介紹](cp.aspx?n=13771)[歷史沿革](cp.aspx?n=13772)[地理位置](cp.aspx?n=13773)[行政區域](cp.aspx?n=13774)[志工園地](cp.aspx?n=13775)[志工活動花絮](News_Photo.aspx?n=17201&sms=18535)
+- [訊息公告](cl.aspx?n=13776)[最新消息](News.aspx?n=13777&sms=15793)[活動花絮](News_Photo.aspx?n=18346&sms=18892)[藝文廊區](cl.aspx?n=27095)
+- [申辦須知](https://www.ris.gov.tw/app/portal/372)
+- [業務資訊](cl.aspx?n=13779)[統計資訊-人口統計](cl.aspx?n=13780)[戶籍罰鍰處罰金額基準表](https://glrs.moi.gov.tw/LawContent.aspx?id=GL000146)[新住民專區](cl.aspx?n=13786)[門牌專區](cl.aspx?n=13793)[法規資訊](https://www.ris.gov.tw/app/portal/91)[標準作業流程](https://cab.tycg.gov.tw/News.aspx?n=7837&sms=12162)[戶政規費收費標準](/News_Content.aspx?n=13777&s=1098928)[國民身分證補換資料查詢](https://www.ris.gov.tw/app/portal/3014)[施政計畫](https://www.tycg.gov.tw/News.aspx?n=96&sms=7922&_CSN=656)[施政報告](https://www.tycg.gov.tw/News.aspx?n=95&sms=7921&_CSN=617)[常見問答](https://www.ris.gov.tw/app/portal/158)
+- [便民服務](cl.aspx?n=13808)[桃園市各區戶所等待人數](cp.aspx?n=20219)[桃園市各區戶所線上取號](cp.aspx?n=25023)[常用服務](News_Link.aspx?n=13809&sms=15805)[線上申辦](ENews.aspx?n=13811&sms=17539)[網路預約申請(查詢與取消)](https://www.ris.gov.tw/app/portal/260)[桃園市代收代辦代送首次申辦護照服務](cp.aspx?n=13813)[跨機關通報進度查詢網頁](News_Link.aspx?n=13814&sms=15807)[桃園市政府各區大宗戶籍謄本進度查詢](http://household.tycg.gov.tw/index.php)[書表下載](News.aspx?n=13817&sms=15808)[檔案應用](cl.aspx?n=13818)[滿意度調查](Questionnaire.aspx?n=13822&sms=20261)[滿意度分析](News.aspx?n=13823&sms=15812)[活動報名](ActiveList.aspx?n=25065&sms=20563)
+- [機關通訊錄](cl.aspx?n=13824)[機關聯絡資訊](cp.aspx?n=13825)[交通資訊](cp.aspx?n=13826)[市政信箱](https://taotalk.tycg.gov.tw/interface/Petition?channel=G_DEPC_380023100A)[服務時間](cp.aspx?n=13828)[桃園市各戶所聯絡資訊](cp.aspx?n=13829)
+- [政府資訊公開](cl.aspx?n=13830)[政府資訊公開](cp.aspx?n=13831)[會計報告](News.aspx?n=13832&sms=15813)[政策宣導](News.aspx?n=13833&sms=15814)[個人資料保護專區](News.aspx?n=13834&sms=15815)[安全及衛生防護專區](cl.aspx?n=23024)[性別主流化專區](News.aspx?n=13835&sms=15816)[影音專區](News_Video.aspx?n=13836&sms=15817)[文宣品](News.aspx?n=13837&sms=15818)
+
+熱門關鍵字- [書表下載](Advanced_Search.aspx?q=書表下載)
+- [門牌查詢](Advanced_Search.aspx?q=門牌查詢)
+
+上方連結- [回首頁](Default.aspx)
+- [網站導覽](SiteMap.aspx)
+- [市政信箱](https://taotalk.tycg.gov.tw/interface/Petition?channel=G_DEPC_380023100A)
+- [常見問題](https://www.ris.gov.tw/app/portal/158)
+- [English](https://tyhr.tycg.gov.tw/)
+- [桃園市政府](https://www.tycg.gov.tw/)
+
+下方連結- [隱私權政策](https://www.tycg.gov.tw/cp.aspx?n=5845&s=1312&ccms_cs=1&state=1C5D152DDF4F3ED0)
+- [網站安全政策](https://www.tycg.gov.tw/cp.aspx?n=5846&s=1313&ccms_cs=1&state=1C5D152DDF4F3ED0)
+- [政府網站資料開放宣告](https://www.tycg.gov.tw/cp.aspx?n=5847&s=1314&ccms_cs=1&state=1C5D152DDF4F3ED0)
+
+:::# [桃園市觀音區戶政事務所](Default.aspx)
+
+跳過此子選單列請按[Enter]，繼續則按[Tab]上方連結- [回首頁](Default.aspx)
+- [網站導覽](SiteMap.aspx)
+- [市政信箱](https://taotalk.tycg.gov.tw/interface/Petition?channel=G_DEPC_380023100A)
+- [常見問題](https://www.ris.gov.tw/app/portal/158)
+- [English](https://tyhr.tycg.gov.tw/)
+- [桃園市政府](https://www.tycg.gov.tw/)
+
+字級- [字級小](javascript:void(0))
+- [字級中](javascript:void(0))
+- [字級大](javascript:void(0))
+
+熱門關鍵字- [書表下載](Advanced_Search.aspx?q=書表下載)
+- [門牌查詢](Advanced_Search.aspx?q=門牌查詢)
+
+搜尋搜尋- [書表下載](/Advanced_Search.aspx?q=書表下載)
+- [門牌查詢](/Advanced_Search.aspx?q=門牌查詢)
+
+$(function () { $('[data-search="btn_8857f10e330d4374a051e0b54d57138f"]').on("keydown", function (event) { if (event.which == 13) { event.preventDefault(); document.querySelector('.submit [data-search="btn_8857f10e330d4374a051e0b54d57138f"]').click(); } }); });- [進階搜尋](https://www.google.com.tw/advanced_search?hl=zh-Hant-tw&as_sitesearch=https://www.guanyin-hro.tycg.gov.tw)
+
+- [認識我們](cl.aspx?n=13766)[主管介紹](cp.aspx?n=13767)[環境介紹](cp.aspx?n=13768)[組織架構](cp.aspx?n=13769)[業務職掌](cp.aspx?n=13770)[所徽介紹](cp.aspx?n=13771)[歷史沿革](cp.aspx?n=13772)[地理位置](cp.aspx?n=13773)[行政區域](cp.aspx?n=13774)[志工園地](cp.aspx?n=13775)[志工活動花絮](News_Photo.aspx?n=17201&sms=18535)
+- [訊息公告](cl.aspx?n=13776)[最新消息](News.aspx?n=13777&sms=15793)[活動花絮](News_Photo.aspx?n=18346&sms=18892)[藝文廊區](cl.aspx?n=27095)[藝文廊區展出申請及管理要點](cp.aspx?n=27099)[線上藝文廊區](News.aspx?n=27109&sms=21107)
+- [申辦須知](https://www.ris.gov.tw/app/portal/372)
+- [業務資訊](cl.aspx?n=13779)[統計資訊-人口統計](cl.aspx?n=13780)[各里人口／戶數](News.aspx?n=13781&sms=15794)[歷年分類人口異動統計(包含出生、死亡、結婚、離婚、遷入、遷出、分齡統計及原住民等類別)](News.aspx?n=13782&sms=15795)[其他人口數統計](News.aspx?n=13783&sms=15796)[歷年人口數](cp.aspx?n=13784)[戶籍罰鍰處罰金額基準表](https://glrs.moi.gov.tw/LawContent.aspx?id=GL000146)[新住民專區](cl.aspx?n=13786)[新住民訊息](News.aspx?n=13787&sms=15797)[相關法令及規定](News.aspx?n=13788&sms=15798)[案例分享](News.aspx?n=13789&sms=15799)[相關網路資源](News.aspx?n=13790&sms=15800)[國籍案件進度查詢](https://www.ris.gov.tw/app/portal/484)[歸化測試資訊專區](cp.aspx?n=13792)[門牌專區](cl.aspx?n=13793)[門牌相關法令](News.aspx?n=13794&sms=15801)[門牌編釘流程圖及相關程序](cp.aspx?n=13795)[道路命名](News.aspx?n=13796&sms=15802)[門牌相關公告](News.aspx?n=13797&sms=15803)[門牌整編異動資料](News.aspx?n=13798&sms=15804)[桃園市門牌電子地圖查詢系統](https://addressrs.moi.gov.tw/address/index.cfm?city_id=68000)[村里街路門牌查詢（門牌號碼請用全形輸入，如：觀和路２８號）](https://www.ris.gov.tw/app/portal/3053)[郵遞區號查詢](http://www.post.gov.tw/post/internet/Postal/index.jsp?ID=208)[法規資訊](https://www.ris.gov.tw/app/portal/91)[標準作業流程](https://cab.tycg.gov.tw/News.aspx?n=7837&sms=12162)[戶政規費收費標準](/News_Content.aspx?n=13777&s=1098928)[國民身分證補換資料查詢](https://www.ris.gov.tw/app/portal/3014)[施政計畫](https://www.tycg.gov.tw/News.aspx?n=96&sms=7922&_CSN=656)[施政報告](https://www.tycg.gov.tw/News.aspx?n=95&sms=7921&_CSN=617)[常見問答](https://www.ris.gov.tw/app/portal/158)
+- [便民服務](cl.aspx?n=13808)[桃園市各區戶所等待人數](cp.aspx?n=20219)[桃園市各區戶所線上取號](cp.aspx?n=25023)[常用服務](News_Link.aspx?n=13809&sms=15805)[線上申辦](ENews.aspx?n=13811&sms=17539)[網路預約申請(查詢與取消)](https://www.ris.gov.tw/app/portal/260)[桃園市代收代辦代送首次申辦護照服務](cp.aspx?n=13813)[跨機關通報進度查詢網頁](News_Link.aspx?n=13814&sms=15807)[桃園市政府各區大宗戶籍謄本進度查詢](http://household.tycg.gov.tw/index.php)[書表下載](News.aspx?n=13817&sms=15808)[檔案應用](cl.aspx?n=13818)[申請須知](News.aspx?n=13819&sms=15809)[相關連結](News_Link.aspx?n=13820&sms=15810)[出版品](News.aspx?n=13821&sms=15811)[滿意度調查](Questionnaire.aspx?n=13822&sms=20261)[滿意度分析](News.aspx?n=13823&sms=15812)[活動報名](ActiveList.aspx?n=25065&sms=20563)
+- [機關通訊錄](cl.aspx?n=13824)[機關聯絡資訊](cp.aspx?n=13825)[交通資訊](cp.aspx?n=13826)[市政信箱](https://taotalk.tycg.gov.tw/interface/Petition?channel=G_DEPC_380023100A)[服務時間](cp.aspx?n=13828)[桃園市各戶所聯絡資訊](cp.aspx?n=13829)
+- [政府資訊公開](cl.aspx?n=13830)[政府資訊公開](cp.aspx?n=13831)[會計報告](News.aspx?n=13832&sms=15813)[政策宣導](News.aspx?n=13833&sms=15814)[個人資料保護專區](News.aspx?n=13834&sms=15815)[安全及衛生防護專區](cl.aspx?n=23024)[法規](News.aspx?n=25060&sms=20558)[宣導事項](News.aspx?n=25062&sms=20560)[會議紀錄](News.aspx?n=25061&sms=20559)[性別主流化專區](News.aspx?n=13835&sms=15816)[影音專區](News_Video.aspx?n=13836&sms=15817)[文宣品](News.aspx?n=13837&sms=15818)
+
+:::## 歷史沿革
+
+跳過此子選單列請按[Enter]，繼續則按[Tab]網頁功能- [列印內容](javascript:CCMS_Print(166);)
+
+$(function () { $('[tab-cp]').each(function () { $(this).click(function (event) { event.preventDefault(); $('[tab-cp]').removeClass('is-active'); $('[tab-cp] a[role="tab"]').attr({ 'aria-selected': 'false', tabindex: '-1' }); $.each($('[tab-cp]'), function (i,item) { var $aTag = $(item).find('a'); var title = $aTag.html(); $aTag.attr('role', 'tab'); if (!$(item).hasClass('is-active') && !$aTag.attr('title')?.startsWith('選取後將')) { $aTag.attr('title', '選取後將變更主要內容為 ' + title); } }) $(this).addClass('is-active'); $(this).find('a[role="tab"]').attr({ 'aria-selected': 'true', tabindex: '0' }); var title = $(this).find('a').html(); $(this).find('a').attr('title','當前頁面 ' +title); $('[tab-cp-target]').attr('hidden', true).removeAttr('style'); $('[tab-cp-target="' + $(this).attr('tab-cp') + '"]').removeAttr('hidden').removeAttr('style'); }) }).eq(0).click(); if (getParameterByName('s') != '') { $('[tab-cp="' + getParameterByName('s') + '"]').click(); } $('[tab-show="false"]').each(function () { $(this).hide(); }) var elements = document.querySelectorAll("[id^='ContentPlaceHolder1']"); elements.forEach(function (element) { var h3Element = element.querySelector('h3'); if (h3Element) { var h3Text = h3Element.textContent.trim(); var links = element.querySelectorAll('a[class="div"]'); links.forEach(function (link) { if (link.hasAttribute('title')) { var originalTitle = link.querySelector('.caption').innerText; if (!originalTitle.includes(h3Text)) { var newTitle = h3Text + ' ' + originalTitle; link.setAttribute('title', newTitle); } } }); } }); // 無障礙修正 WCAG 2.4.4 HM1240404E： // 工單32030、32032、32049：附件連結需在 title 帶出檔名，讓 NVDA 能分辨不同檔案的連結目的 // 做法：已有 title 的連結不動（避免覆蓋後台相關檔案的設定），沒有 title 的才依檔案類型補上 document.querySelectorAll('a[target="_blank"]').forEach(function (a) { a.setAttribute('rel', 'noopener noreferrer'); if (a.title) return; // 優先取 data-name（後台上傳時帶的原始檔名），其次用連結文字 let fileName = a.getAttribute("data-name") || a.innerText.trim() || ""; const ext = fileName.split('.').pop().toLowerCase(); // Office、壓縮檔、音檔等需另存才能開，用「下載」 if (["doc", "docx", "ppt", "pptx", "xls", "xlsx", "odf", "odt", "ods", "odp", "txt", "csv", "rar", "zip", "mp3"].includes(ext)) { a.title = `${fileName} 下載`; } // 其餘（含 pdf、圖檔、未知類型）統一用「另開新視窗」 // ext 有值代表 fileName 一定有值；沒有才需判斷 fileName 是否為空 else { a.title = fileName ? `${fileName} 另開新視窗` : "另開新視窗"; } }); // 將分頁連結標記為 WAI-ARIA Tab。 // 只針對 .list-text.classify 裡的 a（分頁） document.querySelectorAll('.list-text.classify a').forEach(function (anchor) { anchor.setAttribute('role', 'tab'); }); // 無障礙 : 頁籤容器 tablist $('.list-text.classify').attr('role', 'tablist'); // 初始化每個分頁的對應屬性（id / href / aria-controls / 目前選取狀態） $('.list-text.classify li[tab-cp] a').each(function () { const $a = $(this); const $li = $a.closest('li[tab-cp]'); const id = $li.attr('tab-cp'); const active = $li.hasClass('is-active'); $a.attr({ id: 'tab-' + id, href: '#Group_' + id, 'aria-controls': 'panel-' + id, 'aria-selected': active ? 'true' : 'false', tabindex: active ? '0' : '-1' }); }); // 初始化每個面板語意與對應分頁 $('[tab-cp-target]').each(function () { const id = $(this).attr('tab-cp-target'); $(this).attr({ role: 'tabpanel', id: 'panel-' + id, 'aria-labelledby': 'tab-' + id }); // 依目前可見性同步 hidden if ($(this).is(':visible')) $(this).removeAttr('hidden'); else $(this).attr('hidden', true); }); // 鍵盤導覽 : 左右/Home/End // 移動焦點 : Enter / Space 啟用 var $tablist = $('.list-text.classify'); $tablist.on('keydown', 'a[role="tab"]', function (e) { const $tabs = $tablist.find('a[role="tab"]'); const i = $tabs.index(this); let j = i; if (e.key === 'ArrowRight') j = (i + 1) % $tabs.length; else if (e.key === 'ArrowLeft') j = (i - 1 + $tabs.length) % $tabs.length; else if (e.key === 'Home') j = 0; else if (e.key === 'End') j = $tabs.length - 1; else if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); $(this).closest('li[tab-cp]').click(); return; } else return; e.preventDefault(); $tabs.eq(j).focus(); }); }) function DeptSearch() { var ddlTitle = $("#jDeptSearch").find(":selected").text(); var cpHtml = $(".group.base-article.taoyuan-link"); if ($(cpHtml).find($("a[data-name='" + ddlTitle + "']")).length == 0) { alert('查無相關資訊'); } else { var ddlUrl = $(cpHtml).find($("a[data-name='" + ddlTitle + "']")).attr("href"); if (ddlUrl.indexOf('http') >= 0) { window.open(ddlUrl, '_blank'); } else { location.href = (ddlUrl); } } }- 歷史沿革
+
+- 日期：111-03-31
+
+有石頭觀音始有觀音區。相傳清咸豐年間，有黃姓居民於耕作途中，拾獲一天然石像貌似觀音，因稱之為石觀音。斯時長年乾旱不雨、瘟疫橫行，百姓疾苦，觀音神跡顯靈，於居民拾獲石觀音處湧現甘泉，取用不竭，瘟疫隨之而消，居民感念神恩乃建廟祭祀，於其庄則稱石觀音庄，即觀音區名之由來。
+
+本區位居桃園市沿海中段，面積八七．七九平方公里，僅次於復興區、大溪區、楊梅區，居全市第四位，卻是沿海面積最大之一區。東與中壢區為壤，南鄰新屋區，東北接大園區，早年先民開發即自此三方面進入，今觀音區習慣上也分為三個地區，即觀音、新坡、草漯等三區，面積大小相若。
+
+今之觀音區地位日趨重要，交通便利、工商發達，將積極規劃本區重大公共工程建設，發展觀光，爭取企業集團規劃大型科技園區，提高學術醫療文化，使觀音成為桃園的『希望之鄉』。
+
+### 歷史沿革
+
+**西元1860年（咸豐10年）**
+
+觀音鄉地名最早是由「石觀音」而來，相傳有農民在小溪中拾獲石像，狀似觀音菩薩，逐以「石觀音」稱之，同年黃雲中等籌建「福龍山寺」，後居民於寺旁發現湧泉，稱為甘泉井，寺亦改名為甘泉寺。
+
+**西元1901年（明治34年）**
+
+隸屬桃仔園廳梅櫪支廳新屋區石觀音庄。
+
+**西元1920年（民國9年）**
+
+隸屬新竹州中壢郡觀音庄，「石觀音」名稱正式更名為「觀音庄」。
+
+**西元1946年（民國35年）**
+
+更改為新竹縣中壢區觀音鄉
+
+戶籍法施行，戶政業務由觀音鄉公所辦理，由當時鄉長兼任戶籍主任，辦理戶籍總清查。
+
+**西元1950年（民國39年）**
+
+配合政府撤廢區署政策，正式定名為桃園縣觀音鄉。
+
+**西元1954年（民國43年）**
+
+觀音鄉公所設戶籍課，主任由鄉長兼任，另於轄內警察分駐所或派出所普設戶口申報處。
+
+**西元1973年（民國62年）**
+
+修正、公布、施行戶籍法，並將戶政事務所改隸於警察局。
+
+**西元1992年（民國81年）**
+
+7月1日正式戶警分立，改隸於桃園縣政府
+
+**西元2011年（民國100年）**
+
+本所搬遷至觀音鄉行政園區
+
+**西元2014年（民國103年）**
+
+12月25日桃園縣升格為直轄市
+
+桃園縣觀音鄉改制為桃園市觀音區
+
+更多更詳細的戶政沿革，歡迎至內政部全球資訊網「內政概要-戶政」網頁瀏覽。
+
+- [回上一頁](javascript:window.location =document.referrer;)
+- [回最上面](#Accesskey_U)
+
+選單:::- [認識我們](cl.aspx?n=13766)[主管介紹](cp.aspx?n=13767)[環境介紹](cp.aspx?n=13768)[組織架構](cp.aspx?n=13769)[業務職掌](cp.aspx?n=13770)[所徽介紹](cp.aspx?n=13771)[歷史沿革](cp.aspx?n=13772)[地理位置](cp.aspx?n=13773)[行政區域](cp.aspx?n=13774)[志工園地](cp.aspx?n=13775)[志工活動花絮](News_Photo.aspx?n=17201&sms=18535)
+- [訊息公告](cl.aspx?n=13776)[最新消息](News.aspx?n=13777&sms=15793)[活動花絮](News_Photo.aspx?n=18346&sms=18892)[藝文廊區](cl.aspx?n=27095)
+- [申辦須知](https://www.ris.gov.tw/app/portal/372)
+- [業務資訊](cl.aspx?n=13779)[統計資訊-人口統計](cl.aspx?n=13780)[戶籍罰鍰處罰金額基準表](https://glrs.moi.gov.tw/LawContent.aspx?id=GL000146)[新住民專區](cl.aspx?n=13786)[門牌專區](cl.aspx?n=13793)[法規資訊](https://www.ris.gov.tw/app/portal/91)[標準作業流程](https://cab.tycg.gov.tw/News.aspx?n=7837&sms=12162)[戶政規費收費標準](/News_Content.aspx?n=13777&s=1098928)[國民身分證補換資料查詢](https://www.ris.gov.tw/app/portal/3014)[施政計畫](https://www.tycg.gov.tw/News.aspx?n=96&sms=7922&_CSN=656)[施政報告](https://www.tycg.gov.tw/News.aspx?n=95&sms=7921&_CSN=617)[常見問答](https://www.ris.gov.tw/app/portal/158)
+- [便民服務](cl.aspx?n=13808)[桃園市各區戶所等待人數](cp.aspx?n=20219)[桃園市各區戶所線上取號](cp.aspx?n=25023)[常用服務](News_Link.aspx?n=13809&sms=15805)[線上申辦](ENews.aspx?n=13811&sms=17539)[網路預約申請(查詢與取消)](https://www.ris.gov.tw/app/portal/260)[桃園市代收代辦代送首次申辦護照服務](cp.aspx?n=13813)[跨機關通報進度查詢網頁](News_Link.aspx?n=13814&sms=15807)[桃園市政府各區大宗戶籍謄本進度查詢](http://household.tycg.gov.tw/index.php)[書表下載](News.aspx?n=13817&sms=15808)[檔案應用](cl.aspx?n=13818)[滿意度調查](Questionnaire.aspx?n=13822&sms=20261)[滿意度分析](News.aspx?n=13823&sms=15812)[活動報名](ActiveList.aspx?n=25065&sms=20563)
+- [機關通訊錄](cl.aspx?n=13824)[機關聯絡資訊](cp.aspx?n=13825)[交通資訊](cp.aspx?n=13826)[市政信箱](https://taotalk.tycg.gov.tw/interface/Petition?channel=G_DEPC_380023100A)[服務時間](cp.aspx?n=13828)[桃園市各戶所聯絡資訊](cp.aspx?n=13829)
+- [政府資訊公開](cl.aspx?n=13830)[政府資訊公開](cp.aspx?n=13831)[會計報告](News.aspx?n=13832&sms=15813)[政策宣導](News.aspx?n=13833&sms=15814)[個人資料保護專區](News.aspx?n=13834&sms=15815)[安全及衛生防護專區](cl.aspx?n=23024)[性別主流化專區](News.aspx?n=13835&sms=15816)[影音專區](News_Video.aspx?n=13836&sms=15817)[文宣品](News.aspx?n=13837&sms=15818)
+
+下方連結- [隱私權政策](https://www.tycg.gov.tw/cp.aspx?n=5845&s=1312&ccms_cs=1&state=1C5D152DDF4F3ED0)
+- [網站安全政策](https://www.tycg.gov.tw/cp.aspx?n=5846&s=1313&ccms_cs=1&state=1C5D152DDF4F3ED0)
+- [政府網站資料開放宣告](https://www.tycg.gov.tw/cp.aspx?n=5847&s=1314&ccms_cs=1&state=1C5D152DDF4F3ED0)
+
+更新日期115-11-05瀏覽人次..
+觀音區戶政
+粉絲頁
+戶政怎麼去上班時間：週一至週五08:00~17:00
+(中午12:00~13:00服務不中斷，櫃檯數較少，請耐心等候)
+瀏覽器支援：Chrome、Firefox、Edge、Safari為主，
+如使用IE瀏覽器Win7已不再支援IE，Win10已於2022年6月15日淘汰並停止支援IE。
+電話：(03) 4732-050 傳真： (03) 4734-812
+地址 : 328251 桃園市觀音區觀和路28號
+電子郵件：10044854@mail.tycg.gov.tw
+回最上面requirejs.config({ baseUrl:'https://www.guanyin-hro.tycg.gov.tw/js' }); requirejs(['main'], function (func) { func(); });document.querySelectorAll('.list-text.share').forEach((shareElement) => { const firstLink = shareElement.querySelector('a'); if (firstLink) { firstLink.setAttribute('aria-selected', shareElement.classList.contains('is-active') ? 'true' : 'false'); firstLink.addEventListener('click', (event) => { event.preventDefault(); if (shareElement.classList.contains('is-active')) { firstLink.setAttribute('aria-selected', 'false'); } else { firstLink.setAttribute('aria-selected', 'true'); } }); } });function updateAriaSelected() { document.querySelectorAll('.list-text.tab [role="tab"]').forEach((anchor) => { if (anchor.closest('li').classList.contains('is-active')) { anchor.setAttribute('aria-selected', 'true'); } else { anchor.setAttribute('aria-selected', 'false'); } }); } updateAriaSelected(); document.querySelectorAll('.list-text.tab [role="tab"]').forEach((anchor) => { anchor.addEventListener('click', (event) => { event.preventDefault(); document.querySelectorAll('.list-text.tab li').forEach((li) => li.classList.remove('is-active')); anchor.closest('li').classList.add('is-active'); updateAriaSelected(); }); });

@@ -38,6 +38,7 @@ py -3.12 -m crawler.url_cli delete extra_040
 py -3.12 -m crawler.main --id page_001 --delay 2
 py -3.12 -m crawler.main --id extra_003 --delay 2
 py -3.12 -m crawler.main --origin teacher --delay 2
+py -3.12 -m crawler.main --web-only --include-discovery --delay 2
 py -3.12 -m crawler.main --origin extra --delay 2
 py -3.12 -m crawler.main --origin extra --include-discovery --delay 2
 py -3.12 -m crawler.main --id extra_001 --explore --max-extra 2 --delay 2
@@ -61,6 +62,22 @@ py -3.12 -m http.server 8000 --directory site
 ```
 瀏覽器開啟 http://localhost:8000/ ，用 Ctrl+C 停止服務。
 
+### 正文與圖片清理（組員 2）
+
+`crawler.main` 在每個 web 來源成功取得 HTML 後，會自動產生：
+
+- `output/articles/{id}.json`：清理後正文、作者／日期、圖片來源、caption 與對應段落。
+- `output/articles/{id}.md`：可直接閱讀的 Markdown，圖片插入原本所在位置。
+- `output/images/{id}_image_XX.jpg`：通過 lazy-loading URL、廣告／推薦 DOM、關鍵字、尺寸、長寬比與 MD5 去重篩選的圖片。
+
+圖片只會從推定的 `article`／`main`／文章內容容器掃描，不會把整個網頁的 logo、導覽列或推薦輪播全部下載。遇到 Cloudflare／隱私驗證頁、動態空殼或沒有合格圖片時，程式會自動嘗試 Selenium headless Chrome；仍無法取得時，JSON 會保留空欄位並記錄 `processing_status`／`processing_reason`，不以其他圖片冒充。停用瀏覽器 fallback 可加 `--no-browser-fallback`。需要瀏覽器渲染的網站也可將 Selenium 產生的 `page_source` 傳給 `crawler.article_parser.parse_article`，再寫入同一輸出格式。
+
+單獨測試正文與圖片模組：
+
+```powershell
+py -3.12 -m unittest tests.test_article_parser -v
+```
+
 ## 四人銜接
 | 成員 | 取得檔案 | 後續責任 |
 |---|---|---|
@@ -69,7 +86,7 @@ py -3.12 -m http.server 8000 --directory site
 | 3 | `type=video` 的 URL、來源 ID | 字幕、時間戳記、合法畫面 |
 | 4 | `output/source_registry.json`, `output/crawl_report.csv` | `index.jsonl`、關鍵字、交叉查證、統計 |
 
-目前不包含組員 2–4 的功能實作。原始 HTML、來源紀錄與影片資料不能混淆。HTTP 成功與內容清理成功應分開記錄。`manual_001` 是臨時 URL 測試 ID，不應替代正式來源 ID。
+組員 2 的正文／圖片清理已接在 `crawler.main` 後；組員 3–4 的其他模組仍依各自輸出交接。原始 HTML、來源紀錄與影片資料不能混淆。HTTP 成功與內容清理成功應分開記錄。`manual_001` 是臨時 URL 測試 ID，不應替代正式來源 ID。
 
 ## 備註
 - 檔案包含你上傳 ZIP 中已有的本地執行成果，但不代表 70 筆皆已完整爬取。

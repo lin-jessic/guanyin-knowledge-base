@@ -29,6 +29,8 @@ test_work/
 # Whisper model cache
 models/
 .cache/
+tmp/pydeps/
+chromedriver/
 
 # Crawler Intermediate Output
 output/raw_html/
