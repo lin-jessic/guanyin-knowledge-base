@@ -71,7 +71,9 @@ def research(slug):
 @app.route('/library')
 def library():
     q=request.args.get('q','').strip()[:80];kind=request.args.get('type','')
-    return render_template('library.html',q=q,kind=kind,records=store.source_list(q,kind,limit=120))
+    recs=store.source_list(q,kind,limit=120)
+    for rec in recs:rec['photos']=store.public_photos(rec,1)
+    return render_template('library.html',q=q,kind=kind,records=recs)
 
 @app.route('/source/<rid>')
 def source_detail(rid):
@@ -80,6 +82,7 @@ def source_detail(rid):
     if not row:abort(404)
     rec=dict(row)
     approved=[]
+    admin_previews=[]
     try: raw_images=json.loads(rec.get('image_json') or '[]')
     except ValueError:raw_images=[]
     with store.connect() as db:
@@ -87,11 +90,13 @@ def source_detail(rid):
             if not isinstance(it,dict):continue
             path=str(it.get('file') or '').replace('\\','/')
             if not path.startswith('images/') or '..' in Path(path).parts:continue
+            if session.get('admin') and (ROOT/'output'/path).is_file():
+                admin_previews.append({'path':path,'caption':str(it.get('caption') or rec['title'])[:150]})
             ok=db.execute('SELECT allow_public FROM media_rights WHERE path=?',(path,)).fetchone()
             if ok and ok[0]==1 and (ROOT/'output'/path).is_file():
                 approved.append({'path':path,'caption':str(it.get('caption') or rec['title'])[:150]})
     # External source excerpts, not full reproduction; associated images preview only in admin.
-    return render_template('source.html',rec=rec,segments=json.loads(rec['video_json'] or '[]'),approved=approved)
+    return render_template('source.html',rec=rec,segments=json.loads(rec['video_json'] or '[]'),approved=approved,admin_previews=admin_previews)
 
 @app.route('/videos')
 def videos_public():
@@ -105,6 +110,7 @@ def videos_public():
         elif u.hostname in ('youtu.be','www.youtu.be'):
             vid=u.path.strip('/').split('/')[0]
         item['youtube_id']=vid if len(vid)==11 and all(x.isalnum() or x in '-_' for x in vid) else ''
+        item['photos']=store.public_photos(item)
     return render_template('videos_public.html',records=items)
 
 @app.route('/timeline')
@@ -119,7 +125,10 @@ def evidence():return render_template('evidence.html',claims=store.verification(
 def map_page():
     with store.connect() as db:
         pts=[dict(x) for x in db.execute('SELECT * FROM places WHERE reviewed=1 AND latitude BETWEEN -90 AND 90 AND longitude BETWEEN -180 AND 180')]
-    return render_template('map.html',places=pts)
+    for item in pts:
+        item['sources']=store.related_sources(item,12)
+        item['photos']=next((s['photos'] for s in item['sources'] if s['photos']),[])
+    return render_template('map.html',places=pts,topicmap=TOPIC_MAP)
 
 @app.route('/about')
 def about():return render_template('about.html')
@@ -214,8 +223,10 @@ def update_place():
         flash('地點名稱與來源網址不可為空。','error');return redirect(url_for('settings'))
     topic=request.form.get('topic','')
     if topic not in TOPIC_MAP:topic='land'
+    terms=request.form.get('source_ids','').strip()[:300]
+    description=request.form.get('description','').strip()[:650]
     with store.connect() as db:
-        db.execute('INSERT INTO places(name,topic,latitude,longitude,source_url,reviewed) VALUES(?,?,?,?,?,1)',(name,topic,lat,lng,url))
+        db.execute('INSERT INTO places(name,topic,latitude,longitude,source_url,reviewed,source_ids,description,coord_note) VALUES(?,?,?,?,?,1,?,?,?)',(name,topic,lat,lng,url,terms,description,'由管理員確認的點位'))
     flash('已加入具有來源的地圖點位。','ok');return redirect(url_for('settings'))
 
 @app.route('/settings/legacy/<name>')

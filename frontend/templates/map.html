@@ -1,1 +1,62 @@
-{% extends 'base.html' %}{% block title %}地方地圖{% endblock %}{% block head %}<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoMndC2cCFJQNE=" crossorigin=""><script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>{% endblock %}{% block body %}<section class="page-banner"><div class="container"><p class="kicker">GEOGRAPHY & LOCAL MEMORY</p><h1>觀音地方地圖</h1><p>將地方敘事放回地理空間。只有完成座標與來源確認的地點，才會出現在公開地圖。</p></div></section><div class="container section"><div id="guanyin-map" class="map" data-places='{{places|tojson}}' aria-label="觀音區互動地圖"><p>載入地圖中（需要網路連線）…</p></div><div class="research-note">底圖：© OpenStreetMap contributors。地點標記由管理員人工確認後建立；尚未匯入行政邊界、河川線段或歷史圖層，請勿將地圖中心當成已查證的地點位置。</div><div class="section-heading"><div><h2>空間研究的下一步</h2><p>河川需要有來源的線狀圖資，保育區需要經確認的面狀邊界，歷史變遷則需相同基準的歷年地圖。不可用一個大致標記取代原始地理證據。</p></div></div></div><script>document.addEventListener('DOMContentLoaded',()=>{const el=document.getElementById('guanyin-map');if(!window.L){el.innerHTML='<p class="map-fallback">無法載入線上地圖。請確認網路連線，或從文獻索引查找地點。</p>';return}const m=L.map(el).setView([25.033,121.105],12);L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:18,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(m);const arr=JSON.parse(el.dataset.places||'[]');arr.forEach(p=>{const n=document.createElement('div');const name=document.createElement('strong');name.textContent=p.name;const a=document.createElement('a');a.href=p.source_url;a.textContent='查看查證來源';a.target='_blank';a.rel='noopener noreferrer';n.append(name,document.createElement('br'),a);L.marker([p.latitude,p.longitude]).addTo(m).bindPopup(n)});});</script>{% endblock %}
+{% extends 'base.html' %}
+{% block title %}地方地圖與故事{% endblock %}
+{% block head %}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css" crossorigin="anonymous">
+<script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin="anonymous"></script>
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js" crossorigin="anonymous"></script>
+<style>
+/* Structural Leaflet fallback: prevents tiles escaping the map if remote stylesheet fails. */
+#guanyin-map{position:relative;isolation:isolate;width:100%;height:540px;max-width:100%;overflow:hidden;background:#e8ede5;touch-action:pan-x pan-y}
+#guanyin-map .leaflet-pane,#guanyin-map .leaflet-tile,#guanyin-map .leaflet-marker-icon,#guanyin-map .leaflet-marker-shadow,#guanyin-map .leaflet-tile-container,#guanyin-map .leaflet-pane>svg{position:absolute;left:0;top:0}
+#guanyin-map .leaflet-container{overflow:hidden}
+#guanyin-map .leaflet-tile{width:256px;height:256px;max-width:none!important;max-height:none!important;box-sizing:content-box;padding:0;border:0}
+#guanyin-map .leaflet-tile-pane{z-index:200}#guanyin-map .leaflet-overlay-pane{z-index:400}#guanyin-map .leaflet-marker-pane{z-index:600}#guanyin-map .leaflet-tooltip-pane{z-index:650}#guanyin-map .leaflet-popup-pane{z-index:700}
+#guanyin-map .leaflet-control-container .leaflet-top,#guanyin-map .leaflet-control-container .leaflet-bottom{position:absolute;z-index:800;pointer-events:none}
+#guanyin-map .leaflet-control-container .leaflet-top{top:10px}#guanyin-map .leaflet-control-container .leaflet-bottom{bottom:6px}#guanyin-map .leaflet-control-container .leaflet-left{left:10px}#guanyin-map .leaflet-control-container .leaflet-right{right:10px}
+#guanyin-map .leaflet-control{pointer-events:auto;background:#fffe;box-shadow:0 1px 7px #0002;border-radius:3px}#guanyin-map .leaflet-control-attribution{font-size:10px;padding:2px 7px}
+#guanyin-map .leaflet-control-zoom a{display:block;text-align:center;line-height:27px;width:30px;height:30px;border-bottom:1px solid #ddd}
+#guanyin-map .leaflet-popup-content-wrapper{background:#fff;border-radius:5px;box-shadow:0 3px 15px #0003;padding:10px}
+#guanyin-map .leaflet-popup-content{margin:10px;min-width:180px}#guanyin-map .leaflet-popup-tip{display:none}
+.map-layout{display:grid;grid-template-columns:minmax(0,1.65fr) minmax(270px,1fr);gap:24px;align-items:start}
+.map-list{max-height:540px;overflow:auto;border-top:1px solid #d9ded5}.map-item{width:100%;text-align:left;display:block;border:0;border-bottom:1px solid #d9ded5;padding:16px 14px;background:white;color:#283c37}.map-item:hover,.map-item.active{background:#eef2eb}.map-item strong{display:block;font-family:var(--serif);font-size:18px}.map-item span{display:block;font-size:12px;color:#79897d;margin-top:4px}.map-detail{margin-top:24px;padding:24px;border:1px solid #d9ded5;background:white}.map-detail h2{font-size:25px;margin-bottom:12px}.map-detail p{line-height:1.9}.story-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.story-card{background:white;border:1px solid #d9ded5;padding:18px;display:flex;flex-direction:column;gap:7px}.story-card img{width:100%;height:160px;object-fit:cover;display:block}.story-card strong{font-family:var(--serif);font-size:17px}.story-card span{font-size:12px;color:#677b6e}.map-hint{font-size:13px;color:#67766c}.filter-bar{display:flex;flex-wrap:wrap;gap:9px;margin-bottom:20px}.filter-bar button{border:1px solid #bdcdbf;background:#fff;padding:6px 14px;color:#284f44}.filter-bar button.active{background:#214c43;color:#fff}.map-empty{padding:25px;background:#fff;border:1px solid #ddd}
+@media(max-width:820px){.map-layout{grid-template-columns:1fr}#guanyin-map{height:390px}.map-list{max-height:260px}.story-list{grid-template-columns:1fr}}
+</style>
+{% endblock %}
+{% block body %}
+<section class="page-banner"><div class="container"><p class="kicker">GEOGRAPHY / DOCUMENTS / LOCAL MEMORY</p><h1>地方地圖與故事</h1><p>選擇一處地點，閱讀地景、地方歷史、影音與來源記錄。地圖上的點是可追溯的地點或調查座標，不代表完整行政邊界或河川範圍。</p></div></section>
+<section class="container section"><div class="filter-bar" id="map-filters"><button type="button" data-topic="" class="active">全部地點</button>{% for k,t in topicmap.items() %}<button type="button" data-topic="{{k}}">{{t.title}}</button>{% endfor %}</div>
+<div class="map-layout"><div><div id="guanyin-map" aria-label="觀音地方互動地圖"></div><p class="map-hint">地圖需要網路載入底圖與 Leaflet；下方地點清單不受網路影響。 © OpenStreetMap contributors</p></div><div class="map-list" id="map-list">{% for p in places %}<button type="button" class="map-item" data-id="{{p.id}}" data-topic="{{p.topic}}"><strong>{{p.name}}</strong><span>{{topicmap[p.topic].title if p.topic in topicmap else '地方研究'}} · {{p.sources|length}} 筆關聯資料</span></button>{% else %}<div class="map-empty">目前沒有已確認座標的地點，可在管理中心新增。</div>{% endfor %}</div></div>
+<section class="map-detail" id="map-detail" aria-live="polite"><h2>選擇一處地點，開始閱讀</h2><p>點選地圖標記或右側清單，即可查看相關文章、影片與研究線索。</p></section>
+<div class="research-note">圖上預先收錄的座標參照官方地點資料。草漯沙丘的「地景調查點」位於大園區，是調查記錄座標，不能當作整片沙丘的中心點。文章、圖片及影音資料保留原始出處；自動關聯不等於人工證實史實。</div></section>
+<script id="guanyin-places" type="application/json">{{places|tojson}}</script>
+<script>
+window.addEventListener('load',()=>{
+ const places=JSON.parse(document.getElementById('guanyin-places').textContent||'[]');
+ const mapEl=document.getElementById('guanyin-map');const details=document.getElementById('map-detail');
+ const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+ const valid=u=>{try{const p=new URL(u,location.origin);return ['http:','https:'].includes(p.protocol)?p.href:'#'}catch{return '#'}};
+ const byId=new Map(places.map(p=>[String(p.id),p]));let selected=null;let map=null;const markers=new Map();
+ const render=p=>{
+  if(!p)return;selected=String(p.id);document.querySelectorAll('.map-item').forEach(el=>el.classList.toggle('active',el.dataset.id===selected));
+  let h=`<p class="kicker">LOCAL STUDIES / PLACE</p><h2>${esc(p.name)}</h2><p>${esc(p.description||'尚無人工補充的地方簡介。')}</p>`;
+  if(p.coord_note)h+=`<p class="map-hint">座標說明：${esc(p.coord_note)}</p>`;
+  h+=`<p><a href="${esc(valid(p.source_url))}" target="_blank" rel="noopener noreferrer">查看座標與地點來源 ↗</a></p>`;
+  const arr=p.sources||[];h+=`<h3>相關地方文獻與影音（${arr.length}）</h3>`;
+  h+=arr.length?`<div class="story-list">${arr.map(s=>{let media=s.photos&&s.photos[0];const photo=media?`<img loading="lazy" src="/media/${encodeURI(media.path)}" alt="${esc(media.caption)}">`:'';return `<a class="story-card" href="/source/${encodeURIComponent(s.id)}">${photo}<span>${s.type==='video'?'影音文獻':'地方文章'} · ${esc(s.source_name)}</span><strong>${esc(s.title)}</strong><span>閱讀來源與擷取摘要 →</span></a>`}).join('')}</div>`:'<p>目前沒有符合地點關鍵詞的爬取資料；可在管理中心補充地點關鍵詞並同步資料。</p>';
+  details.innerHTML=h;
+ };
+ const choose=id=>{const p=byId.get(String(id));if(!p)return;render(p);if(map&&markers.has(String(id))){map.setView([p.latitude,p.longitude],Math.max(map.getZoom(),13),{animate:true});markers.get(String(id)).openPopup()}};
+ document.querySelectorAll('.map-item').forEach(el=>el.addEventListener('click',()=>choose(el.dataset.id)));
+ document.querySelectorAll('#map-filters button').forEach(btn=>btn.addEventListener('click',()=>{document.querySelectorAll('#map-filters button').forEach(b=>b.classList.toggle('active',b===btn));const topic=btn.dataset.topic;document.querySelectorAll('.map-item').forEach(el=>{el.hidden=!!topic&&el.dataset.topic!==topic});for(const [id,m] of markers){const p=byId.get(id);if(map){if(!topic||p.topic===topic)m.addTo(map);else map.removeLayer(m)}}}));
+ if(places.length)render(places[0]);
+ if(!window.L){mapEl.innerHTML='<p class="map-fallback">地圖互動套件未載入。請檢查網路或瀏覽器是否阻擋 CDN；地點清單仍可正常使用。</p>';return}
+ map=L.map(mapEl,{scrollWheelZoom:false,preferCanvas:true}).setView([25.045,121.085],12);
+ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:18,attribution:'© OpenStreetMap contributors'}).addTo(map);
+ for(const p of places){if(!Number.isFinite(Number(p.latitude))||!Number.isFinite(Number(p.longitude)))continue;const marker=L.marker([p.latitude,p.longitude]).addTo(map);marker.bindPopup(`<strong>${esc(p.name)}</strong><div>點選可閱讀地方文獻</div>`);marker.on('click',()=>render(p));markers.set(String(p.id),marker)}
+ if(markers.size){const bb=L.latLngBounds(places.map(p=>[p.latitude,p.longitude]));map.fitBounds(bb.pad(.2),{maxZoom:12})}
+ setTimeout(()=>map.invalidateSize(),200);
+ window.addEventListener('resize',()=>map.invalidateSize());
+ });
+</script>
+{% endblock %}
