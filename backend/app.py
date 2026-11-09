@@ -5,7 +5,7 @@ from functools import wraps
 from pathlib import Path
 from urllib.parse import urlparse,parse_qs
 from flask import Flask,render_template,request,redirect,url_for,session,abort,send_from_directory,flash
-from . import store
+from . import store, gallery, gallery
 from .content import TOPIC_MAP,TOPICS
 
 ROOT=store.ROOT
@@ -41,7 +41,7 @@ def inject():return {'topics':TOPICS,'csrf_token':csrf}
 @app.route('/')
 def home():
     data=store.features()
-    return render_template('home.html',features=[x for x in data if x['publication']=='published'],counts=store.counts(),topicmap=TOPIC_MAP)
+    return render_template('home.html',features=[x for x in data if x['publication']=='published'],counts=store.counts(),topicmap=TOPIC_MAP,gallery_preview=gallery.gallery_listing(per_page=8)[0])
 
 @app.route('/topics')
 def topics_page():return render_template('topics.html',topicmap=TOPIC_MAP)
@@ -96,7 +96,7 @@ def source_detail(rid):
             if ok and ok[0]==1 and (ROOT/'output'/path).is_file():
                 approved.append({'path':path,'caption':str(it.get('caption') or rec['title'])[:150]})
     # External source excerpts, not full reproduction; associated images preview only in admin.
-    return render_template('source.html',rec=rec,segments=json.loads(rec['video_json'] or '[]'),approved=approved,admin_previews=admin_previews)
+    return render_template('source.html',rec=rec,segments=json.loads(rec['video_json'] or '[]'),approved=approved,admin_previews=admin_previews,article_photos=gallery.photos_for_record(rec))
 
 @app.route('/videos')
 def videos_public():
@@ -142,6 +142,28 @@ def media(rel):
         allowed=db.execute('SELECT allow_public FROM media_rights WHERE path=?',(rel,)).fetchone()
     if not allowed or allowed['allow_public']!=1:abort(404)
     return send_from_directory(ROOT/'output',rel)
+
+
+# Photo archive: actual crawler files, unverified rights explicitly labelled.
+@app.route("/gallery")
+def gallery_page():
+    try: page=max(1,int(request.args.get('page','1')))
+    except ValueError:page=1
+    q=request.args.get('q','').strip()[:60]
+    photos,total,page,stats=gallery.gallery_listing(q,page)
+    return render_template('gallery.html',photos=photos,total=total,page=page,q=q,stats=stats)
+
+@app.route("/gallery-image/<path:rel>")
+def gallery_image(rel):
+    # Serve only files referenced by existing article JSON; no arbitrary disk paths.
+    path=gallery.normalize_path(rel)
+    if path is None:abort(404)
+    # Unreviewed images are for local teaching/review only; opt-in for LAN usage.
+    if request.remote_addr not in ('127.0.0.1','::1') and os.getenv('GUANYIN_LAN_PHOTO_PREVIEW')!='1':
+        with store.connect() as db:
+            right=db.execute('SELECT allow_public FROM media_rights WHERE path=?',(path,)).fetchone()
+        if not right or right[0] != 1:abort(403)
+    return send_from_directory(ROOT/'output',path)
 
 @app.route('/settings/login',methods=['GET','POST'])
 def login():

@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block title %}觀音影像誌{% endblock %}
+{% block head %}<link rel="stylesheet" href="{{url_for('static',filename='css/gallery.css')}}">{% endblock %}
+{% block body %}
+<section class="page-banner"><div class="container"><p class="kicker">GUANYIN / PHOTOGRAPHIC ARCHIVE</p><h1>觀音影像誌</h1><p>從你們採集的地方文獻出發，以照片閱讀觀音的土地、文化與生活。每張影像都保留對應文章與原始來源。</p></div></section>
+<section class="container gallery-section">
+<div class="gallery-toolbar"><div><p class="kicker">LOCAL PHOTO ARCHIVE</p><h2>照片牆</h2><p>目前符合影像檢查條件的照片 {{stats.valid}} 張／{{stats.on_disk}} 個原始圖片檔。技術檢查不等於版權確認。</p></div>
+<form action="{{url_for('gallery_page')}}" method="get" class="gallery-search"><input type="search" name="q" placeholder="搜尋景點、文章或圖片說明" value="{{q}}" aria-label="搜尋圖片"><button class="button" type="submit">搜尋</button></form></div>
+<div class="research-note">此頁預設顯示已爬取、可正常開啟且不重複的圖片，供本機課堂研究檢視。圖說來自擷取資料；不足時只顯示文章名稱，不臆測照片內容。「授權待核對」不代表可再利用或公開轉載。對外分享前應先篩選已取得授權的圖片。</div>
+<div class="photo-wall">{% for p in photos %}<figure class="photo-tile"><a href="{{url_for('source_detail',rid=p.id)}}"><img src="{{url_for('gallery_image',rel=p.path)}}" alt="{{p.caption}}" loading="lazy" width="{{p.width}}" height="{{p.height}}"><div class="photo-overlay"><span class="photo-category">{{p.id}}</span><strong>{{p.caption}}</strong><span>{{p.title}}</span></div></a><figcaption><span>{{p.caption}}</span><small>{{p.rights}} · <a href="{{url_for('source_detail',rid=p.id)}}">文章</a>{% if p.image_source.startswith('http') %} · <a href="{{p.image_source}}" target="_blank" rel="noopener noreferrer">原圖出處</a>{% endif %}</small></figcaption></figure>{% else %}<p class="research-note">沒有符合條件的影像，請確認 output/articles 與 output/images。</p>{% endfor %}</div>
+{% if total > 36 %}<nav class="gallery-pagination" aria-label="照片分頁">{% if page > 1 %}<a href="{{url_for('gallery_page',q=q,page=page-1)}}">← 上一頁</a>{% endif %}<span>第 {{page}} 頁／共 {{(total+35)//36}} 頁 · {{total}} 張</span>{% if page*36 < total %}<a href="{{url_for('gallery_page',q=q,page=page+1)}}">下一頁 →</a>{% endif %}</nav>{% endif %}
+</section>
+{% endblock %}

@@ -48,21 +48,21 @@ def read_json(path):
     except (OSError,ValueError):return None
 
 def safe_excerpt(s, n=260):
-    """Safe, short source excerpt; strip image/link Markdown before truncation."""
-    s = str(s or '')
-    # An image is not text. Remove nested Markdown images before regular links.
+    """Remove Markdown images, navigation, HTML/JS noise before truncation."""
+    import html as _html
+    s = _html.unescape(str(s or ''))
     s = re.sub(r'!\[[^\]]*\]\([^\n)]*(?:\([^)]*\)[^\n)]*)?\)', ' ', s)
-    s = re.sub(r'\[([^\]]+)\]\((?:https?://|\.\./|/)[^\n)]*\)', r'\1', s)
+    s = re.sub(r'\[([^\]]+)\]\([^\n)]*\)', r'\1', s)
+    s = re.sub(r'<(?:script|style|nav|header|footer)\b[^>]*>.*?</(?:script|style|nav|header|footer)>', ' ', s, flags=re.I|re.S)
     s = re.sub(r'<[^>]+>', ' ', s)
-    s = re.sub(r'(?m)^.*(?:\$\(|document\.|querySelector|function\s*\(|\.addEventListener|javascript:|window\.|console\.|\bvar\s+\w+\s*=).*$', ' ', s)
+    s = re.sub(r'(?m)^.*(?:\$\(|document\.|querySelector|addEventListener|function\s*\(|javascript:|window\.|console\.|const\s+\w+\s*=|let\s+\w+\s*=|\bvar\s+\w+\s*=).*$', ' ', s)
     s = re.sub(r'(?m)^\s{0,3}#{1,6}\s*', '', s)
     s = re.sub(r'(?m)^\s*[-*]\s+', ' ', s)
     s = re.sub(r'(?m)^\s*\|(?:[- :]+\|)+\s*$', ' ', s)
     s = re.sub(r'(?m)^\s*---+\s*$', ' ', s)
-    s = re.sub(r'[`{};]+', ' ', s)
-    s = re.sub(r'\s+', ' ', s).strip()
+    s = re.sub(r'[`*_{}]+', ' ', s)
+    s = re.sub(r'\s+', ' ', s).strip(' -|;，、')
     return s[:n].rstrip() + ('…' if len(s)>n else '')
-
 
 def import_outputs():
     """Idempotent reimport: updates source snapshots, never resets human editorial decisions."""
