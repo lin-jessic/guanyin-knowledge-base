@@ -111,9 +111,9 @@
 
 **爬取資料中的敘述**
 
-- `extra_001` 觀音區公所－觀音意象　觀音意象 頁面
+- `extra_001` 桃園市觀音區公所　觀音意象 頁面
   > 「面積達99.83平方公里」
-  - 99.83 平方公里　⏳ 該筆尚無正文，待比對　[原始來源](https://www.guanyin.tycg.gov.tw/cp.aspx?Create=1&n=6874)
+  - 99.83 平方公里　✅ 已在爬取內容中找到原句　[原始來源](https://www.guanyin.tycg.gov.tw/cp.aspx?Create=1&n=6874)
 
 **查證來源**
 

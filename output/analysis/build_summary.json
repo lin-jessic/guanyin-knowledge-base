@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-11-09T00:12:52+08:00",
+  "built_at": "2026-11-09T13:11:19+08:00",
   "records": 77,
   "adapters": [
     "registry",
@@ -11,11 +11,13 @@
   "processing_status": {
     "complete": 72,
     "failed": 1,
-    "partial": 4
+    "unavailable": 1,
+    "partial": 3
   },
-  "analyzed": 70,
+  "analyzed": 71,
   "similar_pairs": 382,
   "log": [
+    "略過臨時測試 ID manual_001（不代表正式來源）",
     "影片模組使用 ID「video_2hbu5n9VLZY」，已依影片網址對應回正式 ID page_026"
   ]
 }

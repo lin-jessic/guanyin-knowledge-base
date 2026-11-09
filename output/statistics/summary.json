@@ -2,42 +2,42 @@
   "total": 77,
   "teacher_total": 31,
   "teacher_crawl_success_rate": 0.968,
-  "teacher_complete_rate": 0.097,
+  "teacher_complete_rate": 0.968,
   "by_type": {
     "web": 67,
     "video": 10
   },
   "by_origin": {
     "teacher": {
-      "partial": 27,
-      "failed": 1,
-      "complete": 3
+      "complete": 30,
+      "failed": 1
     },
     "extra": {
-      "partial": 42,
+      "complete": 42,
       "unavailable": 1,
-      "complete": 3
+      "partial": 3
     }
   },
   "processing_status": {
-    "partial": 69,
+    "complete": 72,
     "failed": 1,
-    "complete": 6,
-    "unavailable": 1
+    "unavailable": 1,
+    "partial": 3
   },
   "crawl_status": {
     "success": 75,
     "failed": 1,
     "unavailable": 1
   },
-  "content_chars": 32171,
-  "article_images": 0,
+  "content_chars": 327337,
+  "article_images": 634,
   "video_frames": 40,
-  "subtitle_segments": 4292,
+  "subtitle_segments": 4219,
   "subtitle_source": {
     "youtube_vtt": 4,
-    "whisper": 5,
-    "no_subtitles": 1
+    "whisper": 4,
+    "no_subtitles": 1,
+    "ocr": 1
   },
   "top_domains": [
     [
@@ -101,84 +101,100 @@
   ],
   "partial_reasons": [
     [
-      "尚無清理後正文／字幕",
-      66
+      "內容品質不足",
+      2
     ],
     [
-      "內容品質不足",
-      3
+      "尚無清理後正文／字幕",
+      1
     ]
   ],
   "topics": [
     [
       "觀光景點",
-      5
+      43
+    ],
+    [
+      "自然景觀",
+      10
     ],
     [
       "歷史文化",
-      1
+      9
+    ],
+    [
+      "宗教信仰",
+      4
+    ],
+    [
+      "地方產業",
+      3
+    ],
+    [
+      "生態保育",
+      2
     ]
   ],
   "top_keywords": [
     [
-      "觀音",
-      3
-    ],
-    [
-      "埤塘",
-      1
-    ],
-    [
       "甘泉寺",
-      1
+      7
     ],
     [
-      "飛機",
-      1
+      "客家",
+      6
     ],
     [
-      "白沙岬燈塔",
-      1
+      "草漯",
+      5
     ],
     [
-      "百合花",
-      1
-    ],
-    [
-      "綠色",
-      1
-    ],
-    [
-      "賞花",
-      1
-    ],
-    [
-      "隧道",
-      1
-    ],
-    [
-      "一日遊",
-      1
+      "石觀音",
+      5
     ],
     [
       "石門水庫",
-      1
+      5
     ],
     [
-      "移民新村",
-      1
+      "觀新藻礁",
+      4
     ],
     [
-      "樹林",
-      1
+      "珍珠海岸",
+      4
     ],
     [
-      "老家",
-      1
+      "海客",
+      3
     ],
     [
-      "居民",
-      1
+      "草漯沙丘",
+      3
+    ],
+    [
+      "燈塔",
+      3
+    ],
+    [
+      "蓮花園",
+      3
+    ],
+    [
+      "大堀溪",
+      3
+    ],
+    [
+      "新坡",
+      3
+    ],
+    [
+      "觀音鄉",
+      2
+    ],
+    [
+      "白千層",
+      2
     ]
   ],
   "verdicts": {

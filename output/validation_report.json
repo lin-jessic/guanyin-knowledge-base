@@ -1,154 +1,664 @@
 {
-  "checked_at": "2026-11-06T15:48:13+08:00",
+  "checked_at": "2026-11-09T13:13:10+08:00",
   "records": 77,
   "claims": 6,
   "errors": 0,
-  "warnings": 63,
-  "infos": 2,
+  "warnings": 0,
+  "infos": 383,
   "issues": [
     {
-      "level": "warning",
-      "code": "no_clean_content",
+      "level": "info",
+      "code": "similar",
       "id": "page_001",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+      "message": "與 page_010 部分相似（相似度 0.644）"
     },
     {
-      "level": "warning",
-      "code": "no_clean_content",
+      "level": "info",
+      "code": "similar",
+      "id": "page_001",
+      "message": "與 page_020 部分相似（相似度 0.559）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_001",
+      "message": "與 page_016 部分相似（相似度 0.505）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_001",
+      "message": "與 page_015 部分相似（相似度 0.477）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_002",
+      "message": "與 page_017 部分相似（相似度 0.714）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_002",
+      "message": "與 page_014 部分相似（相似度 0.694）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_002",
+      "message": "與 page_004 部分相似（相似度 0.66）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_002",
+      "message": "與 page_005 部分相似（相似度 0.604）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_002",
+      "message": "與 page_023 部分相似（相似度 0.598）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_002",
+      "message": "與 page_024 部分相似（相似度 0.588）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_002",
+      "message": "與 page_013 部分相似（相似度 0.581）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_002",
+      "message": "與 page_012 部分相似（相似度 0.579）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_002",
+      "message": "與 page_019 部分相似（相似度 0.548）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_002",
+      "message": "與 page_022 部分相似（相似度 0.546）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_002",
+      "message": "與 page_018 部分相似（相似度 0.529）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_002",
+      "message": "與 page_009 部分相似（相似度 0.5）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_002",
+      "message": "與 page_003 部分相似（相似度 0.487）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_002",
+      "message": "與 page_011 部分相似（相似度 0.483）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_002",
+      "message": "與 page_021 部分相似（相似度 0.448）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
       "id": "page_003",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+      "message": "與 page_013 部分相似（相似度 0.524）"
     },
     {
-      "level": "warning",
-      "code": "no_clean_content",
+      "level": "info",
+      "code": "similar",
+      "id": "page_003",
+      "message": "與 page_014 部分相似（相似度 0.516）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_003",
+      "message": "與 page_017 部分相似（相似度 0.516）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_003",
+      "message": "與 page_004 部分相似（相似度 0.5）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_003",
+      "message": "與 page_005 部分相似（相似度 0.499）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_003",
+      "message": "與 page_023 部分相似（相似度 0.495）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_003",
+      "message": "與 page_012 部分相似（相似度 0.448）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_003",
+      "message": "與 page_022 部分相似（相似度 0.435）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
       "id": "page_004",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+      "message": "與 page_017 部分相似（相似度 0.732）"
     },
     {
-      "level": "warning",
-      "code": "no_clean_content",
+      "level": "info",
+      "code": "similar",
+      "id": "page_004",
+      "message": "與 page_014 部分相似（相似度 0.723）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_004",
+      "message": "與 page_013 部分相似（相似度 0.623）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_004",
+      "message": "與 page_024 部分相似（相似度 0.619）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_004",
+      "message": "與 page_005 部分相似（相似度 0.614）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_004",
+      "message": "與 page_023 部分相似（相似度 0.605）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_004",
+      "message": "與 page_012 部分相似（相似度 0.575）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_004",
+      "message": "與 page_022 部分相似（相似度 0.53）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_004",
+      "message": "與 page_009 部分相似（相似度 0.5）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_004",
+      "message": "與 page_019 部分相似（相似度 0.491）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_004",
+      "message": "與 page_018 部分相似（相似度 0.453）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_004",
+      "message": "與 page_021 部分相似（相似度 0.445）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_004",
+      "message": "與 page_011 部分相似（相似度 0.42）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
       "id": "page_005",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+      "message": "與 page_017 部分相似（相似度 0.654）"
     },
     {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "page_006",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+      "level": "info",
+      "code": "similar",
+      "id": "page_005",
+      "message": "與 page_014 部分相似（相似度 0.647）"
     },
     {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "page_007",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+      "level": "info",
+      "code": "similar",
+      "id": "page_005",
+      "message": "與 page_013 部分相似（相似度 0.562）"
     },
     {
-      "level": "warning",
-      "code": "no_clean_content",
+      "level": "info",
+      "code": "similar",
+      "id": "page_005",
+      "message": "與 page_023 部分相似（相似度 0.552）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_005",
+      "message": "與 page_024 部分相似（相似度 0.543）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_005",
+      "message": "與 page_012 部分相似（相似度 0.521）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_005",
+      "message": "與 page_022 部分相似（相似度 0.503）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_005",
+      "message": "與 page_009 部分相似（相似度 0.462）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_005",
+      "message": "與 page_019 部分相似（相似度 0.441）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_005",
+      "message": "與 page_021 部分相似（相似度 0.436）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_005",
+      "message": "與 page_018 部分相似（相似度 0.409）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_005",
+      "message": "與 page_011 部分相似（相似度 0.4）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
       "id": "page_008",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+      "message": "與 page_013 部分相似（相似度 0.412）"
     },
     {
-      "level": "warning",
-      "code": "no_clean_content",
+      "level": "info",
+      "code": "similar",
+      "id": "page_008",
+      "message": "與 page_014 部分相似（相似度 0.404）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
       "id": "page_009",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+      "message": "與 page_017 部分相似（相似度 0.548）"
     },
     {
-      "level": "warning",
-      "code": "no_clean_content",
+      "level": "info",
+      "code": "similar",
+      "id": "page_009",
+      "message": "與 page_014 部分相似（相似度 0.542）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_009",
+      "message": "與 page_013 部分相似（相似度 0.427）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_009",
+      "message": "與 page_012 部分相似（相似度 0.401）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
       "id": "page_010",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+      "message": "與 page_020 部分相似（相似度 0.546）"
     },
     {
-      "level": "warning",
-      "code": "no_clean_content",
+      "level": "info",
+      "code": "similar",
+      "id": "page_010",
+      "message": "與 page_015 部分相似（相似度 0.455）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_010",
+      "message": "與 page_016 部分相似（相似度 0.41）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
       "id": "page_011",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+      "message": "與 page_017 部分相似（相似度 0.484）"
     },
     {
-      "level": "warning",
-      "code": "no_clean_content",
+      "level": "info",
+      "code": "similar",
+      "id": "page_011",
+      "message": "與 page_014 部分相似（相似度 0.476）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_011",
+      "message": "與 page_023 部分相似（相似度 0.414）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_011",
+      "message": "與 page_018 部分相似（相似度 0.412）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_011",
+      "message": "與 page_024 部分相似（相似度 0.41）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
       "id": "page_012",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+      "message": "與 page_017 部分相似（相似度 0.638）"
     },
     {
-      "level": "warning",
-      "code": "no_clean_content",
+      "level": "info",
+      "code": "similar",
+      "id": "page_012",
+      "message": "與 page_013 部分相似（相似度 0.612）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_012",
+      "message": "與 page_014 部分相似（相似度 0.602）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_012",
+      "message": "與 page_023 部分相似（相似度 0.534）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_012",
+      "message": "與 page_024 部分相似（相似度 0.513）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_012",
+      "message": "與 page_022 部分相似（相似度 0.491）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_012",
+      "message": "與 page_019 部分相似（相似度 0.435）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_012",
+      "message": "與 page_018 部分相似（相似度 0.434）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_012",
+      "message": "與 page_021 部分相似（相似度 0.414）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
       "id": "page_013",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+      "message": "與 page_017 部分相似（相似度 0.665）"
     },
     {
-      "level": "warning",
-      "code": "no_clean_content",
+      "level": "info",
+      "code": "similar",
+      "id": "page_013",
+      "message": "與 page_014 部分相似（相似度 0.642）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_013",
+      "message": "與 page_023 部分相似（相似度 0.564）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_013",
+      "message": "與 page_024 部分相似（相似度 0.537）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_013",
+      "message": "與 page_022 部分相似（相似度 0.511）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_013",
+      "message": "與 page_019 部分相似（相似度 0.455）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_013",
+      "message": "與 page_021 部分相似（相似度 0.448）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_013",
+      "message": "與 page_018 部分相似（相似度 0.443）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
       "id": "page_014",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+      "message": "與 page_017 高度相似（可能轉載或改寫）（相似度 0.819）"
     },
     {
-      "level": "warning",
-      "code": "no_clean_content",
+      "level": "info",
+      "code": "similar",
+      "id": "page_014",
+      "message": "與 page_024 部分相似（相似度 0.683）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_014",
+      "message": "與 page_023 部分相似（相似度 0.639）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_014",
+      "message": "與 page_022 部分相似（相似度 0.574）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_014",
+      "message": "與 page_019 部分相似（相似度 0.551）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_014",
+      "message": "與 page_021 部分相似（相似度 0.473）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_014",
+      "message": "與 page_018 部分相似（相似度 0.465）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_014",
+      "message": "與 page_031 部分相似（相似度 0.42）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
       "id": "page_015",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+      "message": "與 page_016 部分相似（相似度 0.472）"
     },
     {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "page_016",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+      "level": "info",
+      "code": "similar",
+      "id": "page_015",
+      "message": "與 page_020 部分相似（相似度 0.403）"
     },
     {
-      "level": "warning",
-      "code": "no_clean_content",
+      "level": "info",
+      "code": "similar",
       "id": "page_017",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+      "message": "與 page_024 部分相似（相似度 0.682）"
     },
     {
-      "level": "warning",
-      "code": "no_clean_content",
+      "level": "info",
+      "code": "similar",
+      "id": "page_017",
+      "message": "與 page_023 部分相似（相似度 0.66）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_017",
+      "message": "與 page_022 部分相似（相似度 0.587）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_017",
+      "message": "與 page_019 部分相似（相似度 0.567）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_017",
+      "message": "與 page_021 部分相似（相似度 0.486）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_017",
+      "message": "與 page_018 部分相似（相似度 0.479）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_017",
+      "message": "與 page_031 部分相似（相似度 0.43）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
       "id": "page_018",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+      "message": "與 page_023 部分相似（相似度 0.427）"
     },
     {
-      "level": "warning",
-      "code": "no_clean_content",
+      "level": "info",
+      "code": "similar",
+      "id": "page_018",
+      "message": "與 page_024 部分相似（相似度 0.405）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
       "id": "page_019",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+      "message": "與 page_023 部分相似（相似度 0.439）"
     },
     {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "page_020",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
+      "level": "info",
+      "code": "similar",
       "id": "page_021",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+      "message": "與 page_023 部分相似（相似度 0.433）"
     },
     {
-      "level": "warning",
-      "code": "no_clean_content",
+      "level": "info",
+      "code": "similar",
+      "id": "page_021",
+      "message": "與 page_022 部分相似（相似度 0.428）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "page_021",
+      "message": "與 page_024 部分相似（相似度 0.423）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
       "id": "page_022",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+      "message": "與 page_024 部分相似（相似度 0.523）"
     },
     {
-      "level": "warning",
-      "code": "no_clean_content",
+      "level": "info",
+      "code": "similar",
+      "id": "page_022",
+      "message": "與 page_023 部分相似（相似度 0.514）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
       "id": "page_023",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "page_024",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "page_025",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+      "message": "與 page_024 部分相似（相似度 0.585）"
     },
     {
       "level": "info",
@@ -157,244 +667,1642 @@
       "message": "其他模組使用的 ID「video_2hbu5n9VLZY」已對應到 page_026"
     },
     {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "page_028",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "page_029",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "page_031",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
+      "level": "info",
+      "code": "similar",
       "id": "extra_001",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_002",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_006",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_007",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_008",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_009",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_010",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_011",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_012",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_013",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_014",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_015",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_016",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_017",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_018",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_019",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_020",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_021",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_022",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_023",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_024",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_025",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_026",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_027",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_028",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_029",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_030",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_031",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_032",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_033",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_034",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_035",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_036",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_037",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_038",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
-    },
-    {
-      "level": "warning",
-      "code": "no_clean_content",
-      "id": "extra_039",
-      "message": "網頁已取得，但尚無組員 2 的清理後正文"
+      "message": "與 extra_002 高度相似（可能轉載或改寫）（相似度 0.939）"
     },
     {
       "level": "info",
-      "code": "quote_pending",
-      "id": "C05",
-      "message": "extra_001 尚無正文，等內容取得後才能比對引用原句"
+      "code": "similar",
+      "id": "extra_001",
+      "message": "與 extra_009 高度相似（可能轉載或改寫）（相似度 0.881）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_001",
+      "message": "與 page_007 部分相似（相似度 0.444）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_002",
+      "message": "與 extra_009 高度相似（可能轉載或改寫）（相似度 0.895）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_002",
+      "message": "與 page_007 部分相似（相似度 0.402）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 extra_007 高度相似（可能轉載或改寫）（相似度 0.83）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 extra_023 部分相似（相似度 0.694）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 extra_038 部分相似（相似度 0.689）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 extra_014 部分相似（相似度 0.682）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 extra_034 部分相似（相似度 0.627）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 extra_032 部分相似（相似度 0.593）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 extra_037 部分相似（相似度 0.586）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 extra_019 部分相似（相似度 0.571）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 page_002 部分相似（相似度 0.558）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 extra_033 部分相似（相似度 0.556）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 extra_008 部分相似（相似度 0.538）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 page_017 部分相似（相似度 0.534）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 page_014 部分相似（相似度 0.527）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 page_004 部分相似（相似度 0.513）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 page_005 部分相似（相似度 0.458）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 page_018 部分相似（相似度 0.446）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 extra_026 部分相似（相似度 0.438）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 page_013 部分相似（相似度 0.433）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 page_023 部分相似（相似度 0.431）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 page_024 部分相似（相似度 0.431）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 extra_036 部分相似（相似度 0.428）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 extra_018 部分相似（相似度 0.415）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 extra_017 部分相似（相似度 0.409）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 page_012 部分相似（相似度 0.407）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 page_022 部分相似（相似度 0.406）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 extra_016 部分相似（相似度 0.403）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_006",
+      "message": "與 page_019 部分相似（相似度 0.402）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_007",
+      "message": "與 extra_014 部分相似（相似度 0.661）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_007",
+      "message": "與 extra_023 部分相似（相似度 0.657）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_007",
+      "message": "與 extra_038 部分相似（相似度 0.652）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_007",
+      "message": "與 extra_034 部分相似（相似度 0.594）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_007",
+      "message": "與 extra_037 部分相似（相似度 0.576）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_007",
+      "message": "與 extra_032 部分相似（相似度 0.562）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_007",
+      "message": "與 extra_019 部分相似（相似度 0.544）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_007",
+      "message": "與 page_002 部分相似（相似度 0.531）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_007",
+      "message": "與 page_017 部分相似（相似度 0.53）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_007",
+      "message": "與 extra_033 部分相似（相似度 0.527）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_007",
+      "message": "與 extra_008 部分相似（相似度 0.515）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_007",
+      "message": "與 page_014 部分相似（相似度 0.501）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_007",
+      "message": "與 page_004 部分相似（相似度 0.494）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_007",
+      "message": "與 page_005 部分相似（相似度 0.442）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_007",
+      "message": "與 page_018 部分相似（相似度 0.428）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_007",
+      "message": "與 page_023 部分相似（相似度 0.415）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_007",
+      "message": "與 page_024 部分相似（相似度 0.41）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_007",
+      "message": "與 extra_026 部分相似（相似度 0.409）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_007",
+      "message": "與 page_013 部分相似（相似度 0.407）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_007",
+      "message": "與 extra_017 部分相似（相似度 0.407）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_008",
+      "message": "與 extra_023 部分相似（相似度 0.534）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_008",
+      "message": "與 extra_014 部分相似（相似度 0.532）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_008",
+      "message": "與 extra_038 部分相似（相似度 0.515）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_008",
+      "message": "與 extra_019 部分相似（相似度 0.51）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_008",
+      "message": "與 extra_034 部分相似（相似度 0.482）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_008",
+      "message": "與 extra_037 部分相似（相似度 0.448）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_008",
+      "message": "與 page_018 部分相似（相似度 0.444）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_008",
+      "message": "與 extra_032 部分相似（相似度 0.442）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_008",
+      "message": "與 page_002 部分相似（相似度 0.439）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_008",
+      "message": "與 extra_018 部分相似（相似度 0.437）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_008",
+      "message": "與 extra_033 部分相似（相似度 0.433）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_008",
+      "message": "與 page_017 部分相似（相似度 0.414）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_008",
+      "message": "與 extra_028 部分相似（相似度 0.411）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_008",
+      "message": "與 extra_026 部分相似（相似度 0.407）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_008",
+      "message": "與 extra_030 部分相似（相似度 0.406）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_008",
+      "message": "與 extra_016 部分相似（相似度 0.403）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_014",
+      "message": "與 extra_038 部分相似（相似度 0.712）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_014",
+      "message": "與 extra_023 部分相似（相似度 0.701）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_014",
+      "message": "與 extra_034 部分相似（相似度 0.68）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_014",
+      "message": "與 page_014 部分相似（相似度 0.668）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_014",
+      "message": "與 extra_032 部分相似（相似度 0.617）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_014",
+      "message": "與 page_017 部分相似（相似度 0.593）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_014",
+      "message": "與 extra_033 部分相似（相似度 0.584）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_014",
+      "message": "與 extra_019 部分相似（相似度 0.57）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_014",
+      "message": "與 page_004 部分相似（相似度 0.547）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_014",
+      "message": "與 page_002 部分相似（相似度 0.518）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_014",
+      "message": "與 page_013 部分相似（相似度 0.491）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_014",
+      "message": "與 extra_037 部分相似（相似度 0.489）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_014",
+      "message": "與 page_024 部分相似（相似度 0.479）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_014",
+      "message": "與 page_005 部分相似（相似度 0.475）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_014",
+      "message": "與 page_012 部分相似（相似度 0.462）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_014",
+      "message": "與 page_023 部分相似（相似度 0.452）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_014",
+      "message": "與 extra_036 部分相似（相似度 0.433）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_014",
+      "message": "與 page_022 部分相似（相似度 0.427）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_014",
+      "message": "與 extra_018 部分相似（相似度 0.419）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_014",
+      "message": "與 page_018 部分相似（相似度 0.416）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_014",
+      "message": "與 page_019 部分相似（相似度 0.413）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_014",
+      "message": "與 extra_026 部分相似（相似度 0.412）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_015",
+      "message": "與 page_013 部分相似（相似度 0.404）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_016",
+      "message": "與 extra_021 部分相似（相似度 0.68）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_016",
+      "message": "與 extra_018 部分相似（相似度 0.667）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_016",
+      "message": "與 extra_030 部分相似（相似度 0.622）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_016",
+      "message": "與 extra_019 部分相似（相似度 0.574）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_016",
+      "message": "與 extra_028 部分相似（相似度 0.558）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_016",
+      "message": "與 extra_029 部分相似（相似度 0.553）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_016",
+      "message": "與 extra_024 部分相似（相似度 0.548）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_016",
+      "message": "與 extra_017 部分相似（相似度 0.525）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_016",
+      "message": "與 extra_026 部分相似（相似度 0.522）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_016",
+      "message": "與 extra_023 部分相似（相似度 0.52）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_016",
+      "message": "與 extra_020 部分相似（相似度 0.515）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_016",
+      "message": "與 page_018 部分相似（相似度 0.452）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_016",
+      "message": "與 extra_037 部分相似（相似度 0.427）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_017",
+      "message": "與 extra_021 部分相似（相似度 0.61）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_017",
+      "message": "與 extra_019 部分相似（相似度 0.604）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_017",
+      "message": "與 extra_024 部分相似（相似度 0.58）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_017",
+      "message": "與 extra_026 部分相似（相似度 0.556）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_017",
+      "message": "與 extra_020 部分相似（相似度 0.549）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_017",
+      "message": "與 extra_028 部分相似（相似度 0.54）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_017",
+      "message": "與 extra_029 部分相似（相似度 0.536）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_017",
+      "message": "與 extra_018 部分相似（相似度 0.521）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_017",
+      "message": "與 extra_023 部分相似（相似度 0.489）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_017",
+      "message": "與 extra_030 部分相似（相似度 0.48）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_017",
+      "message": "與 extra_037 部分相似（相似度 0.463）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_017",
+      "message": "與 page_018 部分相似（相似度 0.459）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_018",
+      "message": "與 extra_021 部分相似（相似度 0.665）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_018",
+      "message": "與 extra_030 部分相似（相似度 0.628）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_018",
+      "message": "與 extra_019 部分相似（相似度 0.582）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_018",
+      "message": "與 extra_024 部分相似（相似度 0.562）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_018",
+      "message": "與 extra_028 部分相似（相似度 0.553）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_018",
+      "message": "與 extra_023 部分相似（相似度 0.552）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_018",
+      "message": "與 extra_029 部分相似（相似度 0.552）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_018",
+      "message": "與 extra_026 部分相似（相似度 0.533）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_018",
+      "message": "與 extra_020 部分相似（相似度 0.528）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_018",
+      "message": "與 page_018 部分相似（相似度 0.481）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_018",
+      "message": "與 extra_037 部分相似（相似度 0.435）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_018",
+      "message": "與 extra_038 部分相似（相似度 0.414）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_019",
+      "message": "與 extra_024 部分相似（相似度 0.663）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_019",
+      "message": "與 extra_026 部分相似（相似度 0.638）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_019",
+      "message": "與 extra_020 部分相似（相似度 0.636）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_019",
+      "message": "與 extra_023 部分相似（相似度 0.634）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_019",
+      "message": "與 extra_028 部分相似（相似度 0.593）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_019",
+      "message": "與 page_018 部分相似（相似度 0.582）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_019",
+      "message": "與 extra_034 部分相似（相似度 0.575）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_019",
+      "message": "與 extra_029 部分相似（相似度 0.565）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_019",
+      "message": "與 extra_021 部分相似（相似度 0.561）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_019",
+      "message": "與 extra_037 部分相似（相似度 0.556）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_019",
+      "message": "與 extra_038 部分相似（相似度 0.55）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_019",
+      "message": "與 extra_030 部分相似（相似度 0.531）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_019",
+      "message": "與 page_002 部分相似（相似度 0.526）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_019",
+      "message": "與 extra_033 部分相似（相似度 0.508）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_019",
+      "message": "與 extra_032 部分相似（相似度 0.498）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_019",
+      "message": "與 page_013 部分相似（相似度 0.484）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_019",
+      "message": "與 page_017 部分相似（相似度 0.477）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_019",
+      "message": "與 page_012 部分相似（相似度 0.452）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_019",
+      "message": "與 page_014 部分相似（相似度 0.451）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_019",
+      "message": "與 page_004 部分相似（相似度 0.422）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_019",
+      "message": "與 page_023 部分相似（相似度 0.401）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_020",
+      "message": "與 extra_024 部分相似（相似度 0.686）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_020",
+      "message": "與 extra_026 部分相似（相似度 0.613）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_020",
+      "message": "與 extra_029 部分相似（相似度 0.557）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_020",
+      "message": "與 extra_028 部分相似（相似度 0.549）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_020",
+      "message": "與 extra_021 部分相似（相似度 0.518）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_020",
+      "message": "與 extra_023 部分相似（相似度 0.494）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_020",
+      "message": "與 extra_030 部分相似（相似度 0.485）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_020",
+      "message": "與 page_018 部分相似（相似度 0.446）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_020",
+      "message": "與 extra_037 部分相似（相似度 0.426）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_021",
+      "message": "與 extra_030 部分相似（相似度 0.627）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_021",
+      "message": "與 extra_028 部分相似（相似度 0.558）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_021",
+      "message": "與 extra_029 部分相似（相似度 0.556）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_021",
+      "message": "與 extra_024 部分相似（相似度 0.551）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_021",
+      "message": "與 extra_023 部分相似（相似度 0.53）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_021",
+      "message": "與 extra_026 部分相似（相似度 0.518）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_021",
+      "message": "與 page_018 部分相似（相似度 0.449）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_021",
+      "message": "與 extra_037 部分相似（相似度 0.426）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_022",
+      "message": "與 extra_032 部分相似（相似度 0.665）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_023",
+      "message": "與 extra_038 部分相似（相似度 0.728）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_023",
+      "message": "與 extra_034 部分相似（相似度 0.672）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_023",
+      "message": "與 extra_032 部分相似（相似度 0.65）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_023",
+      "message": "與 extra_033 部分相似（相似度 0.638）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_023",
+      "message": "與 page_017 部分相似（相似度 0.572）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_023",
+      "message": "與 extra_037 部分相似（相似度 0.563）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_023",
+      "message": "與 page_002 部分相似（相似度 0.561）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_023",
+      "message": "與 page_014 部分相似（相似度 0.551）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_023",
+      "message": "與 page_023 部分相似（相似度 0.547）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_023",
+      "message": "與 extra_026 部分相似（相似度 0.539）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_023",
+      "message": "與 page_004 部分相似（相似度 0.511）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_023",
+      "message": "與 extra_024 部分相似（相似度 0.508）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_023",
+      "message": "與 page_013 部分相似（相似度 0.505）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_023",
+      "message": "與 extra_030 部分相似（相似度 0.49）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_023",
+      "message": "與 page_024 部分相似（相似度 0.487）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_023",
+      "message": "與 page_012 部分相似（相似度 0.485）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_023",
+      "message": "與 page_018 部分相似（相似度 0.475）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_023",
+      "message": "與 extra_028 部分相似（相似度 0.472）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_023",
+      "message": "與 extra_035 部分相似（相似度 0.469）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_023",
+      "message": "與 extra_036 部分相似（相似度 0.463）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_023",
+      "message": "與 page_005 部分相似（相似度 0.462）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_023",
+      "message": "與 extra_029 部分相似（相似度 0.459）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_023",
+      "message": "與 page_022 部分相似（相似度 0.443）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_023",
+      "message": "與 page_019 部分相似（相似度 0.41）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_023",
+      "message": "與 page_011 部分相似（相似度 0.402）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_024",
+      "message": "與 extra_026 部分相似（相似度 0.633）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_024",
+      "message": "與 extra_028 部分相似（相似度 0.575）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_024",
+      "message": "與 extra_029 部分相似（相似度 0.573）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_024",
+      "message": "與 extra_030 部分相似（相似度 0.509）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_024",
+      "message": "與 page_018 部分相似（相似度 0.463）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_024",
+      "message": "與 extra_037 部分相似（相似度 0.422）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_024",
+      "message": "與 extra_034 部分相似（相似度 0.403）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_026",
+      "message": "與 extra_028 部分相似（相似度 0.563）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_026",
+      "message": "與 page_018 部分相似（相似度 0.558）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_026",
+      "message": "與 extra_029 部分相似（相似度 0.524）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_026",
+      "message": "與 extra_030 部分相似（相似度 0.475）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_026",
+      "message": "與 extra_038 部分相似（相似度 0.472）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_026",
+      "message": "與 extra_037 部分相似（相似度 0.447）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_026",
+      "message": "與 extra_034 部分相似（相似度 0.416）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_026",
+      "message": "與 page_002 部分相似（相似度 0.409）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_026",
+      "message": "與 extra_032 部分相似（相似度 0.403）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_028",
+      "message": "與 extra_029 高度相似（可能轉載或改寫）（相似度 0.771）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_028",
+      "message": "與 extra_030 部分相似（相似度 0.52）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_028",
+      "message": "與 page_018 部分相似（相似度 0.472）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_029",
+      "message": "與 extra_030 部分相似（相似度 0.506）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_029",
+      "message": "與 page_018 部分相似（相似度 0.432）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_030",
+      "message": "與 page_018 部分相似（相似度 0.428）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_030",
+      "message": "與 extra_037 部分相似（相似度 0.409）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_032",
+      "message": "與 extra_038 部分相似（相似度 0.692）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_032",
+      "message": "與 extra_034 部分相似（相似度 0.64）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_032",
+      "message": "與 extra_033 部分相似（相似度 0.582）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_032",
+      "message": "與 page_017 部分相似（相似度 0.547）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_032",
+      "message": "與 page_014 部分相似（相似度 0.511）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_032",
+      "message": "與 page_002 部分相似（相似度 0.503）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_032",
+      "message": "與 extra_036 部分相似（相似度 0.486）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_032",
+      "message": "與 page_004 部分相似（相似度 0.468）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_032",
+      "message": "與 extra_037 部分相似（相似度 0.454）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_032",
+      "message": "與 page_012 部分相似（相似度 0.454）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_032",
+      "message": "與 extra_035 部分相似（相似度 0.449）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_032",
+      "message": "與 page_013 部分相似（相似度 0.433）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_032",
+      "message": "與 page_023 部分相似（相似度 0.427）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_032",
+      "message": "與 page_005 部分相似（相似度 0.418）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_032",
+      "message": "與 page_022 部分相似（相似度 0.405）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_033",
+      "message": "與 extra_034 部分相似（相似度 0.654）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_033",
+      "message": "與 extra_038 部分相似（相似度 0.629）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_033",
+      "message": "與 page_017 部分相似（相似度 0.523）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_033",
+      "message": "與 page_002 部分相似（相似度 0.501）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_033",
+      "message": "與 page_014 部分相似（相似度 0.5）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_033",
+      "message": "與 page_004 部分相似（相似度 0.467）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_033",
+      "message": "與 page_013 部分相似（相似度 0.46）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_033",
+      "message": "與 page_012 部分相似（相似度 0.458）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_033",
+      "message": "與 page_023 部分相似（相似度 0.446）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_033",
+      "message": "與 extra_037 部分相似（相似度 0.446）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_033",
+      "message": "與 extra_036 部分相似（相似度 0.436）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_033",
+      "message": "與 page_005 部分相似（相似度 0.418）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_034",
+      "message": "與 extra_038 部分相似（相似度 0.707）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_034",
+      "message": "與 page_017 部分相似（相似度 0.589）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_034",
+      "message": "與 page_014 部分相似（相似度 0.587）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_034",
+      "message": "與 page_002 部分相似（相似度 0.559）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_034",
+      "message": "與 page_004 部分相似（相似度 0.534）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_034",
+      "message": "與 page_013 部分相似（相似度 0.512）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_034",
+      "message": "與 extra_037 部分相似（相似度 0.494）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_034",
+      "message": "與 extra_036 部分相似（相似度 0.484）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_034",
+      "message": "與 page_023 部分相似（相似度 0.474）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_034",
+      "message": "與 page_012 部分相似（相似度 0.472）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_034",
+      "message": "與 page_005 部分相似（相似度 0.464）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_034",
+      "message": "與 extra_035 部分相似（相似度 0.464）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_034",
+      "message": "與 page_022 部分相似（相似度 0.442）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_034",
+      "message": "與 page_018 部分相似（相似度 0.42）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_035",
+      "message": "與 extra_038 部分相似（相似度 0.435）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_036",
+      "message": "與 extra_038 部分相似（相似度 0.507）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_037",
+      "message": "與 extra_038 部分相似（相似度 0.521）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_037",
+      "message": "與 page_002 部分相似（相似度 0.496）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_037",
+      "message": "與 page_018 部分相似（相似度 0.442）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_038",
+      "message": "與 page_017 部分相似（相似度 0.589）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_038",
+      "message": "與 page_014 部分相似（相似度 0.578）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_038",
+      "message": "與 page_002 部分相似（相似度 0.547）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_038",
+      "message": "與 page_004 部分相似（相似度 0.519）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_038",
+      "message": "與 page_023 部分相似（相似度 0.478）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_038",
+      "message": "與 page_013 部分相似（相似度 0.471）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_038",
+      "message": "與 page_018 部分相似（相似度 0.465）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_038",
+      "message": "與 page_005 部分相似（相似度 0.461）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_038",
+      "message": "與 page_012 部分相似（相似度 0.451）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_038",
+      "message": "與 page_022 部分相似（相似度 0.436）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_038",
+      "message": "與 extra_039 部分相似（相似度 0.417）"
+    },
+    {
+      "level": "info",
+      "code": "similar",
+      "id": "extra_038",
+      "message": "與 page_019 部分相似（相似度 0.403）"
     }
   ]
 }
