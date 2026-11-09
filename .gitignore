@@ -39,3 +39,10 @@ output/links/
 output/crawl_report.csv
 urls.backup_*.csv
 /tools/ffmpeg/
+
+
+storage/*.db
+storage/*.db-shm
+storage/*.db-wal
+.env
+__pycache__/
