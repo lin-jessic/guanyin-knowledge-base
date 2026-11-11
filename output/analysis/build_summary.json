@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-11-09T13:11:19+08:00",
+  "built_at": "2026-11-11T23:14:08+08:00",
   "records": 77,
   "adapters": [
     "registry",
@@ -10,14 +10,14 @@
   ],
   "processing_status": {
     "complete": 72,
-    "failed": 1,
-    "unavailable": 1,
-    "partial": 3
+    "partial": 4,
+    "unavailable": 1
   },
-  "analyzed": 71,
-  "similar_pairs": 382,
+  "analyzed": 70,
+  "similar_pairs": 7,
   "log": [
-    "略過臨時測試 ID manual_001（不代表正式來源）",
+    "找不到 output/crawl_report.csv，改用 site/index.html 內嵌的爬取紀錄（77 筆，為建站當時的快照；沒有 raw_html，網頁內容仍需組員 2 產生）",
+    "page_002 爬取紀錄為「HTTP 404」，組員 2 於 2026-11-08 重新取得正文，採用較新的結果",
     "影片模組使用 ID「video_2hbu5n9VLZY」，已依影片網址對應回正式 ID page_026"
   ]
 }

@@ -212,6 +212,20 @@ class BuilderTests(unittest.TestCase):
         self.assertTrue(any('site/index.html' in m for m in res['log']))
         self.assertIn(('無法確認 robots.txt（保守停止）', 1), compute(res['records'], [])['failure_reasons'])
 
+    def test_newer_article_overrides_old_failure_and_markdown_cleaned(self):
+        """快照時 404、之後組員 2 重抓成功 → 採用較新的文章；Markdown 網址轉成純文字。"""
+        (self.ws.root / 'output' / 'articles' / 'page_004.json').write_text(json.dumps({
+            'id': 'page_004', 'title': '重新取得', 'crawled_at': '2026-11-08T10:00:00+08:00',
+            'content': '## 標題\n- [導航](https://www.google.com/maps/x) 觀音區海岸有遼闊的沙灘與防風林，適合散步與觀察生態。'
+                       '\n$(function () { $(\'[tab-cp]\').each(function () {});'}, ensure_ascii=False), encoding='utf-8')
+        res = build(self.ws.root, write=False, verbose=False)
+        rec = {r['id']: r for r in res['records']}['page_004']
+        self.assertEqual(rec['crawl_status'], 'success')
+        self.assertEqual(rec['pipeline']['refetched']['old_reason'], 'HTTP 404')
+        self.assertNotIn('https://', rec['content'])
+        self.assertIn('導航', rec['content'])
+        self.assertTrue(any('程式碼' in f for f in rec['quality_flags']))
+
     def test_new_source_added_later_appears(self):
         """擴充性：之後在 urls.csv 新增網址，重新建置就會出現（狀態 pending）。"""
         with open(self.ws.root / 'urls.csv', 'a', encoding='utf-8', newline='') as f:

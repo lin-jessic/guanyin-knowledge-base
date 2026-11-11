@@ -282,12 +282,19 @@ def parse_markdown_article(text: str) -> dict:
     images = []
     for m in re.finditer(r"!\[([^\]]*)\]\(([^)\s]+)\)(?:\s*\n\s*\*?[^\n]*?來源[:：]\s*<?(https?://[^\s>*]+))?", body):
         images.append({"file": m.group(2).replace("../", ""), "caption": m.group(1), "source_url": m.group(3) or ""})
-    plain = re.sub(r"!\[[^\]]*\]\([^)]*\)", "", body)
-    plain = re.sub(r"\[([^\]]+)\]\([^)]*\)", r"\1", plain)
+    return {**meta, "content": markdown_to_text(body), "images": images}
+
+
+def markdown_to_text(text: str) -> str:
+    """Markdown → 純文字：去掉圖片、連結網址、標題符號、表格線。
+    content 要放「清洗後文字」；網址留著會讓同網站頁面的相似度被灌高。"""
+    plain = re.sub(r"!\[[^\]]*\]\([^)]*\)", "", text)
+    plain = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", plain)
+    plain = re.sub(r"<?https?://\S+>?", "", plain)
+    plain = re.sub(r"^\s*[-*+]\s+", "", plain, flags=re.M)
     plain = re.sub(r"^#{1,6}\s*", "", plain, flags=re.M)
     plain = re.sub(r"[*_`>|]", "", plain)
-    plain = "\n".join(l.strip() for l in plain.splitlines() if l.strip() and not set(l.strip()) <= set("-: "))
-    return {**meta, "content": plain, "images": images}
+    return "\n".join(l.strip() for l in plain.splitlines() if l.strip() and not set(l.strip()) <= set("-: "))
 
 
 @register
@@ -322,7 +329,7 @@ class ArticleAdapter(SourceAdapter):
                 ctx.note(f"文章 {path.name} 對不到 urls.csv 中的來源，略過")
                 continue
             rec = records[rid]
-            content = str(data.get("content", "")).strip()
+            content = markdown_to_text(str(data.get("content", "")))
             rec["content"] = content
             rec["content_source"] = f"articles/{path.name}"
             rec["content_status"] = "ok" if len(compact(content)) >= min_chars else "low_quality"
@@ -344,8 +351,16 @@ class ArticleAdapter(SourceAdapter):
             rec["images"] = imgs
             if data.get("links"):
                 rec["links"] = normalize_links(data["links"], rec["final_url"] or rec["source_url"])
-            if rec["crawl_status"] == "pending":  # 有文章表示已取得網頁
+            newer = str(data.get("crawled_at") or "") > str(rec["crawled_at"] or "")
+            if rec["crawl_status"] == "pending" or (newer and compact(content)):
+                # 有文章表示已取得網頁；文章比爬取紀錄新（例如快照時 404、之後重抓成功）就採用文章
+                if rec["crawl_status"] in ("failed", "unavailable"):
+                    rec["pipeline"]["refetched"] = {"old_status": rec["crawl_status"], "old_reason": rec["crawl_reason"],
+                                                    "article_crawled_at": data.get("crawled_at", "")}
+                    ctx.note(f"{rid} 爬取紀錄為「{rec['crawl_reason']}」，組員 2 於 "
+                             f"{str(data.get('crawled_at', ''))[:10]} 重新取得正文，採用較新的結果")
                 rec["crawl_status"], rec["crawl_reason"] = "success", ""
+                rec["crawled_at"] = data.get("crawled_at") or rec["crawled_at"]
             rec["pipeline"]["content"] = {"file": rec["content_source"], "status": rec["content_status"],
                                           "chars": len(compact(content)), "images": len(imgs)}
 

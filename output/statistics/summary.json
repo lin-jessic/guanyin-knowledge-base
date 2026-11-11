@@ -1,7 +1,7 @@
 {
   "total": 77,
   "teacher_total": 31,
-  "teacher_crawl_success_rate": 0.968,
+  "teacher_crawl_success_rate": 1.0,
   "teacher_complete_rate": 0.968,
   "by_type": {
     "web": 67,
@@ -10,7 +10,7 @@
   "by_origin": {
     "teacher": {
       "complete": 30,
-      "failed": 1
+      "partial": 1
     },
     "extra": {
       "complete": 42,
@@ -20,16 +20,14 @@
   },
   "processing_status": {
     "complete": 72,
-    "failed": 1,
-    "unavailable": 1,
-    "partial": 3
-  },
-  "crawl_status": {
-    "success": 75,
-    "failed": 1,
+    "partial": 4,
     "unavailable": 1
   },
-  "content_chars": 327337,
+  "crawl_status": {
+    "success": 76,
+    "unavailable": 1
+  },
+  "content_chars": 189771,
   "article_images": 634,
   "video_frames": 40,
   "subtitle_segments": 4219,
@@ -91,10 +89,6 @@
   ],
   "failure_reasons": [
     [
-      "HTTP 404",
-      1
-    ],
-    [
       "無法確認 robots.txt（保守停止）",
       1
     ]
@@ -102,7 +96,7 @@
   "partial_reasons": [
     [
       "內容品質不足",
-      2
+      3
     ],
     [
       "尚無清理後正文／字幕",
@@ -112,19 +106,19 @@
   "topics": [
     [
       "觀光景點",
-      43
-    ],
-    [
-      "自然景觀",
-      10
+      44
     ],
     [
       "歷史文化",
       9
     ],
     [
+      "自然景觀",
+      9
+    ],
+    [
       "宗教信仰",
-      4
+      3
     ],
     [
       "地方產業",
@@ -141,11 +135,11 @@
       7
     ],
     [
-      "客家",
-      6
+      "草漯",
+      5
     ],
     [
-      "草漯",
+      "客家",
       5
     ],
     [
@@ -155,6 +149,10 @@
     [
       "石門水庫",
       5
+    ],
+    [
+      "新坡",
+      4
     ],
     [
       "觀新藻礁",
@@ -173,10 +171,6 @@
       3
     ],
     [
-      "燈塔",
-      3
-    ],
-    [
       "蓮花園",
       3
     ],
@@ -185,7 +179,7 @@
       3
     ],
     [
-      "新坡",
+      "觀音溪",
       3
     ],
     [
@@ -198,9 +192,8 @@
     ]
   ],
   "verdicts": {
-    "有衝突": 4,
-    "已證實": 1,
-    "資料不足": 1
+    "有衝突": 5,
+    "已證實": 2
   },
-  "claims": 6
+  "claims": 7
 }

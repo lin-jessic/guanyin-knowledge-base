@@ -210,10 +210,19 @@ def find_duplicates(docs: dict[str, dict], high=0.75, partial=0.4, min_chars=50)
 
 
 # ---------------------------------------------------------------- 字幕雜訊
+CODE_LINE = re.compile(r"\$\(|function\s*\(|=>|\};?\s*$|^\s*[{}]|\.(click|each|attr|addClass|removeClass)\(|"
+                       r"preventDefault|javascript:|document\.|window\.|var\s+\w+\s*=|跳過此[子主]?選單|按\[Enter\]")
+
+
+def code_residue(text: str) -> int:
+    """數出看起來像程式碼或網站選單的行（正文清理沒清乾淨）。"""
+    return sum(1 for l in text.splitlines() if CODE_LINE.search(l))
+
+
 def clean_for_analysis(text: str) -> str:
-    """分析前的清理（不改動原始 content）：拿掉 [music] 標記、重複超過 3 次的句子。"""
+    """分析前的清理（不改動原始 content）：拿掉程式碼殘留、[music] 標記、重複超過 3 次的句子。"""
     lines = [re.sub(r"\[(music|音樂|掌聲|applause)\]", "", l, flags=re.I).strip() for l in text.splitlines()]
-    lines = [l for l in lines if l]
+    lines = [l for l in lines if l and not CODE_LINE.search(l)]
     counts = Counter(lines)
     return "\n".join(l for l in lines if counts[l] <= 3)
 

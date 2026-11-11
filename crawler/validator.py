@@ -124,6 +124,9 @@ def check_records(records: list[dict], root: Path, output_dir: Path, issues: Iss
         if r.get("type") == "web" and status == "success" and r.get("content_status") == "missing" \
                 and r.get("source_role") != "discovery":
             issues.add("warning", "no_clean_content", rid, "網頁已取得，但尚無組員 2 的清理後正文")
+        for flag in r.get("quality_flags") or []:
+            if "程式碼或網站選單殘留" in flag:
+                issues.add("warning", "code_residue", rid, flag)
 
         # 圖片：檔案存在、有原始網址、對應到本篇
         for img in r.get("images") or []:

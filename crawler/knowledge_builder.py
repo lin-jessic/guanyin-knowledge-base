@@ -24,8 +24,8 @@ import re
 from collections import Counter
 from pathlib import Path
 
-from .kb_analysis import (TextTools, classify, clean_for_analysis, extract_keywords, find_duplicates,
-                          transcript_noise)
+from .kb_analysis import (TextTools, classify, clean_for_analysis, code_residue, extract_keywords,
+                          find_duplicates, transcript_noise)
 from .kb_schema import PROCESSING_STATUS, compact, finalize_status, now_iso
 from .kb_sources import ADAPTERS, BuildContext
 
@@ -70,6 +70,8 @@ def build(root: str | Path = ".", options: dict | None = None, write: bool = Tru
                 rec["content_status"] = "low_quality"
                 rec["quality_flags"].append("字幕雜訊過多，不納入分類與關鍵字（原文仍保留）")
                 finalize_status(rec)
+        elif rec["type"] == "web" and (n := code_residue(rec["content"])):
+            rec["quality_flags"].append(f"正文含 {n} 行程式碼或網站選單殘留（請組員 2 清理；分析時已略過）")
 
     # 3. 分析：只用可用內容、而且不是目錄頁
     tools = TextTools()
